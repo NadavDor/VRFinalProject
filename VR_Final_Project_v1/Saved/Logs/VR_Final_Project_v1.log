@@ -1667,3 +1667,7 @@ Scale3D: 1.000000 1.000000 1.000000
 [2019.08.19-16.55.53:151][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.08.19-16.55.53:278][248]LogPlayLevel: Display: Destroying online subsystem :Context_43
 [2019.08.19-16.57.03:479][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-17.03.33:289][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_DirtPath_3)
+[2019.08.19-17.03.35:651][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-17.03.40:768][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-17.05.38:044][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
