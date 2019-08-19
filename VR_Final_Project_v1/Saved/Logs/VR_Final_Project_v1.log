@@ -641,3 +641,1029 @@ Scale3D: 1.000000 1.000000 1.000000
 [2019.08.19-15.39.11:936][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.08.19-15.39.12:022][592]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2019.08.19-15.39.56:933][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.45.04:552][246]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-15.45.04:577][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl2/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/Levels/lvl2/level2.level2_C' with ClassGeneratedBy '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2'
+[2019.08.19-15.45.04:577][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-15.45.04:577][246]PIE: New page: PIE session: level2 (19 באוג׳ 2019, 21:45:04)
+[2019.08.19-15.45.04:578][246]LogPlayLevel: Creating play world package: /Game/Levels/lvl2/UEDPIE_0_level2
+[2019.08.19-15.45.04:661][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082914s)
+[2019.08.19-15.45.04:661][246]LogAIModule: Creating AISystem for world level2
+[2019.08.19-15.45.04:662][246]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2019.08.19-15.45.04:662][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl2/level2.level2 to /Game/Levels/lvl2/UEDPIE_0_level2.level2 (0.084063s)
+[2019.08.19-15.45.04:690][246]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-15.45.04:709][246]LogInit: FAudioDevice initialized.
+[2019.08.19-15.45.04:741][246]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-15.45.04:783][246]LogWorld: Bringing World /Game/Levels/lvl2/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2019.08.19-18.45.04
+[2019.08.19-15.45.04:784][246]LogWorld: Bringing up level for play took: 0.042921
+[2019.08.19-15.45.04:800][246]PIE: Play in editor start time for /Game/Levels/lvl2/UEDPIE_0_level2 0.247
+[2019.08.19-15.45.04:801][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl2/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/Levels/lvl2/level2.level2_C' with ClassGeneratedBy '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2'
+[2019.08.19-15.45.09:423][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl2/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/Levels/lvl2/level2.level2_C' with ClassGeneratedBy '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2'
+[2019.08.19-15.45.09:423][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.45.09:490][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-15.45.09:491][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl2/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/Levels/lvl2/level2.level2_C' with ClassGeneratedBy '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2'
+[2019.08.19-15.45.09:515][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.45.09:554][458]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.19-15.45.13:792][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.45.26:100][938]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.19-15.45.26:902][938]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.08.19-15.45.27:687][938]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.19-15.45.27:833][939]LogSlate: Took 0.000527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.19-15.45.30:629][992]LogSlate: Took 0.005565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.19-15.45.38:171][112]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.19-15.45.38:316][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPersonIdle.Poly_ThirdPersonIdle
+[2019.08.19-15.45.38:316][112]LogAnimationCompression: Recompressing (AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPersonIdle.Poly_ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.19-15.45.38:442][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPersonWalk.Poly_ThirdPersonWalk
+[2019.08.19-15.45.38:442][112]LogAnimationCompression: Recompressing (AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPersonWalk.Poly_ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.19-15.45.38:483][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPerson_Jump.Poly_ThirdPerson_Jump
+[2019.08.19-15.45.38:483][112]LogAnimationCompression: Recompressing (AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPerson_Jump.Poly_ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.19-15.45.38:496][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPersonJump_Loop.Poly_ThirdPersonJump_Loop
+[2019.08.19-15.45.38:496][112]LogAnimationCompression: Recompressing (AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPersonJump_Loop.Poly_ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.19-15.45.38:522][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPersonJump_Start.Poly_ThirdPersonJump_Start
+[2019.08.19-15.45.38:522][112]LogAnimationCompression: Recompressing (AnimSequence /Game/PolygonSamurai/Characters/Animations/Poly_ThirdPersonJump_Start.Poly_ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.19-15.45.41:993][174]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.19-15.45.46:687][257]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-15.45.46:746][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl2/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/Levels/lvl2/level2.level2_C' with ClassGeneratedBy '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2'
+[2019.08.19-15.45.46:746][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-15.45.46:747][257]PIE: New page: PIE session: level2 (19 באוג׳ 2019, 21:45:46)
+[2019.08.19-15.45.46:747][257]LogPlayLevel: Creating play world package: /Game/Levels/lvl2/UEDPIE_0_level2
+[2019.08.19-15.45.47:007][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.259898s)
+[2019.08.19-15.45.47:008][257]LogAIModule: Creating AISystem for world level2
+[2019.08.19-15.45.47:008][257]LogPlayLevel: PIE: World Init took: (0.001323s)
+[2019.08.19-15.45.47:009][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl2/level2.level2 to /Game/Levels/lvl2/UEDPIE_0_level2.level2 (0.262142s)
+[2019.08.19-15.45.47:088][257]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-15.45.47:127][257]LogInit: FAudioDevice initialized.
+[2019.08.19-15.45.47:166][257]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-15.45.47:226][257]LogWorld: Bringing World /Game/Levels/lvl2/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2019.08.19-18.45.47
+[2019.08.19-15.45.47:227][257]LogWorld: Bringing up level for play took: 0.060624
+[2019.08.19-15.45.47:245][257]PIE: Play in editor start time for /Game/Levels/lvl2/UEDPIE_0_level2 0.692
+[2019.08.19-15.45.47:245][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl2/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/Levels/lvl2/level2.level2_C' with ClassGeneratedBy '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2'
+[2019.08.19-15.45.54:080][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl2/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/Levels/lvl2/level2.level2_C' with ClassGeneratedBy '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2'
+[2019.08.19-15.45.54:081][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.45.54:231][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-15.45.54:233][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl2/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/Levels/lvl2/level2.level2_C' with ClassGeneratedBy '/Game/Levels/lvl2/level2.level2:PersistentLevel.level2'
+[2019.08.19-15.45.54:361][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.45.54:478][383]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.08.19-15.45.59:803][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.46.09:879][604]LogAIModule: Creating AISystem for world level1
+[2019.08.19-15.46.09:926][604]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/lvl1/level1.level1
+[2019.08.19-15.46.14:314][604]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-15.46.14:402][604]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonCharacter746F870A4C89F47B72B045B079E7941C.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.08.19-15.46.14:406][604]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-15.46.14:406][604]LightingResults: New page: Lighting Build
+[2019.08.19-15.46.14:407][604]LoadErrors: New page: Loading map: level1.umap
+[2019.08.19-15.46.14:417][604]MapCheck: New page: Map Check
+[2019.08.19-15.46.14:417][604]LightingResults: New page: Lighting Build
+[2019.08.19-15.46.14:506][604]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-15.46.14:564][604]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-15.46.14:564][604]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.383ms to complete.
+[2019.08.19-15.46.14:564][604]LogFileHelpers: Loading map 'level1' took 0.158
+[2019.08.19-15.46.18:471][721]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-15.46.18:517][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.46.18:517][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-15.46.18:517][721]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 21:46:18)
+[2019.08.19-15.46.18:518][721]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-15.46.18:806][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.287737s)
+[2019.08.19-15.46.18:808][721]LogAIModule: Creating AISystem for world level1
+[2019.08.19-15.46.18:808][721]LogPlayLevel: PIE: World Init took: (0.001943s)
+[2019.08.19-15.46.18:809][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.292023s)
+[2019.08.19-15.46.18:899][721]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-15.46.18:938][721]LogInit: FAudioDevice initialized.
+[2019.08.19-15.46.18:974][721]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-15.46.19:057][721]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-18.46.19
+[2019.08.19-15.46.19:059][721]LogWorld: Bringing up level for play took: 0.085172
+[2019.08.19-15.46.19:076][721]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 0.523
+[2019.08.19-15.46.19:077][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.46.31:796][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.46.31:796][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.46.31:916][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-15.46.31:918][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.46.32:013][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.46.32:112][983]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.08.19-15.46.42:251][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.46.42:409][169]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.19-15.46.42:475][169]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.19-15.46.44:285][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.46.45:709][229]LogRenderer: Reallocating scene render targets to support 2472x504 Format 10 NumSamples 1 (Frame:386).
+[2019.08.19-15.46.45:869][230]LogRenderer: Reallocating scene render targets to support 2472x520 Format 10 NumSamples 1 (Frame:388).
+[2019.08.19-15.46.46:021][231]LogRenderer: Reallocating scene render targets to support 2472x536 Format 10 NumSamples 1 (Frame:390).
+[2019.08.19-15.46.46:166][232]LogRenderer: Reallocating scene render targets to support 2472x552 Format 10 NumSamples 1 (Frame:392).
+[2019.08.19-15.46.46:309][233]LogRenderer: Reallocating scene render targets to support 2472x560 Format 10 NumSamples 1 (Frame:394).
+[2019.08.19-15.48.06:111][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_DirtPath_3)
+[2019.08.19-15.48.15:455][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.48.15:562][998]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-15.48.15:602][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.48.15:603][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-15.48.15:603][998]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 21:48:15)
+[2019.08.19-15.48.15:603][998]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-15.48.15:872][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.268910s)
+[2019.08.19-15.48.15:873][998]LogAIModule: Creating AISystem for world level1
+[2019.08.19-15.48.15:873][998]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2019.08.19-15.48.15:874][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.270816s)
+[2019.08.19-15.48.15:963][998]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-15.48.16:002][998]LogInit: FAudioDevice initialized.
+[2019.08.19-15.48.16:043][998]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-15.48.16:120][998]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-18.48.16
+[2019.08.19-15.48.16:123][998]LogWorld: Bringing up level for play took: 0.080213
+[2019.08.19-15.48.16:141][998]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 ‎-0.412
+[2019.08.19-15.48.16:142][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.48.31:746][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.48.31:747][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.48.31:855][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-15.48.31:856][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.48.31:961][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.48.32:044][333]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.19-15.49.03:084][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.51.15:794][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.51.15:942][518]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-15.51.15:980][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.51.15:981][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-15.51.15:981][518]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 21:51:15)
+[2019.08.19-15.51.15:981][518]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-15.51.16:304][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.323204s)
+[2019.08.19-15.51.16:306][518]LogAIModule: Creating AISystem for world level1
+[2019.08.19-15.51.16:306][518]LogPlayLevel: PIE: World Init took: (0.001762s)
+[2019.08.19-15.51.16:307][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.326073s)
+[2019.08.19-15.51.16:406][518]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-15.51.16:454][518]LogInit: FAudioDevice initialized.
+[2019.08.19-15.51.16:493][518]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-15.51.16:575][518]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-18.51.16
+[2019.08.19-15.51.16:576][518]LogWorld: Bringing up level for play took: 0.081906
+[2019.08.19-15.51.16:595][518]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 0.042
+[2019.08.19-15.51.16:595][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.51.24:086][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.51.24:087][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.51.24:210][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-15.51.24:211][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.51.24:322][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.51.24:417][668]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.19-15.51.31:342][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.08.19-15.51.32:067][800]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-15.51.36:447][879]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.08.19-15.51.38:573][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.51.42:472][985]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.08.19-15.51.46:952][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.51.47:109][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-15.51.47:151][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.51.47:151][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-15.51.47:152][ 68]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 21:51:47)
+[2019.08.19-15.51.47:152][ 68]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-15.51.47:439][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.287062s)
+[2019.08.19-15.51.47:440][ 68]LogAIModule: Creating AISystem for world level1
+[2019.08.19-15.51.47:441][ 68]LogPlayLevel: PIE: World Init took: (0.001828s)
+[2019.08.19-15.51.47:442][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.290387s)
+[2019.08.19-15.51.47:527][ 68]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-15.51.47:570][ 68]LogInit: FAudioDevice initialized.
+[2019.08.19-15.51.47:608][ 68]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-15.51.47:669][ 68]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-18.51.47
+[2019.08.19-15.51.47:671][ 68]LogWorld: Bringing up level for play took: 0.061575
+[2019.08.19-15.51.47:689][ 68]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 1.136
+[2019.08.19-15.51.47:690][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.52.03:826][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.52.03:827][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.52.03:946][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-15.52.03:947][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.52.04:034][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.52.04:145][397]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.19-15.52.07:801][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_DirtPath_4)
+[2019.08.19-15.52.08:979][476]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.08.19-15.52.12:581][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.52.15:816][594]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.08.19-15.52.18:588][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_DirtPath_4)
+[2019.08.19-15.52.20:478][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.52.20:652][671]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-15.52.20:693][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.52.20:693][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-15.52.20:693][671]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 21:52:20)
+[2019.08.19-15.52.20:693][671]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-15.52.20:978][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.284381s)
+[2019.08.19-15.52.20:979][671]LogAIModule: Creating AISystem for world level1
+[2019.08.19-15.52.20:980][671]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2019.08.19-15.52.20:981][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.286883s)
+[2019.08.19-15.52.21:059][671]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-15.52.21:102][671]LogInit: FAudioDevice initialized.
+[2019.08.19-15.52.21:137][671]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-15.52.21:199][671]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-18.52.21
+[2019.08.19-15.52.21:201][671]LogWorld: Bringing up level for play took: 0.063175
+[2019.08.19-15.52.21:219][671]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 0.666
+[2019.08.19-15.52.21:220][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.52.53:386][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.52.53:387][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.52.53:496][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-15.52.53:497][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-15.52.53:592][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-15.52.53:675][363]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.08.19-15.52.54:915][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.53.49:708][418]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.19-15.53.57:707][418]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2019.08.19-15.53.57:730][418]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NewBlueprint.NewBlueprint
+[2019.08.19-15.55.02:567][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-15.55.02:643][300]LogSlate: Window 'NewBlueprint*' being destroyed
+[2019.08.19-15.55.02:725][300]LogSlate: Window 'NewBlueprint*' being destroyed
+[2019.08.19-15.55.04:937][328]LogRenderer: Reallocating scene render targets to support 2472x980 Format 10 NumSamples 1 (Frame:7069).
+[2019.08.19-15.56.42:960][375]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/lvl1/level1.level1:PersistentLevel.level1
+[2019.08.19-15.57.51:134][450]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level1_Auto1898DB2FC45B9531FE9E9CC8D17BAF829.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Levels/lvl1/level1_Auto1.umap'
+[2019.08.19-15.57.51:141][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/lvl1/level1' took 1.609
+[2019.08.19-15.57.51:141][450]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.609
+[2019.08.19-15.57.51:166][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint] ([1] browsable assets)...
+[2019.08.19-15.57.51:166][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint]
+[2019.08.19-15.57.51:173][450]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/NewBlueprint_Auto1E4E153BE478DC0822071FB8E9C4CF6A5.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto1.uasset'
+[2019.08.19-15.57.51:175][450]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.08.19-15.59.27:873][867]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2019.08.19-15.59.36:779][981]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-15.59.36:796][981]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.08.19-15.59.41:500][981]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-15.59.41:508][981]LightingResults: New page: Lighting Build
+[2019.08.19-15.59.41:510][981]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.08.19-15.59.41:522][981]LogSlate: Window 'level1* - Level Blueprint Editor' being destroyed
+[2019.08.19-15.59.41:566][981]MapCheck: New page: Map Check
+[2019.08.19-15.59.41:566][981]LightingResults: New page: Lighting Build
+[2019.08.19-15.59.41:606][981]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.19-15.59.41:606][981]LogStreaming: Display: Flushing async loaders.
+[2019.08.19-15.59.41:889][981]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-15.59.41:941][981]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-15.59.41:941][981]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.463ms to complete.
+[2019.08.19-15.59.41:941][981]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.437
+[2019.08.19-15.59.50:866][ 94]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.19-15.59.52:875][107]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-15.59.59:578][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.00.12:159][262]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.08.19-16.00.22:595][336]LogSlate: Took 0.028507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.19-16.02.34:302][304]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2019.08.19-16.04.47:193][285]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2019.08.19-16.04.49:816][304]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.04.49:889][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.04.49:889][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.04.49:889][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.04.49:890][304]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:04:49)
+[2019.08.19-16.04.49:890][304]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.04.49:946][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054362s)
+[2019.08.19-16.04.49:948][304]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.04.49:949][304]LogPlayLevel: PIE: World Init took: (0.002478s)
+[2019.08.19-16.04.49:949][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.058378s)
+[2019.08.19-16.04.50:147][304]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.04.50:224][304]LogInit: FAudioDevice initialized.
+[2019.08.19-16.04.50:276][304]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.04.50:658][304]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.04.50
+[2019.08.19-16.04.50:660][304]LogWorld: Bringing up level for play took: 0.006644
+[2019.08.19-16.04.50:676][304]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.123
+[2019.08.19-16.04.50:676][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.04.50:676][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.04.56:079][352]LogPackageName: SearchForPackageOnDisk took   0.555s, but failed to resolve lvl2.umap.
+[2019.08.19-16.04.56:423][353]LogPackageName: SearchForPackageOnDisk took   0.324s, but failed to resolve lvl2.umap.
+[2019.08.19-16.04.56:424][353]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.08.19-16.04.56:424][353]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.08.19-16.04.56:424][353]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.08.19-16.04.56:424][353]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.08.19-16.04.56:424][353]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.08.19-16.04.56:424][353]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.08.19-16.04.56:424][353]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.08.19-16.04.56:425][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.04.56:425][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.04.56:426][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.04.56:490][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.04.56:490][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.04.56:490][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.04.56:537][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.04.56:554][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.04.56:681][353]LogSlate: Took 0.010700 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.08.19-16.04.56:731][354]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.08.19-16.05.21:294][597]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-16.05.21:417][597]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-16.08.19:761][704]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.10.08:638][870]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.10.08:694][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.10.08:695][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.10.08:695][870]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.19-16.10.08:705][870]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2019.08.19-16.10.09:269][870]LogPlayLevel: PlayLevel: Blueprint regeneration took 574 ms (1 blueprints)
+[2019.08.19-16.10.09:269][870]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:10:09)
+[2019.08.19-16.10.09:270][870]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.10.09:294][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024339s)
+[2019.08.19-16.10.09:295][870]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.10.09:295][870]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2019.08.19-16.10.09:295][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025568s)
+[2019.08.19-16.10.09:354][870]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.10.09:387][870]LogInit: FAudioDevice initialized.
+[2019.08.19-16.10.09:431][870]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.10.09:608][870]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.10.09
+[2019.08.19-16.10.09:610][870]LogWorld: Bringing up level for play took: 0.004495
+[2019.08.19-16.10.09:625][870]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.072
+[2019.08.19-16.10.09:626][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.10.09:626][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.10.12:886][902]LogNet: Browse: /Game/Levels/lvl1/level1
+[2019.08.19-16.10.12:973][902]LogLoad: LoadMap: /Game/Levels/lvl1/level1
+[2019.08.19-16.10.13:147][902]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.10.13:394][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.248579s)
+[2019.08.19-16.10.13:395][902]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.10.13:396][902]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2019.08.19-16.10.13:397][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.250933s)
+[2019.08.19-16.10.13:397][902]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.10.13:482][902]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.10.13
+[2019.08.19-16.10.13:485][902]LogWorld: Bringing up level for play took: 0.086250
+[2019.08.19-16.10.13:485][902]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.08.19-16.10.13:492][902]LogLoad: Took 0.518174 seconds to LoadMap(/Game/Levels/lvl1/UEDPIE_0_level1)
+[2019.08.19-16.10.45:895][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.10.45:895][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.10.45:896][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.10.46:013][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.10.46:014][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.10.46:014][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.10.46:109][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.10.46:227][479]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.08.19-16.10.48:770][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.10.48:894][523]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.10.48:940][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.10.48:941][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.10.48:941][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.10.48:941][523]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:10:48)
+[2019.08.19-16.10.48:942][523]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.10.48:985][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043660s)
+[2019.08.19-16.10.48:987][523]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.10.48:988][523]LogPlayLevel: PIE: World Init took: (0.003255s)
+[2019.08.19-16.10.48:989][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047821s)
+[2019.08.19-16.10.49:121][523]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.10.49:178][523]LogInit: FAudioDevice initialized.
+[2019.08.19-16.10.49:217][523]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.10.49:478][523]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.10.49
+[2019.08.19-16.10.49:481][523]LogWorld: Bringing up level for play took: 0.008033
+[2019.08.19-16.10.49:496][523]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.942
+[2019.08.19-16.10.49:497][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.10.49:497][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.10.57:870][613]LogNet: Browse: /Game/Levels/lvl1/level1
+[2019.08.19-16.10.57:962][613]LogLoad: LoadMap: /Game/Levels/lvl1/level1
+[2019.08.19-16.10.58:133][613]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.10.58:367][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.233375s)
+[2019.08.19-16.10.58:368][613]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.10.58:368][613]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2019.08.19-16.10.58:369][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.236253s)
+[2019.08.19-16.10.58:370][613]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.10.58:438][613]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.10.58
+[2019.08.19-16.10.58:441][613]LogWorld: Bringing up level for play took: 0.069469
+[2019.08.19-16.10.58:441][613]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.08.19-16.10.58:448][613]LogLoad: Took 0.485335 seconds to LoadMap(/Game/Levels/lvl1/UEDPIE_0_level1)
+[2019.08.19-16.11.06:603][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.11.06:603][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.11.06:604][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.11.06:764][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.11.06:766][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.11.06:766][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.11.06:910][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.11.07:028][743]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.08.19-16.11.09:401][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.11.13:829][812]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/lvl1/level1.level1
+[2019.08.19-16.11.16:935][812]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-16.11.16:957][812]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/NewBlueprintCEAC308743FB3431B0C591B3F49D2D99.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Blueprints/NewBlueprint.uasset'
+[2019.08.19-16.11.17:255][812]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap59F8020249C2EE950CE692AED81F0F04.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.19-16.11.17:273][812]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.312
+[2019.08.19-16.11.17:278][812]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-16.11.17:278][812]LightingResults: New page: Lighting Build
+[2019.08.19-16.11.17:278][812]LoadErrors: New page: Loading map: level1.umap
+[2019.08.19-16.11.17:286][812]LogSlate: Window 'ThirdPersonExampleMap - Level Blueprint Editor' being destroyed
+[2019.08.19-16.11.17:329][812]MapCheck: New page: Map Check
+[2019.08.19-16.11.17:329][812]LightingResults: New page: Lighting Build
+[2019.08.19-16.11.17:420][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-16.11.17:475][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-16.11.17:476][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.43ms to complete.
+[2019.08.19-16.11.17:477][812]LogFileHelpers: Loading map 'level1' took 0.201
+[2019.08.19-16.11.17:550][812]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.11.18:986][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_DirtPath_02)
+[2019.08.19-16.11.35:437][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.08.19-16.11.36:734][203]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-16.12.51:804][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_DirtPath_3)
+[2019.08.19-16.13.47:101][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.13.53:745][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_DirtPath_4)
+[2019.08.19-16.13.55:888][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.14.10:489][964]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.08.19-16.14.16:724][ 63]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.08.19-16.14.17:774][ 78]Cmd: TRANSACTION UNDO
+[2019.08.19-16.14.17:774][ 78]LogEditorTransaction: Undo Scale Actors
+[2019.08.19-16.14.19:530][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.14.27:624][233]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.08.19-16.14.29:885][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.14.30:008][270]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.14.30:063][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.14.30:063][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.14.30:064][270]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 22:14:30)
+[2019.08.19-16.14.30:064][270]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.14.30:328][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.263994s)
+[2019.08.19-16.14.30:329][270]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.14.30:330][270]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2019.08.19-16.14.30:331][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.267239s)
+[2019.08.19-16.14.30:427][270]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.14.30:472][270]LogInit: FAudioDevice initialized.
+[2019.08.19-16.14.30:508][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.14.30:568][270]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.14.30
+[2019.08.19-16.14.30:570][270]LogWorld: Bringing up level for play took: 0.060749
+[2019.08.19-16.14.30:589][270]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 0.036
+[2019.08.19-16.14.30:590][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.14.34:534][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.14.34:535][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.14.34:661][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.14.34:662][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.14.34:765][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.14.34:869][350]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.08.19-16.14.41:629][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.14.54:325][678]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.08.19-16.14.57:050][678]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-16.14.58:437][678]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level16775D29643CB59FE947BA2A7E919F466.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap'
+[2019.08.19-16.14.58:457][678]LogFileHelpers: Saving map 'level1' took 1.399
+[2019.08.19-16.14.58:459][678]LightingResults: New page: Lighting Build
+[2019.08.19-16.14.58:460][678]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.08.19-16.14.58:471][678]MapCheck: New page: Map Check
+[2019.08.19-16.14.58:472][678]LightingResults: New page: Lighting Build
+[2019.08.19-16.14.58:511][678]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.19-16.14.58:511][678]LogStreaming: Display: Flushing async loaders.
+[2019.08.19-16.14.58:789][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-16.14.58:850][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-16.14.58:850][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.509ms to complete.
+[2019.08.19-16.14.58:851][678]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.394
+[2019.08.19-16.14.59:346][678]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.15.03:396][729]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.15.03:453][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.15.03:454][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.15.03:455][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.15.03:455][729]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:15:03)
+[2019.08.19-16.15.03:455][729]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.15.03:521][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065214s)
+[2019.08.19-16.15.03:522][729]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.15.03:522][729]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2019.08.19-16.15.03:522][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.067415s)
+[2019.08.19-16.15.03:693][729]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.15.03:759][729]LogInit: FAudioDevice initialized.
+[2019.08.19-16.15.03:806][729]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.15.04:080][729]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.15.04
+[2019.08.19-16.15.04:082][729]LogWorld: Bringing up level for play took: 0.005786
+[2019.08.19-16.15.04:098][729]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.544
+[2019.08.19-16.15.04:098][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.15.04:099][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.15.07:968][777]LogNet: Browse: /Game/Levels/lvl1/level1
+[2019.08.19-16.15.08:040][777]LogLoad: LoadMap: /Game/Levels/lvl1/level1
+[2019.08.19-16.15.08:200][777]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.15.08:440][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.238914s)
+[2019.08.19-16.15.08:441][777]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.15.08:441][777]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2019.08.19-16.15.08:442][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.240788s)
+[2019.08.19-16.15.08:442][777]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.15.08:510][777]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.15.08
+[2019.08.19-16.15.08:512][777]LogWorld: Bringing up level for play took: 0.069981
+[2019.08.19-16.15.08:519][777]LogLoad: Took 0.479833 seconds to LoadMap(/Game/Levels/lvl1/UEDPIE_0_level1)
+[2019.08.19-16.15.13:575][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.15.13:575][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.15.13:575][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.15.13:687][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.15.13:688][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.15.13:688][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.15.13:795][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.15.13:875][898]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.08.19-16.15.21:449][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.15.21:767][ 31]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.08.19-16.15.21:861][ 31]LightingResults: New page: Lighting Build
+[2019.08.19-16.15.21:863][ 31]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.08.19-16.15.21:891][ 31]MapCheck: New page: Map Check
+[2019.08.19-16.15.21:891][ 31]LightingResults: New page: Lighting Build
+[2019.08.19-16.15.22:216][ 31]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.15.22:226][ 31]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.19-16.15.22:226][ 31]LogStreaming: Display: Flushing async loaders.
+[2019.08.19-16.15.22:625][ 31]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-16.15.22:696][ 31]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-16.15.22:697][ 31]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.574ms to complete.
+[2019.08.19-16.15.22:704][ 31]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.844
+[2019.08.19-16.16.30:286][578]LogSlate: Took 0.001044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.19-16.16.33:441][603]LogSlate: Window 'Open Level' being destroyed
+[2019.08.19-16.16.47:323][694]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.08.19-16.16.47:517][694]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.08.19-16.17.34:513][ 22]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-16.17.40:368][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.17.49:633][126]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.08.19-16.18.07:249][232]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0010 seconds. Added 2 classes and 3 folders.
+[2019.08.19-16.18.47:923][468]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/lvl1/level1) is flushing async loading
+[2019.08.19-16.18.47:923][468]LogStreaming: Display: Flushing async loaders.
+[2019.08.19-16.18.48:699][468]LogSlate: Window 'Open Level' being destroyed
+[2019.08.19-16.18.59:114][516]LogSlate: Window 'Levels' being destroyed
+[2019.08.19-16.18.59:142][516]LogSlate: Window 'Levels' being destroyed
+[2019.08.19-16.20.12:750][869]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2019.08.19-16.20.17:065][888]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.20.17:100][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.20.17:100][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.20.17:100][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.20.17:100][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.20.17:101][888]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:20:17)
+[2019.08.19-16.20.17:101][888]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.20.17:133][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031937s)
+[2019.08.19-16.20.17:135][888]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.20.17:135][888]LogPlayLevel: PIE: World Init took: (0.002007s)
+[2019.08.19-16.20.17:136][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034435s)
+[2019.08.19-16.20.17:434][888]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.20.17:491][888]LogInit: FAudioDevice initialized.
+[2019.08.19-16.20.17:537][888]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.20.17:922][888]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.20.17
+[2019.08.19-16.20.17:924][888]LogWorld: Bringing up level for play took: 0.006660
+[2019.08.19-16.20.17:940][888]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.387
+[2019.08.19-16.20.17:941][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.20.17:941][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.20.17:941][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.20.22:387][933]LogLevel: ActivateLevel /Game/Levels/lvl1/UEDPIE_0_level1 1 0 0
+[2019.08.19-16.20.28:308][996]LogLevel: ActivateLevel /Game/Levels/lvl1/UEDPIE_0_level1 1 0 0
+[2019.08.19-16.20.30:124][ 16]LogLevel: ActivateLevel /Game/Levels/lvl1/UEDPIE_0_level1 1 0 0
+[2019.08.19-16.20.33:602][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.20.33:603][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.20.33:603][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.20.33:605][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.20.33:795][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.20.33:797][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.20.33:798][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.20.33:798][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.20.33:914][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.20.34:097][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.08.19-16.20.44:532][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.21.10:473][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.19-16.21.35:665][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.21.53:058][468]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/lvl1/level1.level1
+[2019.08.19-16.21.55:567][468]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-16.21.55:882][468]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap3AB1E58C479C4E19C5861AB40BE7B287.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.19-16.21.55:900][468]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.322
+[2019.08.19-16.21.55:904][468]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-16.21.55:904][468]LightingResults: New page: Lighting Build
+[2019.08.19-16.21.55:905][468]LoadErrors: New page: Loading map: level1.umap
+[2019.08.19-16.21.55:921][468]LogSlate: Window 'ThirdPersonExampleMap - Level Blueprint Editor' being destroyed
+[2019.08.19-16.21.55:970][468]MapCheck: New page: Map Check
+[2019.08.19-16.21.55:970][468]LightingResults: New page: Lighting Build
+[2019.08.19-16.21.56:014][468]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.21.56:060][468]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-16.21.56:117][468]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-16.21.56:117][468]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.359ms to complete.
+[2019.08.19-16.21.56:119][468]LogFileHelpers: Loading map 'level1' took 0.216
+[2019.08.19-16.21.56:191][468]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.22.14:673][802]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.08.19-16.23.14:023][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.23.26:130][968]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.08.19-16.23.26:234][968]LightingResults: New page: Lighting Build
+[2019.08.19-16.23.26:235][968]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.08.19-16.23.26:259][968]MapCheck: New page: Map Check
+[2019.08.19-16.23.26:259][968]LightingResults: New page: Lighting Build
+[2019.08.19-16.23.26:371][968]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.19-16.23.26:372][968]LogStreaming: Display: Flushing async loaders.
+[2019.08.19-16.23.26:890][968]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/lvl1/level1) is flushing async loading
+[2019.08.19-16.23.27:243][968]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-16.23.27:326][968]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-16.23.27:327][968]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.358ms to complete.
+[2019.08.19-16.23.27:330][968]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.100
+[2019.08.19-16.23.38:335][ 13]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.08.19-16.23.46:676][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Paper_Lantern_5)
+[2019.08.19-16.23.49:297][ 60]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-16.23.55:831][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_DirtPath_3)
+[2019.08.19-16.24.04:538][170]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.08.19-16.24.20:377][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.24.31:123][365]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.08.19-16.24.42:011][437]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.08.19-16.24.43:914][450]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (PlayerStart)
+[2019.08.19-16.24.44:223][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.25.19:469][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.25.19:485][675]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/lvl1/level1.level1:PersistentLevel.level1
+[2019.08.19-16.28.46:051][808]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.08.19-16.28.53:089][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.29.23:729][ 54]LogEditorViewport: Clicking on Actor (context menu): TargetPoint (TargetPoint)
+[2019.08.19-16.29.23:909][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.30.50:482][638]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.30.50:539][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.30.50:539][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.30.50:540][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.30.50:540][638]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.19-16.30.50:551][638]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2019.08.19-16.30.51:157][638]LogPlayLevel: PlayLevel: Blueprint regeneration took 616 ms (1 blueprints)
+[2019.08.19-16.30.51:158][638]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:30:51)
+[2019.08.19-16.30.51:158][638]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.30.51:182][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023402s)
+[2019.08.19-16.30.51:183][638]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.30.51:183][638]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2019.08.19-16.30.51:183][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025203s)
+[2019.08.19-16.30.51:246][638]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.30.51:282][638]LogInit: FAudioDevice initialized.
+[2019.08.19-16.30.51:324][638]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.30.51:525][638]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.30.51
+[2019.08.19-16.30.51:527][638]LogWorld: Bringing up level for play took: 0.004832
+[2019.08.19-16.30.51:543][638]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.99
+[2019.08.19-16.30.51:544][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.30.51:544][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.30.51:544][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.30.58:577][712]LogLevel: ActivateLevel /Game/Levels/lvl1/UEDPIE_0_level1 1 0 0
+[2019.08.19-16.31.30:928][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.31.30:929][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.31.30:930][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.31.30:930][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.31.31:114][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.31.31:117][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.31.31:117][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.31.31:117][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.31.31:217][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.31.31:431][125]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.08.19-16.32.04:650][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.32.45:388][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.32.57:414][770]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.32.57:460][770]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.32.57:461][770]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.32.57:461][770]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.32.57:462][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.32.57:462][770]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:32:57)
+[2019.08.19-16.32.57:463][770]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.32.57:502][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038825s)
+[2019.08.19-16.32.57:503][770]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.32.57:504][770]LogPlayLevel: PIE: World Init took: (0.002124s)
+[2019.08.19-16.32.57:504][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041491s)
+[2019.08.19-16.32.57:651][770]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.32.57:724][770]LogInit: FAudioDevice initialized.
+[2019.08.19-16.32.57:765][770]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.32.58:095][770]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.32.58
+[2019.08.19-16.32.58:097][770]LogWorld: Bringing up level for play took: 0.006360
+[2019.08.19-16.32.58:113][770]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.559
+[2019.08.19-16.32.58:113][770]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.32.58:114][770]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.32.58:114][770]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.33.03:300][822]LogLevel: ActivateLevel /Game/Levels/lvl1/UEDPIE_0_level1 1 0 0
+[2019.08.19-16.33.15:074][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.33.15:075][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.33.15:075][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.33.15:076][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.33.15:233][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.33.15:234][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.33.15:235][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.33.15:235][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.33.15:380][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.33.15:528][970]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.08.19-16.33.30:744][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.33.47:182][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.35.22:367][929]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2019.08.19-16.35.28:209][973]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.35.28:255][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.35.28:255][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.35.28:256][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.35.28:256][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.35.28:256][973]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:35:28)
+[2019.08.19-16.35.28:257][973]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.35.28:309][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052145s)
+[2019.08.19-16.35.28:311][973]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.35.28:312][973]LogPlayLevel: PIE: World Init took: (0.002135s)
+[2019.08.19-16.35.28:312][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.054870s)
+[2019.08.19-16.35.28:448][973]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.35.28:525][973]LogInit: FAudioDevice initialized.
+[2019.08.19-16.35.28:563][973]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.35.28:859][973]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.35.28
+[2019.08.19-16.35.28:861][973]LogWorld: Bringing up level for play took: 0.006149
+[2019.08.19-16.35.28:877][973]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.323
+[2019.08.19-16.35.28:878][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.35.28:879][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.35.28:879][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.35.32:175][  5]LogLevel: ActivateLevel /Game/Levels/lvl1/UEDPIE_0_level1 1 1 0
+[2019.08.19-16.35.54:622][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.35.54:622][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.35.54:623][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.35.54:623][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.35.54:890][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.35.54:892][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.35.54:893][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.35.54:893][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.35.55:020][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.35.55:149][173]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.08.19-16.35.58:138][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.36.54:717][484]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap_Auto2FAC57C0043593640E5EE67A3AF61395F.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.08.19-16.36.54:765][484]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: level1, Actor: /Game/Levels/lvl1/level1.level1:PersistentLevel.REINST_level1_C_0
+[2019.08.19-16.36.56:212][484]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level1_Auto257133D324A045561EAEB37BC8D9B27F6.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Levels/lvl1/level1_Auto2.umap'
+[2019.08.19-16.36.56:218][484]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 2.068
+[2019.08.19-16.36.56:218][484]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.068
+[2019.08.19-16.41.05:068][647]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/lvl1/level1.level1
+[2019.08.19-16.41.06:820][647]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-16.41.06:885][647]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: level1, Actor: /Game/Levels/lvl1/level1.level1:PersistentLevel.REINST_level1_C_0
+[2019.08.19-16.41.08:333][647]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level1FA16D8884553155C9AF2F0B2FAE89BD4.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap'
+[2019.08.19-16.41.08:337][647]LogFileHelpers: Saving map 'level1' took 1.505
+[2019.08.19-16.41.08:660][647]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap54490CCE49828109AD01B39AF9B85CEE.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.19-16.41.08:679][647]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.342
+[2019.08.19-16.41.08:680][647]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-16.41.08:681][647]LightingResults: New page: Lighting Build
+[2019.08.19-16.41.08:681][647]LoadErrors: New page: Loading map: level1.umap
+[2019.08.19-16.41.08:730][647]LogSlate: Window 'ThirdPersonExampleMap - Level Blueprint Editor' being destroyed
+[2019.08.19-16.41.08:789][647]MapCheck: New page: Map Check
+[2019.08.19-16.41.08:789][647]LightingResults: New page: Lighting Build
+[2019.08.19-16.41.08:829][647]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.41.08:875][647]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-16.41.08:984][647]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-16.41.08:985][647]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.697ms to complete.
+[2019.08.19-16.41.08:987][647]LogFileHelpers: Loading map 'level1' took 0.306
+[2019.08.19-16.41.09:058][647]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.41.46:708][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.42.00:946][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.42.01:119][393]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.42.01:176][393]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.42.01:176][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.42.01:177][393]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 22:42:01)
+[2019.08.19-16.42.01:177][393]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.42.01:466][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.288673s)
+[2019.08.19-16.42.01:467][393]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.42.01:468][393]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2019.08.19-16.42.01:468][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.291466s)
+[2019.08.19-16.42.01:593][393]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.42.01:643][393]LogInit: FAudioDevice initialized.
+[2019.08.19-16.42.01:680][393]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.42.01:761][393]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.42.01
+[2019.08.19-16.42.01:766][393]LogWorld: Bringing up level for play took: 0.086226
+[2019.08.19-16.42.01:784][393]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 1.231
+[2019.08.19-16.42.01:785][393]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.42.20:037][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.42.20:039][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.42.20:171][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.42.20:172][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.42.20:270][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.42.20:373][755]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.08.19-16.43.22:907][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.43.24:710][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.43.24:719][848]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/lvl1/level1.level1:PersistentLevel.level1
+[2019.08.19-16.43.59:128][304]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.19-16.44.00:424][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.49.20:119][918]BlueprintLog: New page: Compile level1
+[2019.08.19-16.49.39:331][ 97]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.08.19-16.49.42:404][ 97]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-16.49.43:876][ 97]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level134DA0AC7407C0EFC58339084C961B781.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap'
+[2019.08.19-16.49.43:897][ 97]LogFileHelpers: Saving map 'level1' took 1.483
+[2019.08.19-16.49.43:899][ 97]LightingResults: New page: Lighting Build
+[2019.08.19-16.49.43:900][ 97]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.08.19-16.49.43:938][ 97]LogSlate: Window 'level1 - Level Blueprint Editor' being destroyed
+[2019.08.19-16.49.43:988][ 97]MapCheck: New page: Map Check
+[2019.08.19-16.49.43:988][ 97]LightingResults: New page: Lighting Build
+[2019.08.19-16.49.44:028][ 97]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.19-16.49.44:028][ 97]LogStreaming: Display: Flushing async loaders.
+[2019.08.19-16.49.44:340][ 97]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/lvl1/level1) is flushing async loading
+[2019.08.19-16.49.44:643][ 97]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-16.49.44:716][ 97]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-16.49.44:717][ 97]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.763ms to complete.
+[2019.08.19-16.49.44:719][ 97]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.820
+[2019.08.19-16.49.48:923][120]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.49.51:275][139]LogSlate: Window 'Levels' being destroyed
+[2019.08.19-16.49.51:441][139]LogSlate: Window 'Levels' being destroyed
+[2019.08.19-16.49.57:007][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.50.48:625][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.50.53:221][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-16.50.53:231][569]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.08.19-16.51.38:807][859]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2019.08.19-16.51.40:994][873]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.51.41:038][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.51.41:039][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.51.41:039][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.51.41:039][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.51.41:040][873]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:51:41)
+[2019.08.19-16.51.41:040][873]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.51.41:081][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041141s)
+[2019.08.19-16.51.41:083][873]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.51.41:084][873]LogPlayLevel: PIE: World Init took: (0.001924s)
+[2019.08.19-16.51.41:084][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043688s)
+[2019.08.19-16.51.41:208][873]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.51.41:278][873]LogInit: FAudioDevice initialized.
+[2019.08.19-16.51.41:336][873]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.51.41:652][873]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.51.41
+[2019.08.19-16.51.41:654][873]LogWorld: Bringing up level for play took: 0.005712
+[2019.08.19-16.51.41:670][873]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.116
+[2019.08.19-16.51.41:670][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.51.41:671][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.51.41:671][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.51.46:597][920]LogNet: Browse: /Game/Levels/lvl1/level1
+[2019.08.19-16.51.46:684][920]LogLoad: LoadMap: /Game/Levels/lvl1/level1
+[2019.08.19-16.51.46:837][920]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.51.47:108][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.270894s)
+[2019.08.19-16.51.47:109][920]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.51.47:110][920]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2019.08.19-16.51.47:110][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.273143s)
+[2019.08.19-16.51.47:110][920]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.51.47:183][920]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.51.47
+[2019.08.19-16.51.47:186][920]LogWorld: Bringing up level for play took: 0.074670
+[2019.08.19-16.51.47:192][920]LogLoad: Took 0.508227 seconds to LoadMap(/Game/Levels/lvl1/UEDPIE_0_level1)
+[2019.08.19-16.52.01:221][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.52.01:222][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.52.01:223][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.52.01:223][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.52.01:371][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.52.01:372][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.52.01:373][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.52.01:373][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.52.01:473][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.52.01:601][136]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.08.19-16.52.10:556][196]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.08.19-16.52.15:639][226]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.08.19-16.52.24:486][282]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.08.19-16.52.28:155][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.52.28:298][307]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.52.28:352][307]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.52.28:352][307]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.52.28:353][307]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.52.28:353][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.52.28:353][307]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:52:28)
+[2019.08.19-16.52.28:354][307]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.52.28:404][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049378s)
+[2019.08.19-16.52.28:405][307]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.52.28:406][307]LogPlayLevel: PIE: World Init took: (0.001910s)
+[2019.08.19-16.52.28:406][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.051816s)
+[2019.08.19-16.52.28:531][307]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.52.28:600][307]LogInit: FAudioDevice initialized.
+[2019.08.19-16.52.28:646][307]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.52.28:977][307]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.52.28
+[2019.08.19-16.52.28:980][307]LogWorld: Bringing up level for play took: 0.006036
+[2019.08.19-16.52.28:995][307]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.443
+[2019.08.19-16.52.28:996][307]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.52.28:996][307]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.52.28:996][307]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.52.33:713][354]LogNet: Browse: /Game/Levels/lvl1/level1
+[2019.08.19-16.52.33:797][354]LogLoad: LoadMap: /Game/Levels/lvl1/level1
+[2019.08.19-16.52.33:966][354]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.52.34:202][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.235358s)
+[2019.08.19-16.52.34:203][354]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.52.34:203][354]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2019.08.19-16.52.34:204][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.237562s)
+[2019.08.19-16.52.34:204][354]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.52.34:291][354]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.52.34
+[2019.08.19-16.52.34:294][354]LogWorld: Bringing up level for play took: 0.088820
+[2019.08.19-16.52.34:300][354]LogLoad: Took 0.502944 seconds to LoadMap(/Game/Levels/lvl1/UEDPIE_0_level1)
+[2019.08.19-16.52.44:632][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.52.44:633][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.52.44:633][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.52.44:633][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.52.44:783][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.52.44:785][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.52.44:785][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.52.44:785][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.52.44:883][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.52.45:012][513]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.08.19-16.53.19:899][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.53.20:194][754]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.53.20:242][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.53.20:243][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.53.20:243][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.53.20:243][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.53.20:243][754]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:53:20)
+[2019.08.19-16.53.20:244][754]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.53.20:279][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035115s)
+[2019.08.19-16.53.20:280][754]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.53.20:281][754]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2019.08.19-16.53.20:281][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036884s)
+[2019.08.19-16.53.20:415][754]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.53.20:474][754]LogInit: FAudioDevice initialized.
+[2019.08.19-16.53.20:521][754]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.53.20:858][754]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.53.20
+[2019.08.19-16.53.20:860][754]LogWorld: Bringing up level for play took: 0.007126
+[2019.08.19-16.53.20:876][754]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.323
+[2019.08.19-16.53.20:877][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.53.20:877][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.53.20:878][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.53.28:691][839]LogNet: Browse: /Game/Levels/lvl1/level1
+[2019.08.19-16.53.28:771][839]LogLoad: LoadMap: /Game/Levels/lvl1/level1
+[2019.08.19-16.53.28:934][839]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.53.29:166][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.231067s)
+[2019.08.19-16.53.29:167][839]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.53.29:168][839]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2019.08.19-16.53.29:168][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.233499s)
+[2019.08.19-16.53.29:169][839]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.53.29:244][839]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.53.29
+[2019.08.19-16.53.29:248][839]LogWorld: Bringing up level for play took: 0.079549
+[2019.08.19-16.53.29:254][839]LogLoad: Took 0.483219 seconds to LoadMap(/Game/Levels/lvl1/UEDPIE_0_level1)
+[2019.08.19-16.53.38:666][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.53.38:667][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.53.38:668][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.53.38:669][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.53.38:810][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.53.38:812][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.53.38:812][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.53.38:812][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.53.38:927][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.53.39:060][991]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.08.19-16.53.45:032][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.53.51:140][ 82]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/lvl1/level1.level1
+[2019.08.19-16.53.53:012][ 82]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-16.53.53:072][ 82]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: level1, Actor: /Game/Levels/lvl1/level1.level1:PersistentLevel.REINST_level1_C_0
+[2019.08.19-16.53.54:475][ 82]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level103D08B9A4350F6BDDEDFF991158732C1.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap'
+[2019.08.19-16.53.54:479][ 82]LogFileHelpers: Saving map 'level1' took 1.458
+[2019.08.19-16.53.54:808][ 82]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap8158EEA648C519B248BEC7986C183703.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.19-16.53.54:828][ 82]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.349
+[2019.08.19-16.53.54:830][ 82]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-16.53.54:830][ 82]LightingResults: New page: Lighting Build
+[2019.08.19-16.53.54:831][ 82]LoadErrors: New page: Loading map: level1.umap
+[2019.08.19-16.53.54:847][ 82]LogSlate: Window 'ThirdPersonExampleMap - Level Blueprint Editor' being destroyed
+[2019.08.19-16.53.54:897][ 82]MapCheck: New page: Map Check
+[2019.08.19-16.53.54:897][ 82]LightingResults: New page: Lighting Build
+[2019.08.19-16.53.54:937][ 82]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.53.54:987][ 82]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-16.53.55:064][ 82]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-16.53.55:065][ 82]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.376ms to complete.
+[2019.08.19-16.53.55:066][ 82]LogFileHelpers: Loading map 'level1' took 0.237
+[2019.08.19-16.53.55:155][ 82]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.53.56:899][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.53.57:020][118]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.53.57:064][118]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.53.57:064][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.53.57:064][118]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 22:53:57)
+[2019.08.19-16.53.57:065][118]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.53.57:358][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.292414s)
+[2019.08.19-16.53.57:359][118]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.53.57:359][118]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2019.08.19-16.53.57:360][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.295158s)
+[2019.08.19-16.53.57:440][118]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.53.57:487][118]LogInit: FAudioDevice initialized.
+[2019.08.19-16.53.57:522][118]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.53.57:585][118]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.53.57
+[2019.08.19-16.53.57:588][118]LogWorld: Bringing up level for play took: 0.065450
+[2019.08.19-16.53.57:606][118]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 1.053
+[2019.08.19-16.53.57:607][118]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.54.26:704][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.54.26:705][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.54.26:829][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.54.26:830][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.54.26:921][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.54.27:020][766]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.08.19-16.54.32:670][868]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.08.19-16.54.35:392][915]Cmd: DELETE
+[2019.08.19-16.54.35:392][915]Cmd: ACTOR DELETE
+[2019.08.19-16.54.35:577][915]LogEditorActor: Deleted Actor: PlayerStart
+[2019.08.19-16.54.35:656][915]LogEditorActor: Deleted 1 Actors (0.263 secs)
+[2019.08.19-16.54.37:940][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.54.38:100][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.54.38:139][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.54.38:140][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.54.38:140][963]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 22:54:38)
+[2019.08.19-16.54.38:141][963]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.54.38:426][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.285055s)
+[2019.08.19-16.54.38:428][963]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.54.38:428][963]LogPlayLevel: PIE: World Init took: (0.002110s)
+[2019.08.19-16.54.38:429][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.288062s)
+[2019.08.19-16.54.38:509][963]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.54.38:551][963]LogInit: FAudioDevice initialized.
+[2019.08.19-16.54.38:595][963]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.54.38:669][963]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.54.38
+[2019.08.19-16.54.38:673][963]LogWorld: Bringing up level for play took: 0.075781
+[2019.08.19-16.54.38:688][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=794.265 Y=5130.731 Z=108.101] for [ThirdPersonCharacter_C]
+[2019.08.19-16.54.38:688][963]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw -131.141098 Roll 0.000000
+Translation: 794.264893 5130.730957 108.101082
+Scale3D: 1.000000 1.000000 1.000000
+
+[2019.08.19-16.54.38:691][963]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 0.138
+[2019.08.19-16.54.38:692][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.54.43:641][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.54.43:641][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.54.43:769][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.54.43:770][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.54.43:852][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.54.43:951][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.08.19-16.54.46:221][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.54.55:504][290]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.08.19-16.54.59:010][290]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-16.55.00:408][290]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level1C332A93D4F53BD517076E19C11E1F168.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap'
+[2019.08.19-16.55.00:450][290]LogFileHelpers: Saving map 'level1' took 1.432
+[2019.08.19-16.55.00:453][290]LightingResults: New page: Lighting Build
+[2019.08.19-16.55.00:454][290]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.08.19-16.55.00:464][290]MapCheck: New page: Map Check
+[2019.08.19-16.55.00:464][290]LightingResults: New page: Lighting Build
+[2019.08.19-16.55.00:504][290]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.19-16.55.00:504][290]LogStreaming: Display: Flushing async loaders.
+[2019.08.19-16.55.00:779][290]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/lvl1/level1) is flushing async loading
+[2019.08.19-16.55.01:080][290]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-16.55.01:147][290]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-16.55.01:148][290]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.871ms to complete.
+[2019.08.19-16.55.01:149][290]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.699
+[2019.08.19-16.55.10:472][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-16.55.10:590][364]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-16.55.10:629][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.55.10:630][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.55.10:630][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.55.10:630][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-16.55.10:631][364]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 22:55:10)
+[2019.08.19-16.55.10:631][364]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-16.55.10:701][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070300s)
+[2019.08.19-16.55.10:703][364]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-16.55.10:703][364]LogPlayLevel: PIE: World Init took: (0.002394s)
+[2019.08.19-16.55.10:703][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.073232s)
+[2019.08.19-16.55.10:843][364]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-16.55.10:918][364]LogInit: FAudioDevice initialized.
+[2019.08.19-16.55.10:960][364]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.55.11:251][364]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-19.55.11
+[2019.08.19-16.55.11:253][364]LogWorld: Bringing up level for play took: 0.005631
+[2019.08.19-16.55.11:270][364]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.716
+[2019.08.19-16.55.11:271][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.55.11:271][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.55.11:271][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.55.16:251][426]LogNet: Browse: /Game/Levels/lvl1/level1
+[2019.08.19-16.55.16:322][426]LogLoad: LoadMap: /Game/Levels/lvl1/level1
+[2019.08.19-16.55.16:486][426]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-16.55.16:718][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.231880s)
+[2019.08.19-16.55.16:719][426]LogAIModule: Creating AISystem for world level1
+[2019.08.19-16.55.16:719][426]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2019.08.19-16.55.16:720][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.233954s)
+[2019.08.19-16.55.16:720][426]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-16.55.16:786][426]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-19.55.16
+[2019.08.19-16.55.16:790][426]LogWorld: Bringing up level for play took: 0.069585
+[2019.08.19-16.55.16:791][426]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.08.19-16.55.16:796][426]LogLoad: Took 0.473967 seconds to LoadMap(/Game/Levels/lvl1/UEDPIE_0_level1)
+[2019.08.19-16.55.52:940][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.55.52:941][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.55.52:941][247]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.55.52:942][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.55.53:058][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-16.55.53:059][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-16.55.53:059][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-16.55.53:059][247]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-16.55.53:151][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-16.55.53:278][248]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.08.19-16.57.03:479][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
