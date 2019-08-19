@@ -1,0 +1,1145 @@
+﻿Log file open, 08/19/19 16:45:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_Final_Project_v1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.200516
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MixamoAnimationRetargeting
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.114s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7560U CPU @ 2.40GHz, GPU: Intel(R) Iris(TM) Plus Graphics 640
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.19-13.45.06:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.19-13.45.06:469][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.08.19-13.45.06:470][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.19-13.45.06:470][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.19-13.45.06:470][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.19-13.45.06:470][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.19-13.45.06:470][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.19-13.45.06:470][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.19-13.45.06:480][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.19-13.45.06:480][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.19-13.45.06:481][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.19-13.45.06:482][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.19-13.45.06:482][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.19-13.45.06:482][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.19-13.45.06:495][  0]LogHAL: Display: Platform has ~ 16 GB [16894550016 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.08.19-13.45.06:495][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.19-13.45.06:495][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.19-13.45.06:495][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.19-13.45.06:496][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.19-13.45.06:497][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.19-13.45.06:497][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.19-13.45.06:497][  0]LogInit: Computer: MEITAR
+[2019.08.19-13.45.06:497][  0]LogInit: User: Meitar
+[2019.08.19-13.45.06:497][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.08.19-13.45.06:497][  0]LogInit: High frequency timer resolution =2.343752 MHz
+[2019.08.19-13.45.06:497][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2019.08.19-13.45.06:497][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.19-13.45.06:497][  0]LogMemory: Process Physical Memory: 102.41 MB used, 102.41 MB peak
+[2019.08.19-13.45.06:497][  0]LogMemory: Process Virtual Memory: 84.57 MB used, 84.57 MB peak
+[2019.08.19-13.45.06:497][  0]LogMemory: Physical Memory: 7160.72 MB used,  8951.18 MB free, 16111.90 MB total
+[2019.08.19-13.45.06:497][  0]LogMemory: Virtual Memory: 4614.72 MB used,  134213112.00 MB free, 134217728.00 MB total
+[2019.08.19-13.45.06:527][  0]LogInit: Using OS detected language (en-US).
+[2019.08.19-13.45.06:527][  0]LogInit: Using OS detected locale (he-IL).
+[2019.08.19-13.45.06:529][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.19-13.45.06:958][  0]LogStreaming: Display: Took  0.431s to InitEngineTextLocalization.
+[2019.08.19-13.45.06:958][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.19-13.45.07:019][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.19-13.45.07:019][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.19-13.45.07:365][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.19-13.45.07:365][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.19-13.45.07:374][  0]LogD3D11RHI:    0. 'Intel(R) Iris(TM) Plus Graphics 640' (Feature Level 11_0)
+[2019.08.19-13.45.07:374][  0]LogD3D11RHI:       128/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2019.08.19-13.45.07:377][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.19-13.45.07:377][  0]LogD3D11RHI:       0/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.19-13.45.07:377][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.19-13.45.07:383][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.19-13.45.07:383][  0]LogD3D11RHI:     GPU DeviceId: 0x5926 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.19-13.45.07:383][  0]LogWindows: EnumDisplayDevices:
+[2019.08.19-13.45.07:383][  0]LogWindows:    0. 'Intel(R) Iris(TM) Plus Graphics 640' (P:1 D:1)
+[2019.08.19-13.45.07:383][  0]LogWindows:    1. 'Intel(R) Iris(TM) Plus Graphics 640' (P:0 D:1)
+[2019.08.19-13.45.07:384][  0]LogWindows:    2. 'Intel(R) Iris(TM) Plus Graphics 640' (P:0 D:0)
+[2019.08.19-13.45.07:384][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.08.19-13.45.07:384][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(TM) Plus Graphics 640
+[2019.08.19-13.45.07:384][  0]LogD3D11RHI:   Driver Version: 21.20.16.4664 (internal:21.20.16.4664, unified:21.20.16.4664)
+[2019.08.19-13.45.07:384][  0]LogD3D11RHI:      Driver Date: 4-21-2017
+[2019.08.19-13.45.07:384][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2019.08.19-13.45.07:412][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.08.19-13.45.07:412][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.19-13.45.07:418][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.08.19-13.45.07:814][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.19-13.45.07:829][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.19-13.45.07:845][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.19-13.45.07:860][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.19-13.45.07:875][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.19-13.45.07:890][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.19-13.45.07:904][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.19-13.45.07:919][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.19-13.45.07:926][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:024][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-13.45.08:027][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.19-13.45.08:094][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.19-13.45.08:094][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.19-13.45.08:121][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.19-13.45.08:121][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.19-13.45.08:136][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.19-13.45.08:153][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.19-13.45.08:174][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.19-13.45.08:192][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.19-13.45.08:248][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.19-13.45.08:248][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.19-13.45.08:248][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.19-13.45.08:321][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Intermediate/Shaders/WorkingDirectory/17380/).
+[2019.08.19-13.45.08:321][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Meitar/AppData/Local/Temp/UnrealShaderWorkingDir/4A0FC3324B0F8A9A2BF5819D2F390EFC/'.
+[2019.08.19-13.45.08:323][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.19-13.45.08:323][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.19-13.45.08:323][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.19-13.45.08:898][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.19-13.45.08:950][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Meitar/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.19-13.45.08:950][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Meitar/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.08.19-13.45.08:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.19-13.45.08:950][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.19-13.45.08:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.19-13.45.08:950][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.19-13.45.08:966][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.19-13.45.08:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.19-13.45.08:966][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.19-13.45.08:979][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Meitar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.19-13.45.08:979][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.19-13.45.08:979][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.19-13.45.09:009][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.19-13.45.09:011][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.19-13.45.09:012][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.19-13.45.09:125][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
+[2019.08.19-13.45.09:517][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.19-13.45.09:684][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.19-13.45.09:689][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.19-13.45.09:689][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.19-13.45.09:689][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.19-13.45.09:689][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.19-13.45.09:706][  0]LogNetVersion: VR_Final_Project_v1 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4124830842)
+[2019.08.19-13.45.10:273][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.078650 seconds
+[2019.08.19-13.45.10:278][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.08.19-13.45.10:278][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.08.19-13.45.10:278][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.19-13.45.11:354][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.19-13.45.11:368][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.19-13.45.12:290][  0]SourceControl: Source control is disabled
+[2019.08.19-13.45.12:290][  0]SourceControl: Source control is disabled
+[2019.08.19-13.45.12:292][  0]SourceControl: Source control is disabled
+[2019.08.19-13.45.12:293][  0]SourceControl: Source control is disabled
+[2019.08.19-13.45.13:213][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.19-13.45.13:313][  0]LogOcInput: OculusInput pre-init called
+[2019.08.19-13.45.13:454][  0]LogEngine: Initializing Engine...
+[2019.08.19-13.45.13:455][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.19-13.45.13:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.19-13.45.13:456][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.19-13.45.13:457][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.19-13.45.13:457][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.19-13.45.13:703][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.19-13.45.13:718][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.19-13.45.13:738][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-13.45.15:333][  0]LogInit: FAudioDevice initialized.
+[2019.08.19-13.45.15:333][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.19-13.45.15:421][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Meitar/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.19-13.45.15:431][  0]LogInit: Texture streaming: Enabled
+[2019.08.19-13.45.15:454][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.19-13.45.15:468][  0]LogInit: Transaction tracking system initialized
+[2019.08.19-13.45.15:501][  0]BlueprintLog: New page: Editor Load
+[2019.08.19-13.45.15:592][  0]LocalizationService: Localization service is disabled
+[2019.08.19-13.45.16:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/' took 0.03s
+[2019.08.19-13.45.16:095][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.19-13.45.16:095][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.19-13.45.16:095][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.19-13.45.16:095][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.19-13.45.16:095][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.19-13.45.16:095][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.19-13.45.16:095][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.19-13.45.16:265][  0]SourceControl: Source control is disabled
+[2019.08.19-13.45.16:265][  0]LightingResults: New page: Lighting Build
+[2019.08.19-13.45.16:269][  0]MapCheck: New page: Map Check
+[2019.08.19-13.45.16:269][  0]LightingResults: New page: Lighting Build
+[2019.08.19-13.45.16:617][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-13.45.16:642][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.19-13.45.16:642][  0]LogStreaming: Display: Flushing async loaders.
+[2019.08.19-13.45.17:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-13.45.17:480][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-13.45.17:480][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.5ms to complete.
+[2019.08.19-13.45.17:480][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.215
+[2019.08.19-13.45.17:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-13.45.17:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-13.45.17:613][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-13.45.17:620][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-13.45.17:629][  0]LogCollectionManager: Loaded 0 collections in 0.002878 seconds
+[2019.08.19-13.45.17:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Collections/' took 0.01s
+[2019.08.19-13.45.17:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Developers/Meitar/Collections/' took 0.01s
+[2019.08.19-13.45.17:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Collections/' took 0.01s
+[2019.08.19-13.45.17:671][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.19-13.45.17:683][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2651 classes and 620 folders.
+[2019.08.19-13.45.17:691][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.19-13.45.17:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.19-13.45.17:765][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.19-13.45.17:771][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.19-13.45.17:801][  0]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.19-13.45.17:806][  0]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.19-13.45.17:814][  0]LogSlate: Took 0.000809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.19-13.45.17:901][  0]LogRenderer: Reallocating scene render targets to support 732x260 Format 10 NumSamples 1 (Frame:1).
+[2019.08.19-13.45.18:723][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.19-13.45.18:723][  0]LogLoad: (Engine Initialization) Total time: 14.61 seconds
+[2019.08.19-13.45.18:723][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.19-13.45.18:741][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.19-13.45.18:792][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.19-13.45.19:515][  2]LogAssetRegistry: Asset discovery search completed in 10.4116 seconds
+[2019.08.19-13.45.19:517][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.19-13.45.19:517][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.08.19-13.45.22:056][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-13.45.47:114][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-13.45.49:552][449]LogSlate: Took 0.000653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.19-13.45.49:598][449]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonSamurai/Characters/SK_Character_Samurai_Geisha_01_Skeleton.SK_Character_Samurai_Geisha_01_Skeleton
+[2019.08.19-13.45.49:614][449]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.08.19-13.45.50:047][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.19-13.45.50:052][449]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.08.19-13.45.50:128][449]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.19-13.45.50:567][449]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.08.19-13.45.50:572][449]LogRenderer: Reallocating scene render targets to support 732x528 Format 10 NumSamples 1 (Frame:1).
+[2019.08.19-13.46.16:295][726]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/SK_Character_Samurai_Geisha_01_SE89D73434EADC88C11BCF980CD4075AB.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonSamurai/Characters/SK_Character_Samurai_Geisha_01_Skeleton.uasset'
+[2019.08.19-13.46.18:417][746]LogSlate: Took 0.000998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.19-13.46.23:312][746]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2019.08.19-13.46.27:413][746]LogSlate: Window 'Message' being destroyed
+[2019.08.19-13.46.27:422][746]LogSlate: Window 'Save Mapping' being destroyed
+[2019.08.19-13.47.03:284][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-13.47.09:980][206]LogRenderer: Reallocating scene render targets to support 1644x720 Format 10 NumSamples 1 (Frame:1013).
+[2019.08.19-13.47.18:832][273]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.341 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.19-13.47.24:468][337]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-13.47.24:509][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-13.47.24:509][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-13.47.24:510][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-13.47.24:511][337]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 19:47:24)
+[2019.08.19-13.47.24:528][337]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-13.47.24:607][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077815s)
+[2019.08.19-13.47.24:608][337]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-13.47.24:609][337]LogPlayLevel: PIE: World Init took: (0.002495s)
+[2019.08.19-13.47.24:610][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.081719s)
+[2019.08.19-13.47.24:692][337]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-13.47.24:747][337]LogInit: FAudioDevice initialized.
+[2019.08.19-13.47.24:812][337]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-13.47.25:075][337]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-16.47.25
+[2019.08.19-13.47.25:078][337]LogWorld: Bringing up level for play took: 0.006011
+[2019.08.19-13.47.25:101][337]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.08.19-13.47.25:103][337]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.549
+[2019.08.19-13.47.25:104][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-13.47.25:104][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-13.47.37:252][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-13.47.37:254][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-13.47.37:255][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-13.47.37:368][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-13.47.37:369][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-13.47.37:369][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-13.47.37:435][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-13.47.37:539][478]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.08.19-13.47.41:266][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-13.47.51:940][626]LogSlate: Window 'SK_Character_Samurai_Geisha_01_Skeleton*' being destroyed
+[2019.08.19-13.47.52:068][626]LogSlate: Window 'SK_Character_Samurai_Geisha_01_Skeleton*' being destroyed
+[2019.08.19-13.48.10:750][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-13.48.15:421][812]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-13.48.15:855][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-13.48.18:095][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-13.52.19:785][931]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.19-13.52.20:171][931]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.19-13.52.20:281][931]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.19-13.53.00:817][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-13.53.05:234][293]LogSlate: Window 'Save Mapping' being destroyed
+[2019.08.19-13.53.48:002][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-13.53.54:362][516]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/UE4_Mannequin_Skeleton977580C3476E41D748E4DAB2A878D984.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.19-13.53.58:180][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-13.53.58:286][558]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2019.08.19-13.53.58:398][558]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2019.08.19-13.54.00:157][578]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.19-13.54.00:506][578]LogSlate: Took 0.003471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.19-13.54.01:607][588]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.19-13.54.01:882][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-13.55.00:607][972]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonSamurai/Characters/SK_Character_Samurai_Geisha_01_Skeleton.SK_Character_Samurai_Geisha_01_Skeleton
+[2019.08.19-13.55.00:724][972]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.19-13.55.00:850][972]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.19-13.55.30:892][118]LogSlate: Window 'SK_Character_Samurai_Geisha_01_Skeleton*' being destroyed
+[2019.08.19-13.55.31:199][118]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.19-13.55.48:563][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-13.56.09:741][409]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Samurai_VillageFemale_01...
+[2019.08.19-13.56.09:752][409]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonSamurai/Characters/SK_Character_Samurai_VillageFemale_01.SK_Character_Samurai_VillageFemale_01
+[2019.08.19-13.56.09:801][409]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Samurai_VillageMale_01...
+[2019.08.19-13.56.09:812][409]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonSamurai/Characters/SK_Character_Samurai_VillageMale_01.SK_Character_Samurai_VillageMale_01
+[2019.08.19-13.56.09:849][409]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Samurai_VillageMale_02...
+[2019.08.19-13.56.09:856][409]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonSamurai/Characters/SK_Character_Samurai_VillageMale_02.SK_Character_Samurai_VillageMale_02
+[2019.08.19-13.56.09:902][409]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Samurai_Warrior_01...
+[2019.08.19-13.56.09:915][409]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonSamurai/Characters/SK_Character_Samurai_Warrior_01.SK_Character_Samurai_Warrior_01
+[2019.08.19-13.56.09:933][409]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.19-13.56.27:462][520]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-13.56.27:503][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-13.56.27:503][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-13.56.27:504][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-13.56.27:504][520]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 19:56:27)
+[2019.08.19-13.56.27:504][520]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-13.56.27:550][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044588s)
+[2019.08.19-13.56.27:551][520]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-13.56.27:552][520]LogPlayLevel: PIE: World Init took: (0.002185s)
+[2019.08.19-13.56.27:552][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047336s)
+[2019.08.19-13.56.27:711][520]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-13.56.27:780][520]LogInit: FAudioDevice initialized.
+[2019.08.19-13.56.27:818][520]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-13.56.28:133][520]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-16.56.28
+[2019.08.19-13.56.28:135][520]LogWorld: Bringing up level for play took: 0.005511
+[2019.08.19-13.56.28:152][520]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.599
+[2019.08.19-13.56.28:152][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-13.56.28:153][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-13.56.37:760][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-13.56.37:760][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-13.56.37:761][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-13.56.37:939][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-13.56.37:941][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-13.56.37:941][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-13.56.38:019][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-13.56.38:120][653]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.08.19-13.56.39:516][671]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.19-13.56.40:612][678]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.19-13.56.40:814][678]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-13.56.47:876][729]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.19-13.57.03:678][855]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.19-13.58.47:606][506]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap_Auto1ED308A494FAD09C4463C9C8551A50259.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.08.19-13.58.47:667][506]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.621
+[2019.08.19-13.58.47:667][506]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.621
+[2019.08.19-13.58.47:682][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonSamurai/Characters/SK_Character_Samurai_Geisha_01_Skeleton] ([1] browsable assets)...
+[2019.08.19-13.58.47:683][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonSamurai/Characters/SK_Character_Samurai_Geisha_01_Skeleton]
+[2019.08.19-13.58.47:760][506]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/SK_Character_Samurai_Geisha_01_SE7DE24264ABF566843573ABB6CC325F3.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonSamurai/Characters/SK_Character_Samurai_Geisha_01_Skeleton_Auto1.uasset'
+[2019.08.19-13.58.47:771][506]LogFileHelpers: Auto-saving content packages took 0.093
+[2019.08.19-14.16.40:506][702]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Meitar\Downloads\ty.fbx)
+[2019.08.19-14.16.40:740][702]LogFbx: Loading FBX Scene from C:\Users\Meitar\Downloads\ty.fbx
+[2019.08.19-14.16.41:077][702]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.19-14.17.07:973][702]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.08.19-14.17.08:135][702]LogFbx: =================================================
+[2019.08.19-14.17.08:135][702]LogFbx: Dumping Node START [Boy01_Head_Geo] 
+[2019.08.19-14.17.08:135][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:135][702]LogFbx: 		[Node 1] Skin Boy01_Head_Geo (Type Skin).
+[2019.08.19-14.17.08:135][702]LogFbx: =================================================
+[2019.08.19-14.17.08:135][702]LogFbx: 	Attribute (Boy01_Head_Geo) Type (4).
+[2019.08.19-14.17.08:135][702]LogFbx: 		[Node Attribute Child 1] Boy01_Head_Geo (Type Mesh).
+[2019.08.19-14.17.08:135][702]LogFbx: Dumping Node END [Boy01_Head_Geo]
+[2019.08.19-14.17.08:135][702]LogFbx: =================================================
+[2019.08.19-14.17.08:135][702]LogFbx: Dumping Node START [Boy01_Hands_Geo] 
+[2019.08.19-14.17.08:135][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:135][702]LogFbx: 		[Node 1] Skin Boy01_Hands_Geo (Type Skin).
+[2019.08.19-14.17.08:136][702]LogFbx: =================================================
+[2019.08.19-14.17.08:136][702]LogFbx: 	Attribute (Boy01_Hands_Geo) Type (4).
+[2019.08.19-14.17.08:136][702]LogFbx: 		[Node Attribute Child 1] Boy01_Hands_Geo (Type Mesh).
+[2019.08.19-14.17.08:136][702]LogFbx: Dumping Node END [Boy01_Hands_Geo]
+[2019.08.19-14.17.08:136][702]LogFbx: =================================================
+[2019.08.19-14.17.08:136][702]LogFbx: Dumping Node START [Boy01_UpperBody_Geo] 
+[2019.08.19-14.17.08:136][702]LogFbx: 	Total Deformer Count 1742414240.
+[2019.08.19-14.17.08:136][702]LogFbx: 		[Node 1] Skin Boy01_UpperBody_Geo (Type Skin).
+[2019.08.19-14.17.08:136][702]LogFbx: =================================================
+[2019.08.19-14.17.08:136][702]LogFbx: 	Attribute (Boy01_UpperBody_Geo) Type (4).
+[2019.08.19-14.17.08:136][702]LogFbx: 		[Node Attribute Child 1] Boy01_UpperBody_Geo (Type Mesh).
+[2019.08.19-14.17.08:136][702]LogFbx: Dumping Node END [Boy01_UpperBody_Geo]
+[2019.08.19-14.17.08:136][702]LogFbx: =================================================
+[2019.08.19-14.17.08:136][702]LogFbx: Dumping Node START [Boy01_LowerBody_Geo] 
+[2019.08.19-14.17.08:136][702]LogFbx: 	Total Deformer Count 1742414240.
+[2019.08.19-14.17.08:136][702]LogFbx: 		[Node 1] Skin Boy01_LowerBody_Geo (Type Skin).
+[2019.08.19-14.17.08:136][702]LogFbx: =================================================
+[2019.08.19-14.17.08:136][702]LogFbx: 	Attribute (Boy01_LowerBody_Geo) Type (4).
+[2019.08.19-14.17.08:136][702]LogFbx: 		[Node Attribute Child 1] Boy01_LowerBody_Geo (Type Mesh).
+[2019.08.19-14.17.08:137][702]LogFbx: Dumping Node END [Boy01_LowerBody_Geo]
+[2019.08.19-14.17.08:137][702]LogFbx: =================================================
+[2019.08.19-14.17.08:137][702]LogFbx: Dumping Node START [Boy01_Shoes_Geo] 
+[2019.08.19-14.17.08:137][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:138][702]LogFbx: 		[Node 1] Skin Boy01_Shoes_Geo (Type Skin).
+[2019.08.19-14.17.08:139][702]LogFbx: =================================================
+[2019.08.19-14.17.08:139][702]LogFbx: 	Attribute (Boy01_Shoes_Geo) Type (4).
+[2019.08.19-14.17.08:139][702]LogFbx: 		[Node Attribute Child 1] Boy01_Shoes_Geo (Type Mesh).
+[2019.08.19-14.17.08:139][702]LogFbx: Dumping Node END [Boy01_Shoes_Geo]
+[2019.08.19-14.17.08:139][702]LogFbx: =================================================
+[2019.08.19-14.17.08:139][702]LogFbx: Dumping Node START [Boy01_Scarf_Geo] 
+[2019.08.19-14.17.08:139][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:139][702]LogFbx: 		[Node 1] Skin Boy01_Scarf_Geo (Type Skin).
+[2019.08.19-14.17.08:139][702]LogFbx: =================================================
+[2019.08.19-14.17.08:139][702]LogFbx: 	Attribute (Boy01_Scarf_Geo) Type (4).
+[2019.08.19-14.17.08:139][702]LogFbx: 		[Node Attribute Child 1] Boy01_Scarf_Geo (Type Mesh).
+[2019.08.19-14.17.08:139][702]LogFbx: Dumping Node END [Boy01_Scarf_Geo]
+[2019.08.19-14.17.08:139][702]LogFbx: =================================================
+[2019.08.19-14.17.08:139][702]LogFbx: Dumping Node START [Boy01_Hair_Geo] 
+[2019.08.19-14.17.08:139][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:139][702]LogFbx: 		[Node 1] Skin Boy01_Hair_Geo (Type Skin).
+[2019.08.19-14.17.08:139][702]LogFbx: =================================================
+[2019.08.19-14.17.08:140][702]LogFbx: 	Attribute (Boy01_Hair_Geo) Type (4).
+[2019.08.19-14.17.08:140][702]LogFbx: 		[Node Attribute Child 1] Boy01_Hair_Geo (Type Mesh).
+[2019.08.19-14.17.08:140][702]LogFbx: Dumping Node END [Boy01_Hair_Geo]
+[2019.08.19-14.17.08:143][702]LogFbx: =================================================
+[2019.08.19-14.17.08:143][702]LogFbx: Dumping Node START [Boy01_Head_Geo] 
+[2019.08.19-14.17.08:143][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:143][702]LogFbx: 		[Node 1] Skin Boy01_Head_Geo (Type Skin).
+[2019.08.19-14.17.08:143][702]LogFbx: =================================================
+[2019.08.19-14.17.08:143][702]LogFbx: 	Attribute (Boy01_Head_Geo) Type (4).
+[2019.08.19-14.17.08:143][702]LogFbx: 		[Node Attribute Child 1] Boy01_Head_Geo (Type Mesh).
+[2019.08.19-14.17.08:143][702]LogFbx: Dumping Node END [Boy01_Head_Geo]
+[2019.08.19-14.17.08:143][702]LogFbx: =================================================
+[2019.08.19-14.17.08:143][702]LogFbx: Dumping Node START [Boy01_Hands_Geo] 
+[2019.08.19-14.17.08:143][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:143][702]LogFbx: 		[Node 1] Skin Boy01_Hands_Geo (Type Skin).
+[2019.08.19-14.17.08:143][702]LogFbx: =================================================
+[2019.08.19-14.17.08:143][702]LogFbx: 	Attribute (Boy01_Hands_Geo) Type (4).
+[2019.08.19-14.17.08:143][702]LogFbx: 		[Node Attribute Child 1] Boy01_Hands_Geo (Type Mesh).
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node END [Boy01_Hands_Geo]
+[2019.08.19-14.17.08:144][702]LogFbx: =================================================
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node START [Boy01_UpperBody_Geo] 
+[2019.08.19-14.17.08:144][702]LogFbx: 	Total Deformer Count 1742410784.
+[2019.08.19-14.17.08:144][702]LogFbx: 		[Node 1] Skin Boy01_UpperBody_Geo (Type Skin).
+[2019.08.19-14.17.08:144][702]LogFbx: =================================================
+[2019.08.19-14.17.08:144][702]LogFbx: 	Attribute (Boy01_UpperBody_Geo) Type (4).
+[2019.08.19-14.17.08:144][702]LogFbx: 		[Node Attribute Child 1] Boy01_UpperBody_Geo (Type Mesh).
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node END [Boy01_UpperBody_Geo]
+[2019.08.19-14.17.08:144][702]LogFbx: =================================================
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node START [Boy01_LowerBody_Geo] 
+[2019.08.19-14.17.08:144][702]LogFbx: 	Total Deformer Count 1742410784.
+[2019.08.19-14.17.08:144][702]LogFbx: 		[Node 1] Skin Boy01_LowerBody_Geo (Type Skin).
+[2019.08.19-14.17.08:144][702]LogFbx: =================================================
+[2019.08.19-14.17.08:144][702]LogFbx: 	Attribute (Boy01_LowerBody_Geo) Type (4).
+[2019.08.19-14.17.08:144][702]LogFbx: 		[Node Attribute Child 1] Boy01_LowerBody_Geo (Type Mesh).
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node END [Boy01_LowerBody_Geo]
+[2019.08.19-14.17.08:144][702]LogFbx: =================================================
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node START [Boy01_Shoes_Geo] 
+[2019.08.19-14.17.08:144][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:144][702]LogFbx: 		[Node 1] Skin Boy01_Shoes_Geo (Type Skin).
+[2019.08.19-14.17.08:144][702]LogFbx: =================================================
+[2019.08.19-14.17.08:144][702]LogFbx: 	Attribute (Boy01_Shoes_Geo) Type (4).
+[2019.08.19-14.17.08:144][702]LogFbx: 		[Node Attribute Child 1] Boy01_Shoes_Geo (Type Mesh).
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node END [Boy01_Shoes_Geo]
+[2019.08.19-14.17.08:144][702]LogFbx: =================================================
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node START [Boy01_Scarf_Geo] 
+[2019.08.19-14.17.08:144][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:144][702]LogFbx: 		[Node 1] Skin Boy01_Scarf_Geo (Type Skin).
+[2019.08.19-14.17.08:144][702]LogFbx: =================================================
+[2019.08.19-14.17.08:144][702]LogFbx: 	Attribute (Boy01_Scarf_Geo) Type (4).
+[2019.08.19-14.17.08:144][702]LogFbx: 		[Node Attribute Child 1] Boy01_Scarf_Geo (Type Mesh).
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node END [Boy01_Scarf_Geo]
+[2019.08.19-14.17.08:144][702]LogFbx: =================================================
+[2019.08.19-14.17.08:144][702]LogFbx: Dumping Node START [Boy01_Hair_Geo] 
+[2019.08.19-14.17.08:144][702]LogFbx: 	Total Deformer Count 1722043024.
+[2019.08.19-14.17.08:144][702]LogFbx: 		[Node 1] Skin Boy01_Hair_Geo (Type Skin).
+[2019.08.19-14.17.08:145][702]LogFbx: =================================================
+[2019.08.19-14.17.08:145][702]LogFbx: 	Attribute (Boy01_Hair_Geo) Type (4).
+[2019.08.19-14.17.08:145][702]LogFbx: 		[Node Attribute Child 1] Boy01_Hair_Geo (Type Mesh).
+[2019.08.19-14.17.08:145][702]LogFbx: Dumping Node END [Boy01_Hair_Geo]
+[2019.08.19-14.17.08:145][702]LogFbx: =================================================
+[2019.08.19-14.17.08:145][702]LogFbx: Dumping Node START [Boy01_Head_Geo] 
+[2019.08.19-14.17.08:145][702]LogFbx: 	Total Deformer Count 1722045024.
+[2019.08.19-14.17.08:145][702]LogFbx: 		[Node 1] Skin Boy01_Head_Geo (Type Skin).
+[2019.08.19-14.17.08:145][702]LogFbx: =================================================
+[2019.08.19-14.17.08:145][702]LogFbx: 	Attribute (Boy01_Head_Geo) Type (4).
+[2019.08.19-14.17.08:145][702]LogFbx: 		[Node Attribute Child 1] Boy01_Head_Geo (Type Mesh).
+[2019.08.19-14.17.08:145][702]LogFbx: Dumping Node END [Boy01_Head_Geo]
+[2019.08.19-14.17.08:145][702]LogFbx: =================================================
+[2019.08.19-14.17.08:145][702]LogFbx: Dumping Node START [Boy01_Hands_Geo] 
+[2019.08.19-14.17.08:145][702]LogFbx: 	Total Deformer Count 1722045024.
+[2019.08.19-14.17.08:145][702]LogFbx: 		[Node 1] Skin Boy01_Hands_Geo (Type Skin).
+[2019.08.19-14.17.08:145][702]LogFbx: =================================================
+[2019.08.19-14.17.08:145][702]LogFbx: 	Attribute (Boy01_Hands_Geo) Type (4).
+[2019.08.19-14.17.08:145][702]LogFbx: 		[Node Attribute Child 1] Boy01_Hands_Geo (Type Mesh).
+[2019.08.19-14.17.08:145][702]LogFbx: Dumping Node END [Boy01_Hands_Geo]
+[2019.08.19-14.17.08:145][702]LogFbx: =================================================
+[2019.08.19-14.17.08:145][702]LogFbx: Dumping Node START [Boy01_UpperBody_Geo] 
+[2019.08.19-14.17.08:146][702]LogFbx: 	Total Deformer Count 1742411264.
+[2019.08.19-14.17.08:146][702]LogFbx: 		[Node 1] Skin Boy01_UpperBody_Geo (Type Skin).
+[2019.08.19-14.17.08:146][702]LogFbx: =================================================
+[2019.08.19-14.17.08:146][702]LogFbx: 	Attribute (Boy01_UpperBody_Geo) Type (4).
+[2019.08.19-14.17.08:146][702]LogFbx: 		[Node Attribute Child 1] Boy01_UpperBody_Geo (Type Mesh).
+[2019.08.19-14.17.08:146][702]LogFbx: Dumping Node END [Boy01_UpperBody_Geo]
+[2019.08.19-14.17.08:146][702]LogFbx: =================================================
+[2019.08.19-14.17.08:146][702]LogFbx: Dumping Node START [Boy01_LowerBody_Geo] 
+[2019.08.19-14.17.08:146][702]LogFbx: 	Total Deformer Count 1742411264.
+[2019.08.19-14.17.08:146][702]LogFbx: 		[Node 1] Skin Boy01_LowerBody_Geo (Type Skin).
+[2019.08.19-14.17.08:146][702]LogFbx: =================================================
+[2019.08.19-14.17.08:146][702]LogFbx: 	Attribute (Boy01_LowerBody_Geo) Type (4).
+[2019.08.19-14.17.08:146][702]LogFbx: 		[Node Attribute Child 1] Boy01_LowerBody_Geo (Type Mesh).
+[2019.08.19-14.17.08:146][702]LogFbx: Dumping Node END [Boy01_LowerBody_Geo]
+[2019.08.19-14.17.08:146][702]LogFbx: =================================================
+[2019.08.19-14.17.08:146][702]LogFbx: Dumping Node START [Boy01_Shoes_Geo] 
+[2019.08.19-14.17.08:146][702]LogFbx: 	Total Deformer Count 1722045024.
+[2019.08.19-14.17.08:146][702]LogFbx: 		[Node 1] Skin Boy01_Shoes_Geo (Type Skin).
+[2019.08.19-14.17.08:146][702]LogFbx: =================================================
+[2019.08.19-14.17.08:146][702]LogFbx: 	Attribute (Boy01_Shoes_Geo) Type (4).
+[2019.08.19-14.17.08:146][702]LogFbx: 		[Node Attribute Child 1] Boy01_Shoes_Geo (Type Mesh).
+[2019.08.19-14.17.08:146][702]LogFbx: Dumping Node END [Boy01_Shoes_Geo]
+[2019.08.19-14.17.08:146][702]LogFbx: =================================================
+[2019.08.19-14.17.08:146][702]LogFbx: Dumping Node START [Boy01_Scarf_Geo] 
+[2019.08.19-14.17.08:146][702]LogFbx: 	Total Deformer Count 1722045024.
+[2019.08.19-14.17.08:146][702]LogFbx: 		[Node 1] Skin Boy01_Scarf_Geo (Type Skin).
+[2019.08.19-14.17.08:146][702]LogFbx: =================================================
+[2019.08.19-14.17.08:146][702]LogFbx: 	Attribute (Boy01_Scarf_Geo) Type (4).
+[2019.08.19-14.17.08:146][702]LogFbx: 		[Node Attribute Child 1] Boy01_Scarf_Geo (Type Mesh).
+[2019.08.19-14.17.08:146][702]LogFbx: Dumping Node END [Boy01_Scarf_Geo]
+[2019.08.19-14.17.08:146][702]LogFbx: =================================================
+[2019.08.19-14.17.08:147][702]LogFbx: Dumping Node START [Boy01_Hair_Geo] 
+[2019.08.19-14.17.08:147][702]LogFbx: 	Total Deformer Count 1722045024.
+[2019.08.19-14.17.08:147][702]LogFbx: 		[Node 1] Skin Boy01_Hair_Geo (Type Skin).
+[2019.08.19-14.17.08:147][702]LogFbx: =================================================
+[2019.08.19-14.17.08:147][702]LogFbx: 	Attribute (Boy01_Hair_Geo) Type (4).
+[2019.08.19-14.17.08:147][702]LogFbx: 		[Node Attribute Child 1] Boy01_Hair_Geo (Type Mesh).
+[2019.08.19-14.17.08:147][702]LogFbx: Dumping Node END [Boy01_Hair_Geo]
+[2019.08.19-14.17.08:150][702]LogFbx: Valid bind pose for Pose (skinCluster1) - Boy01_Head_Geo
+[2019.08.19-14.17.08:151][702]LogFbx: Valid bind pose for Pose (skinCluster2) - Boy01_Head_Geo
+[2019.08.19-14.17.08:152][702]LogFbx: Valid bind pose for Pose (skinCluster3) - Boy01_Head_Geo
+[2019.08.19-14.17.08:152][702]LogFbx: Valid bind pose for Pose (skinCluster4) - Boy01_Head_Geo
+[2019.08.19-14.17.08:153][702]LogFbx: Valid bind pose for Pose (skinCluster5) - Boy01_Head_Geo
+[2019.08.19-14.17.08:153][702]LogFbx: Valid bind pose for Pose (skinCluster6) - Boy01_Head_Geo
+[2019.08.19-14.17.08:154][702]LogFbx: Valid bind pose for Pose (skinCluster7) - Boy01_Head_Geo
+[2019.08.19-14.17.08:635][702]LogMaterial: Warning: Material /Game/PolygonSamurai/Characters/Boy01_Head_MAT.Boy01_Head_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2019.08.19-14.17.08:642][702]LogMaterial: Display: Missing cached shader map for material Boy01_Head_MAT, compiling. 
+[2019.08.19-14.17.08:786][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Head_diffuse'
+[2019.08.19-14.17.08:788][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Head_diffuse'
+[2019.08.19-14.17.08:842][702]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.19-14.17.08:842][702]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.19-14.17.08:842][702]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.19-14.17.08:883][702]LogTexture: Display: Building textures: Boy_Head_diffuse (AutoDXT, 1024X1024)
+[2019.08.19-14.17.09:370][702]LogMaterial: Display: Missing cached shader map for material Boy01_Head_MAT, compiling. 
+[2019.08.19-14.17.09:491][702]LogFbx: Triangulating skeletal mesh Boy01_Head_Geo
+[2019.08.19-14.17.09:625][702]LogMaterial: Warning: Material /Game/PolygonSamurai/Characters/Boy01_Hands_MAT.Boy01_Hands_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2019.08.19-14.17.09:633][702]LogMaterial: Display: Missing cached shader map for material Boy01_Hands_MAT, compiling. 
+[2019.08.19-14.17.09:754][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Hands_diffuse'
+[2019.08.19-14.17.09:755][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Hands_diffuse'
+[2019.08.19-14.17.09:994][702]LogTexture: Display: Building textures: Boy_Hands_diffuse (AutoDXT, 2048X2048)
+[2019.08.19-14.17.10:784][702]LogMaterial: Display: Missing cached shader map for material Boy01_Hands_MAT, compiling. 
+[2019.08.19-14.17.10:911][702]LogFbx: Triangulating skeletal mesh Boy01_Hands_Geo
+[2019.08.19-14.17.11:025][702]LogMaterial: Warning: Material /Game/PolygonSamurai/Characters/Boy01_UpperBody_MAT.Boy01_UpperBody_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2019.08.19-14.17.11:032][702]LogMaterial: Display: Missing cached shader map for material Boy01_UpperBody_MAT, compiling. 
+[2019.08.19-14.17.11:137][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_UpperBody_diffuse'
+[2019.08.19-14.17.11:138][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_UpperBody_diffuse'
+[2019.08.19-14.17.11:378][702]LogTexture: Display: Building textures: Boy_UpperBody_diffuse (AutoDXT, 2048X2048)
+[2019.08.19-14.17.12:384][702]LogMaterial: Display: Missing cached shader map for material Boy01_UpperBody_MAT, compiling. 
+[2019.08.19-14.17.12:501][702]LogFbx: Triangulating skeletal mesh Boy01_UpperBody_Geo
+[2019.08.19-14.17.12:659][702]LogMaterial: Warning: Material /Game/PolygonSamurai/Characters/Boy01_LowerBody_MAT.Boy01_LowerBody_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2019.08.19-14.17.12:672][702]LogMaterial: Display: Missing cached shader map for material Boy01_LowerBody_MAT, compiling. 
+[2019.08.19-14.17.12:784][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_LowerBody_diffuse'
+[2019.08.19-14.17.12:786][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_LowerBody_diffuse'
+[2019.08.19-14.17.13:009][702]LogTexture: Display: Building textures: Boy_LowerBody_diffuse (AutoDXT, 2048X2048)
+[2019.08.19-14.17.14:226][702]LogMaterial: Display: Missing cached shader map for material Boy01_LowerBody_MAT, compiling. 
+[2019.08.19-14.17.14:395][702]LogFbx: Triangulating skeletal mesh Boy01_LowerBody_Geo
+[2019.08.19-14.17.14:477][702]LogMaterial: Warning: Material /Game/PolygonSamurai/Characters/Boy01_Shoes_MAT.Boy01_Shoes_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2019.08.19-14.17.14:486][702]LogMaterial: Display: Missing cached shader map for material Boy01_Shoes_MAT, compiling. 
+[2019.08.19-14.17.14:648][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Shoes_diffuse'
+[2019.08.19-14.17.14:649][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Shoes_diffuse'
+[2019.08.19-14.17.14:956][702]LogTexture: Display: Building textures: Boy_Shoes_diffuse (AutoDXT, 2048X2048)
+[2019.08.19-14.17.16:174][702]LogMaterial: Display: Missing cached shader map for material Boy01_Shoes_MAT, compiling. 
+[2019.08.19-14.17.16:305][702]LogFbx: Triangulating skeletal mesh Boy01_Shoes_Geo
+[2019.08.19-14.17.16:427][702]LogMaterial: Warning: Material /Game/PolygonSamurai/Characters/Boy01_Scarf_MAT.Boy01_Scarf_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2019.08.19-14.17.16:434][702]LogMaterial: Display: Missing cached shader map for material Boy01_Scarf_MAT, compiling. 
+[2019.08.19-14.17.16:568][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Scarf_diffuse'
+[2019.08.19-14.17.16:570][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Scarf_diffuse'
+[2019.08.19-14.17.16:898][702]LogTexture: Display: Building textures: Boy_Scarf_diffuse (AutoDXT, 2048X2048)
+[2019.08.19-14.17.18:271][702]LogMaterial: Display: Missing cached shader map for material Boy01_Scarf_MAT, compiling. 
+[2019.08.19-14.17.18:443][702]LogFbx: Triangulating skeletal mesh Boy01_Scarf_Geo
+[2019.08.19-14.17.18:506][702]LogMaterial: Warning: Material /Game/PolygonSamurai/Characters/Boy01_Hair_MAT.Boy01_Hair_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2019.08.19-14.17.18:546][702]LogMaterial: Display: Missing cached shader map for material Boy01_Hair_MAT, compiling. 
+[2019.08.19-14.17.18:738][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Hair_diffuse'
+[2019.08.19-14.17.18:739][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/Boy_Hair_diffuse'
+[2019.08.19-14.17.19:084][702]LogTexture: Display: Building textures: Boy_Hair_diffuse (AutoDXT, 2048X2048)
+[2019.08.19-14.17.20:195][702]LogMaterial: Display: Missing cached shader map for material Boy01_Hair_MAT, compiling. 
+[2019.08.19-14.17.20:362][702]LogFbx: Triangulating skeletal mesh Boy01_Hair_Geo
+[2019.08.19-14.17.20:534][702]LogFbx: Warning: Bones digested - 63  Depth of hierarchy - 12
+[2019.08.19-14.17.21:003][702]LogSkeletalMesh: Section 0: 541 vertices, 4 active bones
+[2019.08.19-14.17.21:003][702]LogSkeletalMesh: Section 1: 684 vertices, 36 active bones
+[2019.08.19-14.17.21:003][702]LogSkeletalMesh: Section 2: 793 vertices, 17 active bones
+[2019.08.19-14.17.21:004][702]LogSkeletalMesh: Section 3: 308 vertices, 7 active bones
+[2019.08.19-14.17.21:004][702]LogSkeletalMesh: Section 4: 412 vertices, 6 active bones
+[2019.08.19-14.17.21:004][702]LogSkeletalMesh: Section 5: 249 vertices, 9 active bones
+[2019.08.19-14.17.21:004][702]LogSkeletalMesh: Section 6: 503 vertices, 1 active bones
+[2019.08.19-14.17.21:005][702]LogSkeletalMesh: Section 0: Material=0, 898 triangles
+[2019.08.19-14.17.21:005][702]LogSkeletalMesh: Section 1: Material=1, 1060 triangles
+[2019.08.19-14.17.21:005][702]LogSkeletalMesh: Section 2: Material=2, 1380 triangles
+[2019.08.19-14.17.21:005][702]LogSkeletalMesh: Section 3: Material=3, 490 triangles
+[2019.08.19-14.17.21:005][702]LogSkeletalMesh: Section 4: Material=4, 684 triangles
+[2019.08.19-14.17.21:005][702]LogSkeletalMesh: Section 5: Material=5, 324 triangles
+[2019.08.19-14.17.21:005][702]LogSkeletalMesh: Section 6: Material=6, 802 triangles
+[2019.08.19-14.17.21:008][702]LogSkeletalMesh: Building Skeletal Mesh ty...
+[2019.08.19-14.17.21:039][702]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/PolygonSamurai/Characters/ty.ty
+[2019.08.19-14.17.31:866][702]LogShaderCompilers: Display: Shaders left to compile 420
+[2019.08.19-14.17.33:403][702]LogShaderCompilers: Display: Shaders left to compile 410
+[2019.08.19-14.17.39:083][702]LogShaderCompilers: Display: Shaders left to compile 400
+[2019.08.19-14.17.43:944][702]LogSlate: Window 'Message' being destroyed
+[2019.08.19-14.17.45:237][702]LogShaderCompilers: Display: Shaders left to compile 390
+[2019.08.19-14.17.54:461][702]LogShaderCompilers: Display: Shaders left to compile 380
+[2019.08.19-14.17.54:582][702]LogSlate: Window 'Message' being destroyed
+[2019.08.19-14.17.54:598][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/ty_PhysicsAsset'
+[2019.08.19-14.17.54:599][702]LogLinker: Can't find file '/Game/PolygonSamurai/Characters/ty_PhysicsAsset'
+[2019.08.19-14.17.54:660][702]LogSkeletalMesh: Building Skeletal Mesh ty...
+[2019.08.19-14.17.54:676][702]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/PolygonSamurai/Characters/ty.ty
+[2019.08.19-14.17.54:706][702]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.08.19-14.17.54:706][702]FBXImport: Warning: The following bones are missing from the bind pose:
+Boy:HeadTop_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.08.19-14.17.54:707][702]FBXImport: Warning: Warning skeletal mesh influence count of 10 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0.017 
+[2019.08.19-14.17.54:722][702]LogSkeletalMesh: Building Skeletal Mesh ty...
+[2019.08.19-14.17.54:757][702]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/PolygonSamurai/Characters/ty.ty
+[2019.08.19-14.17.58:092][714]LogShaderCompilers: Display: Shaders left to compile 370
+[2019.08.19-14.18.18:922][808]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (23.917 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.19-14.18.27:827][850]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.19-14.18.41:915][850]LogSlate: Window 'Choose Skeleton' being destroyed
+[2019.08.19-14.18.46:944][850]LogSlate: Window 'Merge Bones' being destroyed
+[2019.08.19-14.18.49:652][850]LogSlate: Window 'Message' being destroyed
+[2019.08.19-14.19.24:613][ 25]LogShaderCompilers: Display: Shaders left to compile 360
+[2019.08.19-14.19.38:662][ 95]LogShaderCompilers: Display: Shaders left to compile 350
+[2019.08.19-14.20.03:829][224]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-14.20.03:989][224]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-14.20.06:720][241]LogShaderCompilers: Display: Shaders left to compile 340
+[2019.08.19-14.20.08:418][252]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-14.20.08:479][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-14.20.08:480][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-14.20.08:480][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-14.20.08:481][252]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 20:20:08)
+[2019.08.19-14.20.08:481][252]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-14.20.08:548][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066990s)
+[2019.08.19-14.20.08:549][252]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-14.20.08:550][252]LogPlayLevel: PIE: World Init took: (0.002351s)
+[2019.08.19-14.20.08:550][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.070010s)
+[2019.08.19-14.20.08:785][252]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-14.20.08:952][252]LogInit: FAudioDevice initialized.
+[2019.08.19-14.20.09:007][252]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-14.20.09:778][252]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-17.20.09
+[2019.08.19-14.20.09:782][252]LogWorld: Bringing up level for play took: 0.011190
+[2019.08.19-14.20.09:804][252]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.251
+[2019.08.19-14.20.09:805][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-14.20.09:805][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-14.20.16:532][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-14.20.16:532][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-14.20.16:534][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-14.20.16:748][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-14.20.16:749][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-14.20.16:750][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-14.20.16:939][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-14.20.17:283][334]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.08.19-14.20.32:592][497]LogShaderCompilers: Display: Shaders left to compile 330
+[2019.08.19-14.21.31:389][133]LogShaderCompilers: Display: Shaders left to compile 320
+[2019.08.19-14.21.32:790][148]LogShaderCompilers: Display: Shaders left to compile 310
+[2019.08.19-14.22.20:636][666]LogShaderCompilers: Display: Shaders left to compile 300
+[2019.08.19-14.22.40:142][878]LogShaderCompilers: Display: Shaders left to compile 290
+[2019.08.19-14.23.12:647][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.08.19-14.23.13:885][232]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.19-14.23.15:393][239]LogSlate: Took 0.000922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.19-14.23.16:790][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-14.23.18:744][257]LogShaderCompilers: Display: Shaders left to compile 280
+[2019.08.19-14.23.29:141][315]LogShaderCompilers: Display: Shaders left to compile 270
+[2019.08.19-14.23.29:225][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-14.23.43:588][395]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.19-14.23.43:771][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-14.23.51:308][446]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-14.23.58:771][490]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.19-14.23.59:045][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-14.24.08:696][542]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.08.19-14.24.08:726][542]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.19-14.24.11:250][542]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0025 seconds. Added 117 classes and 0 folders.
+[2019.08.19-14.24.19:907][542]LogShaderCompilers: Display: Shaders left to compile 260
+[2019.08.19-14.24.19:907][542]LogSlate: Took 0.000791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.19-14.24.23:162][559]LogShaderCompilers: Display: Shaders left to compile 250
+[2019.08.19-14.24.37:942][640]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.19-14.24.38:139][640]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.19-14.24.41:497][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-14.24.45:478][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-14.24.45:490][684]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.19-14.24.50:724][684]LogShaderCompilers: Display: Shaders left to compile 240
+[2019.08.19-14.25.26:461][862]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.19-14.25.26:545][862]LogShaderCompilers: Display: Shaders left to compile 230
+[2019.08.19-14.25.26:640][862]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.19-14.25.34:038][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-14.25.40:361][933]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.19-14.25.51:340][933]LogShaderCompilers: Display: Shaders left to compile 220
+[2019.08.19-14.25.51:340][933]LogSlate: Window 'Choose Skeleton' being destroyed
+[2019.08.19-14.25.52:999][933]LogSlate: Window 'Merge Bones' being destroyed
+[2019.08.19-14.25.54:100][933]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.08.19-14.25.54:636][933]LogSlate: Window 'Message' being destroyed
+[2019.08.19-14.26.44:632][193]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.08.19-14.26.45:485][197]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.08.19-14.27.05:190][298]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.08.19-14.27.32:671][442]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.08.19-14.27.46:848][517]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.08.19-14.27.47:810][522]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.08.19-14.28.30:374][711]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.08.19-14.28.32:932][720]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.08.19-14.28.44:644][755]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.08.19-14.29.01:391][816]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.08.19-14.29.07:772][847]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.08.19-14.29.12:720][873]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.08.19-14.29.34:942][993]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-14.29.35:016][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-14.29.35:017][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-14.29.35:017][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-14.29.35:018][993]PIE: New page: PIE session: ThirdPersonExampleMap (19 באוג׳ 2019, 20:29:35)
+[2019.08.19-14.29.35:018][993]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.19-14.29.35:084][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065836s)
+[2019.08.19-14.29.35:087][993]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-14.29.35:088][993]LogPlayLevel: PIE: World Init took: (0.002868s)
+[2019.08.19-14.29.35:088][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.069653s)
+[2019.08.19-14.29.35:320][993]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-14.29.35:406][993]LogInit: FAudioDevice initialized.
+[2019.08.19-14.29.35:449][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-14.29.35:901][993]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.19-17.29.35
+[2019.08.19-14.29.35:904][993]LogWorld: Bringing up level for play took: 0.008599
+[2019.08.19-14.29.35:922][993]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.368
+[2019.08.19-14.29.35:923][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-14.29.35:923][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-14.29.36:360][998]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.08.19-14.29.42:029][ 78]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.08.19-14.29.53:791][240]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-14.29.53:791][240]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-14.29.53:793][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-14.29.53:984][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-14.29.53:986][240]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.19-14.29.53:986][240]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonSamurai/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonSamurai/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.19-14.29.54:135][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-14.29.54:306][241]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.19-14.29.55:841][259]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.19-14.29.58:293][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-14.30.10:463][424]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.19-14.30.10:915][424]LogAIModule: Creating AISystem for world level1
+[2019.08.19-14.30.10:980][424]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/lvl1/level1.level1
+[2019.08.19-14.30.12:343][424]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.19-14.30.12:560][424]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.19-14.30.15:711][424]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.19-14.30.16:016][424]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.19-14.30.17:928][424]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-14.30.17:934][424]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-14.30.17:936][424]LightingResults: New page: Lighting Build
+[2019.08.19-14.30.17:937][424]LoadErrors: New page: Loading map: level1.umap
+[2019.08.19-14.30.17:962][424]MapCheck: New page: Map Check
+[2019.08.19-14.30.17:962][424]LightingResults: New page: Lighting Build
+[2019.08.19-14.30.18:178][424]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.08.19-14.30.19:365][424]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-14.30.19:375][424]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 10.401ms to complete.
+[2019.08.19-14.30.19:376][424]LogFileHelpers: Loading map 'level1' took 1.444
+[2019.08.19-14.30.21:721][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_DirtPath_5)
+[2019.08.19-14.30.23:330][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-14.30.23:454][477]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-14.30.23:532][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-14.30.23:532][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-14.30.23:532][477]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 20:30:23)
+[2019.08.19-14.30.23:533][477]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-14.30.23:944][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.410272s)
+[2019.08.19-14.30.23:945][477]LogAIModule: Creating AISystem for world level1
+[2019.08.19-14.30.23:945][477]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2019.08.19-14.30.23:946][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.413410s)
+[2019.08.19-14.30.24:021][477]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-14.30.24:065][477]LogInit: FAudioDevice initialized.
+[2019.08.19-14.30.24:104][477]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-14.30.24:187][477]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-17.30.24
+[2019.08.19-14.30.24:189][477]LogWorld: Bringing up level for play took: 0.085547
+[2019.08.19-14.30.24:208][477]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 1.655
+[2019.08.19-14.30.24:209][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-14.30.31:207][624]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-14.30.31:208][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-14.30.31:337][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-14.30.31:338][624]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-14.30.31:420][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-14.30.31:544][625]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.08.19-14.30.33:966][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-14.30.41:783][816]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.19-14.31.18:699][237]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.19-14.31.21:312][271]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-14.31.21:365][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-14.31.21:365][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-14.31.21:365][271]PIE: New page: PIE session: level1 (19 באוג׳ 2019, 20:31:21)
+[2019.08.19-14.31.21:365][271]LogPlayLevel: Creating play world package: /Game/Levels/lvl1/UEDPIE_0_level1
+[2019.08.19-14.31.21:649][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.284023s)
+[2019.08.19-14.31.21:650][271]LogAIModule: Creating AISystem for world level1
+[2019.08.19-14.31.21:651][271]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2019.08.19-14.31.21:651][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/lvl1/level1.level1 to /Game/Levels/lvl1/UEDPIE_0_level1.level1 (0.285890s)
+[2019.08.19-14.31.21:726][271]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-14.31.21:763][271]LogInit: FAudioDevice initialized.
+[2019.08.19-14.31.21:809][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-14.31.21:886][271]LogWorld: Bringing World /Game/Levels/lvl1/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.08.19-17.31.21
+[2019.08.19-14.31.21:888][271]LogWorld: Bringing up level for play took: 0.077521
+[2019.08.19-14.31.21:906][271]PIE: Play in editor start time for /Game/Levels/lvl1/UEDPIE_0_level1 1.353
+[2019.08.19-14.31.21:907][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-14.31.29:621][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-14.31.29:622][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-14.31.29:755][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-14.31.29:756][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/lvl1/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Levels/lvl1/level1.level1_C' with ClassGeneratedBy '/Game/Levels/lvl1/level1.level1:PersistentLevel.level1'
+[2019.08.19-14.31.29:870][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-14.31.29:956][399]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.08.19-14.31.32:204][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-14.31.32:327][439]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.19-14.31.32:411][439]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.19-14.31.52:128][815]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.19-14.32.03:281][971]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.19-14.32.03:364][971]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
