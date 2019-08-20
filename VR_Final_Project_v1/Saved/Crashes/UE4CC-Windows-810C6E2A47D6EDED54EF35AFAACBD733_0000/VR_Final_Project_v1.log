@@ -1,0 +1,1391 @@
+﻿Log file open, 08/20/19 12:43:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_Final_Project_v1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.154368
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.138s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7560U CPU @ 2.40GHz, GPU: Intel(R) Iris(TM) Plus Graphics 640
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.20-09.43.27:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.20-09.43.27:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.20-09.43.27:196][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.20-09.43.27:201][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.20-09.43.27:201][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.20-09.43.27:202][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.20-09.43.27:203][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.20-09.43.27:203][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.20-09.43.27:203][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.20-09.43.27:203][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.20-09.43.27:203][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.20-09.43.27:203][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.20-09.43.27:203][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.20-09.43.27:203][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:203][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.20-09.43.27:203][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.20-09.43.27:203][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.20-09.43.27:203][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.20-09.43.27:216][  0]LogHAL: Display: Platform has ~ 16 GB [16894550016 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.08.20-09.43.27:216][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.20-09.43.27:216][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.20-09.43.27:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.20-09.43.27:217][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.20-09.43.27:217][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.20-09.43.27:218][  0]LogInit: Computer: MEITAR
+[2019.08.20-09.43.27:218][  0]LogInit: User: Meitar
+[2019.08.20-09.43.27:218][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.08.20-09.43.27:218][  0]LogInit: High frequency timer resolution =2.343752 MHz
+[2019.08.20-09.43.27:218][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2019.08.20-09.43.27:218][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.20-09.43.27:218][  0]LogMemory: Process Physical Memory: 102.42 MB used, 102.42 MB peak
+[2019.08.20-09.43.27:218][  0]LogMemory: Process Virtual Memory: 84.53 MB used, 84.53 MB peak
+[2019.08.20-09.43.27:218][  0]LogMemory: Physical Memory: 5060.13 MB used,  11051.77 MB free, 16111.90 MB total
+[2019.08.20-09.43.27:218][  0]LogMemory: Virtual Memory: 4614.72 MB used,  134213112.00 MB free, 134217728.00 MB total
+[2019.08.20-09.43.27:241][  0]LogInit: Using OS detected language (en-US).
+[2019.08.20-09.43.27:241][  0]LogInit: Using OS detected locale (he-IL).
+[2019.08.20-09.43.27:242][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.20-09.43.27:609][  0]LogStreaming: Display: Took  0.368s to InitEngineTextLocalization.
+[2019.08.20-09.43.27:609][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.20-09.43.27:657][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.20-09.43.27:657][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.20-09.43.27:968][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.20-09.43.27:968][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.20-09.43.27:977][  0]LogD3D11RHI:    0. 'Intel(R) Iris(TM) Plus Graphics 640' (Feature Level 11_0)
+[2019.08.20-09.43.27:977][  0]LogD3D11RHI:       128/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.08.20-09.43.27:980][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.20-09.43.27:980][  0]LogD3D11RHI:       0/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.20-09.43.27:980][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.20-09.43.27:985][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.20-09.43.27:985][  0]LogD3D11RHI:     GPU DeviceId: 0x5926 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.20-09.43.27:985][  0]LogWindows: EnumDisplayDevices:
+[2019.08.20-09.43.27:985][  0]LogWindows:    0. 'Intel(R) Iris(TM) Plus Graphics 640' (P:1 D:1)
+[2019.08.20-09.43.27:985][  0]LogWindows:    1. 'Intel(R) Iris(TM) Plus Graphics 640' (P:0 D:0)
+[2019.08.20-09.43.27:986][  0]LogWindows:    2. 'Intel(R) Iris(TM) Plus Graphics 640' (P:0 D:0)
+[2019.08.20-09.43.27:986][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.08.20-09.43.27:986][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(TM) Plus Graphics 640
+[2019.08.20-09.43.27:986][  0]LogD3D11RHI:   Driver Version: 21.20.16.4664 (internal:21.20.16.4664, unified:21.20.16.4664)
+[2019.08.20-09.43.27:986][  0]LogD3D11RHI:      Driver Date: 4-21-2017
+[2019.08.20-09.43.27:986][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2019.08.20-09.43.28:023][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.08.20-09.43.28:023][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.20-09.43.28:032][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.08.20-09.43.28:463][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.20-09.43.28:475][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.20-09.43.28:489][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.20-09.43.28:503][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.20-09.43.28:517][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.20-09.43.28:533][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.20-09.43.28:548][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.20-09.43.28:566][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.20-09.43.28:575][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:680][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.20-09.43.28:683][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.20-09.43.28:748][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.20-09.43.28:748][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.20-09.43.28:781][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.20-09.43.28:781][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.20-09.43.28:799][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.20-09.43.28:815][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.20-09.43.28:828][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.20-09.43.28:841][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.20-09.43.28:892][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.20-09.43.28:892][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.20-09.43.28:892][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.20-09.43.28:961][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Intermediate/Shaders/WorkingDirectory/12032/).
+[2019.08.20-09.43.28:961][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Meitar/AppData/Local/Temp/UnrealShaderWorkingDir/AE1E9C4442D31FAE47BD51800287BFF2/'.
+[2019.08.20-09.43.28:964][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.20-09.43.28:964][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.20-09.43.28:964][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.20-09.43.29:507][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.20-09.43.29:562][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Meitar/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.20-09.43.29:562][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Meitar/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.08.20-09.43.29:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.20-09.43.29:562][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.20-09.43.29:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.20-09.43.29:562][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.20-09.43.29:581][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.20-09.43.29:581][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.20-09.43.29:581][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.20-09.43.29:608][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Meitar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.20-09.43.29:608][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.20-09.43.29:608][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.20-09.43.29:636][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.20-09.43.29:637][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.20-09.43.29:639][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.20-09.43.29:739][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2019.08.20-09.43.30:109][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.20-09.43.30:267][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.20-09.43.30:271][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.20-09.43.30:271][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.20-09.43.30:272][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.20-09.43.30:272][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.20-09.43.30:290][  0]LogNetVersion: VR_Final_Project_v1 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4124830842)
+[2019.08.20-09.43.30:826][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.078863 seconds
+[2019.08.20-09.43.30:831][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.08.20-09.43.30:831][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.08.20-09.43.30:831][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.20-09.43.31:871][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.20-09.43.31:886][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.20-09.43.32:734][  0]SourceControl: Source control is disabled
+[2019.08.20-09.43.32:734][  0]SourceControl: Source control is disabled
+[2019.08.20-09.43.32:736][  0]SourceControl: Source control is disabled
+[2019.08.20-09.43.32:737][  0]SourceControl: Source control is disabled
+[2019.08.20-09.43.32:918][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.20-09.43.33:009][  0]LogOcInput: OculusInput pre-init called
+[2019.08.20-09.43.33:162][  0]LogEngine: Initializing Engine...
+[2019.08.20-09.43.33:164][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.20-09.43.33:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.20-09.43.33:166][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.20-09.43.33:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.20-09.43.33:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.20-09.43.33:400][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.20-09.43.33:419][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.20-09.43.33:440][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.20-09.43.35:052][  0]LogInit: FAudioDevice initialized.
+[2019.08.20-09.43.35:053][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.20-09.43.35:111][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Meitar/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.20-09.43.35:115][  0]LogInit: Texture streaming: Enabled
+[2019.08.20-09.43.35:137][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.20-09.43.35:151][  0]LogInit: Transaction tracking system initialized
+[2019.08.20-09.43.35:177][  0]BlueprintLog: New page: Editor Load
+[2019.08.20-09.43.35:269][  0]LocalizationService: Localization service is disabled
+[2019.08.20-09.43.35:767][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.20-09.43.35:767][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.20-09.43.35:767][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.20-09.43.35:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.20-09.43.35:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.20-09.43.35:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.20-09.43.35:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.20-09.43.35:942][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/' took 0.04s
+[2019.08.20-09.43.35:942][  0]SourceControl: Source control is disabled
+[2019.08.20-09.43.35:943][  0]LightingResults: New page: Lighting Build
+[2019.08.20-09.43.35:947][  0]MapCheck: New page: Map Check
+[2019.08.20-09.43.35:948][  0]LightingResults: New page: Lighting Build
+[2019.08.20-09.43.36:310][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.20-09.43.36:337][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.20-09.43.36:337][  0]LogStreaming: Display: Flushing async loaders.
+[2019.08.20-09.43.37:161][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/lvl1/level1) is flushing async loading
+[2019.08.20-09.43.37:448][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-09.43.37:500][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-09.43.37:501][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.744ms to complete.
+[2019.08.20-09.43.37:501][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.559
+[2019.08.20-09.43.37:609][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-09.43.37:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-09.43.37:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-09.43.37:630][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-09.43.37:638][  0]LogCollectionManager: Loaded 0 collections in 0.001932 seconds
+[2019.08.20-09.43.37:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Collections/' took 0.01s
+[2019.08.20-09.43.37:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Developers/Meitar/Collections/' took 0.01s
+[2019.08.20-09.43.37:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Collections/' took 0.01s
+[2019.08.20-09.43.37:705][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.20-09.43.37:713][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2651 classes and 620 folders.
+[2019.08.20-09.43.37:720][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.20-09.43.37:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.20-09.43.37:810][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.20-09.43.37:816][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.20-09.43.37:832][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.20-09.43.37:835][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.20-09.43.37:844][  0]LogSlate: Took 0.001696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.20-09.43.37:932][  0]LogRenderer: Reallocating scene render targets to support 732x332 Format 10 NumSamples 1 (Frame:1).
+[2019.08.20-09.43.38:976][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.20-09.43.38:976][  0]LogLoad: (Engine Initialization) Total time: 14.00 seconds
+[2019.08.20-09.43.38:976][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.20-09.43.38:986][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.20-09.43.39:042][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.20-09.43.39:185][  2]LogAssetRegistry: Asset discovery search completed in 9.4677 seconds
+[2019.08.20-09.43.39:188][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.20-09.43.39:188][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2019.08.20-09.45.25:604][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.47.05:213][713]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-09.47.05:221][713]LogSlate: Took 0.001322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.20-09.47.23:040][713]LogSlate: Window 'Message' being destroyed
+[2019.08.20-09.47.31:890][767]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-09.47.47:672][767]LogSlate: Window 'Message' being destroyed
+[2019.08.20-09.47.52:754][855]LogRenderer: Reallocating scene render targets to support 732x404 Format 10 NumSamples 1 (Frame:1).
+[2019.08.20-09.47.56:337][207]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.08.20-09.47.56:768][207]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.08.20-09.47.57:434][207]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.20-09.48.01:786][290]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2019.08.20-09.48.04:250][308]LogSlate: Window 'ThirdPersonExampleMap* - Level Blueprint Editor' being destroyed
+[2019.08.20-09.48.04:390][308]LogSlate: Window 'ThirdPersonExampleMap* - Level Blueprint Editor' being destroyed
+[2019.08.20-09.48.09:420][437]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-09.48.11:588][437]LogSlate: Window 'Message' being destroyed
+[2019.08.20-09.48.39:024][666]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.135 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.20-09.49.38:212][156]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-09.49.46:116][156]LogSlate: Window 'Message' being destroyed
+[2019.08.20-09.49.51:646][208]LogRenderer: Reallocating scene render targets to support 732x412 Format 10 NumSamples 1 (Frame:2313).
+[2019.08.20-09.49.58:197][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_59)
+[2019.08.20-09.49.58:563][270]LogSlate: Took 0.003649 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.20-09.49.59:194][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.50.04:245][312]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/lvl1/level1.level1
+[2019.08.20-09.50.11:205][312]LogSlate: Window 'Save Content' being destroyed
+[2019.08.20-09.50.11:298][312]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: level1, Actor: /Game/Levels/lvl1/level1.level1:PersistentLevel.REINST_level1_C_0
+[2019.08.20-09.50.12:661][312]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level1E65767B045E66E754382E8A9B6550E95.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap'
+[2019.08.20-09.50.12:665][312]LogFileHelpers: Saving map 'level1' took 1.452
+[2019.08.20-09.50.12:933][312]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap4D252A524ECD2BF7106236ADA611F69E.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.20-09.50.12:951][312]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.286
+[2019.08.20-09.50.12:952][312]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.20-09.50.12:952][312]LightingResults: New page: Lighting Build
+[2019.08.20-09.50.12:953][312]LoadErrors: New page: Loading map: level1.umap
+[2019.08.20-09.50.12:971][312]MapCheck: New page: Map Check
+[2019.08.20-09.50.12:971][312]LightingResults: New page: Lighting Build
+[2019.08.20-09.50.13:009][312]LogAIModule: Creating AISystem for world level1
+[2019.08.20-09.50.13:057][312]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-09.50.13:120][312]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-09.50.13:121][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.337ms to complete.
+[2019.08.20-09.50.13:122][312]LogFileHelpers: Loading map 'level1' took 0.169
+[2019.08.20-09.50.13:245][312]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.20-09.50.24:101][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.50.39:017][994]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.619 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.20-09.50.52:074][350]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-09.50.52:087][350]LightingResults: New page: Lighting Build
+[2019.08.20-09.50.52:105][350]MapCheck: New page: Map Check
+[2019.08.20-09.50.52:105][350]LightingResults: New page: Lighting Build
+[2019.08.20-09.50.52:168][350]LogAIModule: Creating AISystem for world Untitled
+[2019.08.20-09.50.52:175][350]LoadErrors: New page: New Map
+[2019.08.20-09.50.52:918][350]LogAIModule: Creating AISystem for world level1
+[2019.08.20-09.51.58:197][ 39]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.08.20-09.51.58:269][ 39]LightingResults: New page: Lighting Build
+[2019.08.20-09.51.58:271][ 39]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.08.20-09.51.58:271][ 39]MapCheck: New page: Map Check
+[2019.08.20-09.51.58:271][ 39]LightingResults: New page: Lighting Build
+[2019.08.20-09.51.58:355][ 39]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.20-09.51.58:356][ 39]LogStreaming: Display: Flushing async loaders.
+[2019.08.20-09.51.59:061][ 39]LogStreaming: Error: Couldn't find file for package /Game/Levels/lvl1/level1.
+[2019.08.20-09.51.59:063][ 39]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-09.51.59:124][ 39]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-09.51.59:125][ 39]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.733ms to complete.
+[2019.08.20-09.51.59:128][ 39]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.859
+[2019.08.20-09.52.12:876][302]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0008 seconds. Added 2 classes and 3 folders.
+[2019.08.20-09.52.18:715][346]LogSlate: Window 'Remove Level' being destroyed
+[2019.08.20-09.52.18:847][346]MapCheck: New page: Map Check
+[2019.08.20-09.52.18:847][346]LightingResults: New page: Lighting Build
+[2019.08.20-09.52.34:992][905]LogSlate: Window 'Open Level' being destroyed
+[2019.08.20-09.52.43:227][169]LogSlate: Took 0.000824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.20-09.52.44:674][209]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonHeist/Maps/Demonstration) is flushing async loading
+[2019.08.20-09.52.44:675][209]LogStreaming: Display: Flushing async loaders.
+[2019.08.20-09.52.45:790][209]LogSlate: Window 'Open Level' being destroyed
+[2019.08.20-09.52.56:661][531]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/DemonstrationB6B27AAC48FAF05734E22BA562C99EFF.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Maps/Demonstration.umap'
+[2019.08.20-09.52.56:684][531]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Demonstration_BuiltData4F17090B48B8BB1C095453A77B1F0B8B.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Maps/Demonstration_BuiltData.uasset'
+[2019.08.20-09.52.58:809][559]LogSlate: Window 'Levels' being destroyed
+[2019.08.20-09.52.58:839][559]LogSlate: Window 'Levels' being destroyed
+[2019.08.20-09.53.03:004][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_95)
+[2019.08.20-09.53.04:344][674]Cmd: DELETE
+[2019.08.20-09.53.04:344][674]Cmd: ACTOR DELETE
+[2019.08.20-09.53.04:463][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.20-09.53.04:522][674]LogEditorActor: Deleted 1 Actors (0.177 secs)
+[2019.08.20-09.53.05:895][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_93)
+[2019.08.20-09.53.07:122][727]Cmd: DELETE
+[2019.08.20-09.53.07:123][727]Cmd: ACTOR DELETE
+[2019.08.20-09.53.07:158][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.20-09.53.07:226][727]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2019.08.20-09.53.09:174][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_96)
+[2019.08.20-09.53.10:152][787]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.20-09.53.14:835][879]Cmd: DELETE
+[2019.08.20-09.53.14:835][879]Cmd: ACTOR DELETE
+[2019.08.20-09.53.14:879][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.20-09.53.14:944][879]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2019.08.20-09.53.17:210][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_98)
+[2019.08.20-09.53.19:533][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.53.21:084][ 12]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.20-09.53.21:153][ 12]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2019.08.20-09.53.23:512][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.08.20-09.53.24:305][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_82)
+[2019.08.20-09.53.25:447][ 98]Cmd: DELETE
+[2019.08.20-09.53.25:447][ 98]Cmd: ACTOR DELETE
+[2019.08.20-09.53.25:498][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.20-09.53.25:565][ 98]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2019.08.20-09.53.27:196][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_94)
+[2019.08.20-09.53.28:295][154]Cmd: DELETE
+[2019.08.20-09.53.28:296][154]Cmd: ACTOR DELETE
+[2019.08.20-09.53.28:345][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.20-09.53.28:412][154]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2019.08.20-09.53.30:003][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_97)
+[2019.08.20-09.53.30:898][206]Cmd: DELETE
+[2019.08.20-09.53.30:898][206]Cmd: ACTOR DELETE
+[2019.08.20-09.53.30:938][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.20-09.53.31:008][206]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2019.08.20-09.53.36:067][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.53.36:202][325]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.20-09.53.36:232][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-09.53.36:232][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-09.53.36:233][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-09.53.36:233][325]PIE: New page: PIE session: ThirdPersonExampleMap (20 באוג׳ 2019, 15:53:36)
+[2019.08.20-09.53.36:246][325]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.20-09.53.36:271][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024148s)
+[2019.08.20-09.53.36:272][325]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.20-09.53.36:272][325]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2019.08.20-09.53.36:273][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026144s)
+[2019.08.20-09.53.36:354][325]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.20-09.53.36:407][325]LogInit: FAudioDevice initialized.
+[2019.08.20-09.53.36:458][325]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.20-09.53.36:631][325]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.20-12.53.36
+[2019.08.20-09.53.36:632][325]LogWorld: Bringing up level for play took: 0.004188
+[2019.08.20-09.53.36:660][325]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.08.20-09.53.36:662][325]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.618
+[2019.08.20-09.53.36:662][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-09.53.36:662][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-09.53.51:235][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-09.53.51:236][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-09.53.51:236][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-09.53.51:349][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.20-09.53.51:350][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-09.53.51:350][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-09.53.51:444][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-09.53.51:512][689]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.08.20-09.53.53:739][737]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.20-09.53.56:986][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.20-09.54.28:852][467]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.20-09.54.36:385][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-09.54.48:935][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-09.54.54:182][946]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Demonstration, Actor: /Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.REINST_Demonstration_C_0
+[2019.08.20-09.54.55:363][946]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/DemonstrationBCF702A14A137BB2B1865888AA6C1DCB.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Maps/Demonstration.umap'
+[2019.08.20-09.54.55:382][946]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Demonstration_BuiltDataCF848A6946BFE500615D93B3C786B7E3.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Maps/Demonstration_BuiltData.uasset'
+[2019.08.20-09.54.55:709][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-09.54.58:385][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.54.58:557][999]LogSlate: Window 'Levels' being destroyed
+[2019.08.20-09.54.58:609][999]LogSlate: Window 'Levels' being destroyed
+[2019.08.20-09.54.59:537][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Wall_Exterior_Window_5)
+[2019.08.20-09.55.00:746][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.55.00:849][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.20-09.55.00:880][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-09.55.00:880][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-09.55.00:880][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-09.55.00:881][ 38]PIE: New page: PIE session: ThirdPersonExampleMap (20 באוג׳ 2019, 15:55:00)
+[2019.08.20-09.55.00:881][ 38]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.20-09.55.00:915][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033537s)
+[2019.08.20-09.55.00:917][ 38]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.20-09.55.00:918][ 38]LogPlayLevel: PIE: World Init took: (0.002793s)
+[2019.08.20-09.55.00:918][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037079s)
+[2019.08.20-09.55.01:006][ 38]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.20-09.55.01:050][ 38]LogInit: FAudioDevice initialized.
+[2019.08.20-09.55.01:085][ 38]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.20-09.55.01:089][ 38]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.20-12.55.01
+[2019.08.20-09.55.01:089][ 38]LogWorld: Bringing up level for play took: 0.003364
+[2019.08.20-09.55.01:104][ 38]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.06
+[2019.08.20-09.55.01:104][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-09.55.01:104][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-09.55.10:955][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-09.55.10:955][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-09.55.10:956][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-09.55.11:013][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.20-09.55.11:014][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-09.55.11:014][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-09.55.11:096][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-09.55.11:161][498]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.08.20-09.55.19:058][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.08.20-09.55.26:924][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-09.55.27:970][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-09.55.40:754][ 65]LogSlate: Window 'Levels' being destroyed
+[2019.08.20-09.55.40:783][ 65]LogSlate: Window 'Levels' being destroyed
+[2019.08.20-09.55.41:571][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.08.20-09.55.48:193][331]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.20-09.55.53:501][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.56.06:297][794]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.20-09.56.07:092][795]LogSlate: Took 0.001170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.20-09.56.08:882][838]LogRenderer: Reallocating scene render targets to support 732x544 Format 10 NumSamples 1 (Frame:1).
+[2019.08.20-09.56.13:197][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.56.27:785][193]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.20-09.56.27:842][193]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.20-09.56.48:108][674]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonHeist/Meshes/Characters/SK_Character_Male_Overall_01_Duffle.SK_Character_Male_Overall_01_Duffle
+[2019.08.20-09.56.48:123][674]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.08.20-09.56.48:507][674]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-09.56.48:512][674]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.08.20-09.56.48:577][674]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-09.56.49:015][674]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.08.20-09.56.49:027][674]LogRenderer: Reallocating scene render targets to support 760x544 Format 10 NumSamples 1 (Frame:1).
+[2019.08.20-09.57.03:945][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-09.57.04:182][907]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist_ThirdPerson_AnimBP.polyHeist_ThirdPerson_AnimBP
+[2019.08.20-09.57.04:276][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-09.57.04:772][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-09.57.07:105][945]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/PolygonHeist/Meshes/Characters/SK_Character_Male_Overall_01_Duffle_PhysicsAsset.SK_Character_Male_Overall_01_Duffle_PhysicsAsset
+[2019.08.20-09.57.07:198][945]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0007 seconds. Added 7 classes and 3 folders.
+[2019.08.20-09.57.07:214][945]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.00.44:148][485]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton.SK_Character_Heist_Skeleton
+[2019.08.20-10.00.44:192][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.00.44:269][485]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.01.00:832][746]LogSlate: Window 'SK_Character_Male_Overall_01_Duffle' being destroyed
+[2019.08.20-10.01.02:774][775]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton.SK_Character_Heist_Skeleton
+[2019.08.20-10.01.02:788][775]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.01.02:895][775]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.01.08:214][861]LogSlate: Window 'SK_Character_Heist_Skeleton' being destroyed
+[2019.08.20-10.01.08:295][861]LogSlate: Window 'SK_Character_Heist_Skeleton' being destroyed
+[2019.08.20-10.01.24:182][117]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist_ThirdPerson_AnimBP.polyHeist_ThirdPerson_AnimBP
+[2019.08.20-10.01.24:203][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.01.24:684][117]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.01.31:446][237]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton.SK_Character_Heist_Skeleton
+[2019.08.20-10.01.31:466][237]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.01.31:539][237]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.01.35:828][300]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonHeist/Meshes/Characters/SK_Character_Female_FBI.SK_Character_Female_FBI
+[2019.08.20-10.01.35:855][300]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.01.35:940][300]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.03.16:391][922]LogSlate: Window 'SK_Character_Female_FBI' being destroyed
+[2019.08.20-10.03.23:320][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.03.31:728][252]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.20-10.03.32:819][279]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.20-10.03.32:874][279]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2019.08.20-10.03.35:457][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.03.42:072][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.20-10.03.48:920][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.04.42:293][644]LogStaticMesh: Building static mesh SM_Item_Mask_Beanie_01...
+[2019.08.20-10.04.42:367][644]LogStaticMesh: Built static mesh [0.07s] /Game/PolygonHeist/Meshes/Items/SM_Item_Mask_Beanie_01.SM_Item_Mask_Beanie_01
+[2019.08.20-10.05.16:369][208]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.20-10.06.21:072][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.06.25:514][149]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/PolygonHeist/Meshes/Items/SM_Item_Mask_Beanie_01.SM_Item_Mask_Beanie_01
+[2019.08.20-10.06.26:043][150]LogRenderer: Reallocating scene render targets to support 952x564 Format 10 NumSamples 1 (Frame:1).
+[2019.08.20-10.06.28:336][189]LogSlate: Window 'SM_Item_Mask_Beanie_01' being destroyed
+[2019.08.20-10.06.28:412][189]LogSlate: Window 'SM_Item_Mask_Beanie_01' being destroyed
+[2019.08.20-10.07.18:768][302]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.20-10.07.28:516][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.07.33:748][580]LogTexture: Display: Building textures: T_PeopleMasks_White (AutoDXT, 512X512)
+[2019.08.20-10.07.33:748][580]LogStaticMesh: Building static mesh SM_Item_Mask_Simple_Robber_01...
+[2019.08.20-10.07.33:748][580]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.20-10.07.33:750][580]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonHeist/Meshes/Items/SM_Item_Mask_Simple_Robber_01.SM_Item_Mask_Simple_Robber_01
+[2019.08.20-10.07.33:760][580]LogMaterial: Display: Missing cached shader map for material Mat_Simple_PeopleMasks_White, compiling. 
+[2019.08.20-10.07.33:936][580]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.08.20-10.07.33:936][580]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.20-10.07.33:936][580]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.08.20-10.07.38:224][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.08.08:328][ 72]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.08.20-10.08.49:099][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.08.50:065][750]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap_Auto17FB75628434E94C6FCE612873C7FD449.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.08.20-10.08.50:096][750]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Demonstration, Actor: /Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.REINST_Demonstration_C_0
+[2019.08.20-10.08.51:251][750]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Demonstration_Auto1675A09B14CCB8DFA569D98ADA1753661.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Maps/Demonstration_Auto1.umap'
+[2019.08.20-10.08.51:256][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.628
+[2019.08.20-10.08.51:256][750]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.628
+[2019.08.20-10.08.51:262][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.08.20-10.08.51:292][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.08.20-10.08.51:292][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.08.20-10.08.51:340][750]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonCharacter_Auto1AB5948734E97847016A09B8662DF7FF6.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2019.08.20-10.08.51:342][750]LogFileHelpers: Auto-saving content packages took 0.082
+[2019.08.20-10.10.10:341][166]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.20-10.10.14:642][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.11.01:161][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.11.23:383][468]LogStaticMesh: Building static mesh SM_Item_Hair_Man_01...
+[2019.08.20-10.11.23:451][468]LogStaticMesh: Built static mesh [0.07s] /Game/PolygonHeist/Meshes/Items/SM_Item_Hair_Man_01.SM_Item_Hair_Man_01
+[2019.08.20-10.11.36:020][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.11.38:909][728]Cmd: TRANSACTION UNDO
+[2019.08.20-10.11.38:909][728]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.20-10.11.48:617][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.13.14:536][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.14.21:129][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.14.28:391][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.15.05:890][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.16.06:327][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.16.14:953][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.16.15:070][205]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.20-10.17.11:701][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.17.11:923][190]Cmd: MODE SCALEGRID=0
+[2019.08.20-10.17.22:632][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.17.22:800][381]Cmd: MODE SCALEGRID=1
+[2019.08.20-10.17.34:568][591]Cmd: MODE GRID=0
+[2019.08.20-10.18.21:356][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.19.38:116][283]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.20-10.19.38:346][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.19.38:414][283]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.20.22:392][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.21.53:863][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.21.54:349][492]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap_Auto2C4E7603543282BD4F00F69A1887B5E98.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.08.20-10.21.54:354][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.417
+[2019.08.20-10.21.54:354][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.417
+[2019.08.20-10.21.54:356][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.08.20-10.21.54:390][492]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.08.20-10.21.54:391][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.08.20-10.21.54:460][492]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonCharacter_Auto2AB6C9C98491371A0EF85BD8A87B01A1B.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.08.20-10.21.54:464][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.08.20-10.21.54:464][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2019.08.20-10.21.54:485][492]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/UE4_Mannequin_Skeleton_Auto23F7D4B0A459A4AF22A580E87463B75D1.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto2.uasset'
+[2019.08.20-10.21.54:489][492]LogFileHelpers: Auto-saving content packages took 0.134
+[2019.08.20-10.22.13:960][773]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.20-10.22.14:016][773]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.20-10.22.22:125][942]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.20-10.22.29:193][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.23.43:503][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.24.03:575][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.24.23:234][ 88]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton.SK_Character_Heist_Skeleton
+[2019.08.20-10.24.23:247][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.24.23:335][ 88]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.24.56:817][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.25.02:167][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.25.07:892][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.25.29:890][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.25.30:298][ 89]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/SK_Character_Heist_SkeletonD5A5A9D24B2C7C0F4527A4B603DF3C85.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton.uasset'
+[2019.08.20-10.25.41:055][219]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.20-10.25.41:140][219]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.20-10.25.45:619][304]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.20-10.25.53:304][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.26.00:631][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.27.35:963][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.28.08:450][678]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.20-10.28.13:966][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.29.39:820][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.29.39:934][ 96]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.20-10.29.47:298][220]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.20-10.29.47:350][220]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.29.47:350][220]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.29.47:376][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-10.29.47:377][220]PIE: New page: PIE session: ThirdPersonExampleMap (20 באוג׳ 2019, 16:29:47)
+[2019.08.20-10.29.47:377][220]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.20-10.29.47:409][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031670s)
+[2019.08.20-10.29.47:410][220]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.20-10.29.47:411][220]LogPlayLevel: PIE: World Init took: (0.001785s)
+[2019.08.20-10.29.47:411][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033801s)
+[2019.08.20-10.29.47:521][220]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.20-10.29.47:563][220]LogInit: FAudioDevice initialized.
+[2019.08.20-10.29.47:596][220]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.20-10.29.47:625][220]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.20-13.29.47
+[2019.08.20-10.29.47:625][220]LogWorld: Bringing up level for play took: 0.028701
+[2019.08.20-10.29.47:640][220]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap ‎-0.404
+[2019.08.20-10.29.47:640][220]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.29.47:640][220]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.30.06:979][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.30.06:980][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.30.06:981][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-10.30.07:085][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.20-10.30.07:085][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.30.07:086][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.30.07:167][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-10.30.07:216][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.08.20-10.30.09:382][156]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.20-10.30.14:093][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.20-10.30.15:739][326]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.20-10.30.25:125][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.08.20-10.30.26:395][702]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.20-10.30.29:188][795]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.20-10.30.31:372][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.30.37:408][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.20-10.30.55:396][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.31.41:845][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.31.57:482][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.32.43:149][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.32.43:338][792]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.20-10.32.47:261][886]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.20-10.32.47:308][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.32.47:308][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.32.47:308][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-10.32.47:308][886]PIE: New page: PIE session: ThirdPersonExampleMap (20 באוג׳ 2019, 16:32:47)
+[2019.08.20-10.32.47:308][886]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.20-10.32.47:337][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027988s)
+[2019.08.20-10.32.47:338][886]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.20-10.32.47:339][886]LogPlayLevel: PIE: World Init took: (0.002021s)
+[2019.08.20-10.32.47:339][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030403s)
+[2019.08.20-10.32.47:433][886]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.20-10.32.47:480][886]LogInit: FAudioDevice initialized.
+[2019.08.20-10.32.47:520][886]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.20-10.32.47:523][886]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.20-13.32.47
+[2019.08.20-10.32.47:523][886]LogWorld: Bringing up level for play took: 0.002617
+[2019.08.20-10.32.47:539][886]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap ‎-0.505
+[2019.08.20-10.32.47:539][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.32.47:539][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.32.54:615][191]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.32.54:615][191]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.32.54:616][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-10.32.54:688][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.20-10.32.54:689][191]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.32.54:689][191]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.32.54:777][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-10.32.54:826][192]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.08.20-10.32.56:137][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.33.09:017][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.33.09:050][556]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.20-10.33.33:798][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.33.40:407][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.33.40:583][204]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.20-10.34.09:737][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.34.10:288][838]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap_Auto3579011EE42812C423209BC8B580CAD02.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.08.20-10.34.10:320][838]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.487
+[2019.08.20-10.34.10:320][838]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.487
+[2019.08.20-10.34.10:322][838]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.08.20-10.34.10:359][838]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.08.20-10.34.10:359][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.08.20-10.34.10:429][838]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonCharacter_Auto3F81817724078CF4D90B02BABFF7AD500.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2019.08.20-10.34.10:432][838]LogFileHelpers: Auto-saving content packages took 0.112
+[2019.08.20-10.35.04:263][705]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton.SK_Character_Heist_Skeleton
+[2019.08.20-10.35.04:312][705]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.35.04:409][705]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.36.05:914][934]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.20-10.36.05:973][934]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.20-10.36.40:730][115]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.20-10.37.01:087][378]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.08.20-10.37.14:817][893]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_Jump.polyHeist2_ThirdPerson_Jump
+[2019.08.20-10.37.14:818][893]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.polyHeist2_ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-10.37.14:841][893]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_Jump.polyHeist2_ThirdPerson_Jump
+[2019.08.20-10.37.14:842][893]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.polyHeist2_ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-10.37.14:869][893]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Loop.polyHeist2_ThirdPersonJump_Loop
+[2019.08.20-10.37.14:870][893]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.polyHeist2_ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-10.37.14:907][893]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Loop.polyHeist2_ThirdPersonJump_Loop
+[2019.08.20-10.37.14:908][893]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.polyHeist2_ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-10.37.14:952][893]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Start.polyHeist2_ThirdPersonJump_Start
+[2019.08.20-10.37.14:953][893]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.polyHeist2_ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-10.37.14:979][893]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Start.polyHeist2_ThirdPersonJump_Start
+[2019.08.20-10.37.14:980][893]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.polyHeist2_ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-10.37.15:020][893]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonIdle.polyHeist2_ThirdPersonIdle
+[2019.08.20-10.37.15:022][893]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.polyHeist2_ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-10.37.15:130][893]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonWalk.polyHeist2_ThirdPersonWalk
+[2019.08.20-10.37.15:130][893]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.polyHeist2_ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-10.37.15:168][893]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonRun.polyHeist2_ThirdPersonRun
+[2019.08.20-10.37.15:169][893]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.polyHeist2_ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.20-10.37.15:251][893]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.20-10.37.42:130][347]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_AnimBP.polyHeist2_ThirdPerson_AnimBP
+[2019.08.20-10.37.42:159][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.37.42:646][347]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.37.45:666][407]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton.SK_Character_Heist_Skeleton
+[2019.08.20-10.37.45:716][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.37.45:805][407]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.38.07:735][847]LogSlate: Window 'polyHeist2_ThirdPerson_AnimBP*' being destroyed
+[2019.08.20-10.38.07:803][847]LogSlate: Window 'polyHeist2_ThirdPerson_AnimBP*' being destroyed
+[2019.08.20-10.38.09:505][906]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.20-10.38.11:244][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.38.14:879][ 24]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.20-10.38.23:142][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.38.29:685][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.38.32:954][319]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.20-10.38.33:018][319]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.08.20-10.39.59:298][744]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.20-10.39.59:317][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-10.39.59:432][744]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-10.40.04:432][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.40.48:197][493]LogSlate: Window 'UE4_Mannequin_Skeleton*' being destroyed
+[2019.08.20-10.40.48:269][493]LogSlate: Window 'UE4_Mannequin_Skeleton*' being destroyed
+[2019.08.20-10.40.52:302][583]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.08.20-10.41.00:652][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.41.22:311][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.42.25:074][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.43.20:088][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.43.20:127][855]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.20-10.43.30:275][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-10.43.41:809][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.44.17:901][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.47.35:243][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.47.35:385][367]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.08.20-10.47.40:898][445]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonCharacterD360713349851401F223078619207445.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.08.20-10.47.59:335][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.47.59:520][761]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.20-10.47.59:595][761]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.08.20-10.48.01:160][796]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.20-10.48.01:200][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.48.01:201][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.48.01:201][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-10.48.01:201][796]PIE: New page: PIE session: ThirdPersonExampleMap (20 באוג׳ 2019, 16:48:01)
+[2019.08.20-10.48.01:201][796]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.20-10.48.01:233][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032026s)
+[2019.08.20-10.48.01:235][796]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.20-10.48.01:235][796]LogPlayLevel: PIE: World Init took: (0.001723s)
+[2019.08.20-10.48.01:235][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034126s)
+[2019.08.20-10.48.01:349][796]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.20-10.48.01:393][796]LogInit: FAudioDevice initialized.
+[2019.08.20-10.48.01:426][796]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.20-10.48.01:429][796]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.08.20-13.48.01
+[2019.08.20-10.48.01:429][796]LogWorld: Bringing up level for play took: 0.002592
+[2019.08.20-10.48.01:444][796]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap ‎-0.6
+[2019.08.20-10.48.01:444][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.48.01:444][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.48.37:105][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.48.37:106][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.48.37:107][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-10.48.37:178][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.20-10.48.37:179][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.20-10.48.37:179][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/PolygonHeist/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.08.20-10.48.37:254][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.20-10.48.37:303][369]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.08.20-10.48.48:975][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-10.49.14:326][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap_Auto457B2AFD243671D27F9D16C82F30F66E4.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2019.08.20-10.49.14:329][899]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.230
+[2019.08.20-10.49.14:329][899]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.230
+[2019.08.20-10.49.14:331][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton] ([1] browsable assets)...
+[2019.08.20-10.49.14:331][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton]
+[2019.08.20-10.49.14:381][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/SK_Character_Heist_Skeleton_Auto4A14A3BB44C63AB4CB15369046D9C398.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton_Auto4.uasset'
+[2019.08.20-10.49.14:384][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.08.20-10.49.14:384][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2019.08.20-10.49.14:403][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/UE4_Mannequin_Skeleton_Auto4943D8F32421E9B8B3D12039A912D1819.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto4.uasset'
+[2019.08.20-10.49.14:405][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_Jump] ([1] browsable assets)...
+[2019.08.20-10.49.14:439][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_Jump.polyHeist2_ThirdPerson_Jump]
+[2019.08.20-10.49.14:439][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_Jump]
+[2019.08.20-10.49.14:452][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPerson_Jump_AutoE04C1A55407809A8A2F27BAC37431073.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_Jump_Auto4.uasset'
+[2019.08.20-10.49.14:455][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Loop] ([1] browsable assets)...
+[2019.08.20-10.49.14:485][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Loop.polyHeist2_ThirdPersonJump_Loop]
+[2019.08.20-10.49.14:485][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Loop]
+[2019.08.20-10.49.14:498][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonJump_Loop_6205AD5F4A94F6E42EAEB5A00809CF54.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Loop_Auto4.uasset'
+[2019.08.20-10.49.14:501][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Start] ([1] browsable assets)...
+[2019.08.20-10.49.14:527][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Start.polyHeist2_ThirdPersonJump_Start]
+[2019.08.20-10.49.14:527][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Start]
+[2019.08.20-10.49.14:541][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonJump_Start05D999E64FC0BE7356057E8CE6297F75.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Start_Auto4.uasset'
+[2019.08.20-10.49.14:543][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_IdleRun_2D] ([1] browsable assets)...
+[2019.08.20-10.49.14:568][899]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_IdleRun_2D.polyHeist2_ThirdPerson_IdleRun_2D]
+[2019.08.20-10.49.14:568][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_IdleRun_2D]
+[2019.08.20-10.49.14:579][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPerson_IdleRun_244109834468F18E847F70FB05D8BA9E5.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_IdleRun_2D_Auto4.uasset'
+[2019.08.20-10.49.14:581][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonIdle] ([1] browsable assets)...
+[2019.08.20-10.49.14:608][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonIdle.polyHeist2_ThirdPersonIdle]
+[2019.08.20-10.49.14:608][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonIdle]
+[2019.08.20-10.49.14:648][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonIdle_Auto4C5A2A6FB456B6863150798B801695307.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonIdle_Auto4.uasset'
+[2019.08.20-10.49.14:650][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonWalk] ([1] browsable assets)...
+[2019.08.20-10.49.14:675][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonWalk.polyHeist2_ThirdPersonWalk]
+[2019.08.20-10.49.14:675][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonWalk]
+[2019.08.20-10.49.14:688][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonWalk_Auto43794153A4AE6F6EB193E1D96C09BF052.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonWalk_Auto4.uasset'
+[2019.08.20-10.49.14:690][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonRun] ([1] browsable assets)...
+[2019.08.20-10.49.14:715][899]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonRun.polyHeist2_ThirdPersonRun]
+[2019.08.20-10.49.14:715][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonRun]
+[2019.08.20-10.49.14:728][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonRun_Auto4A8CB0ED54F744469BBE4B0860504891C.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonRun_Auto4.uasset'
+[2019.08.20-10.49.14:732][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_AnimBP] ([1] browsable assets)...
+[2019.08.20-10.49.14:758][899]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_AnimBP.polyHeist2_ThirdPerson_AnimBP]
+[2019.08.20-10.49.14:758][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_AnimBP]
+[2019.08.20-10.49.14:810][899]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPerson_AnimBP_Au9059C0744940CC62B0AF9B8484135DD1.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_AnimBP_Auto4.uasset'
+[2019.08.20-10.49.14:812][899]LogFileHelpers: Auto-saving content packages took 0.481
+[2019.08.20-11.49.06:074][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-11.49.17:032][749]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NewBlueprint.NewBlueprint
+[2019.08.20-11.49.35:911][298]LogSlate: Window 'NewBlueprint' being destroyed
+[2019.08.20-11.51.13:646][264]LogSlate: Window 'Save Content' being destroyed
+[2019.08.20-11.51.13:697][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/UE4_Mannequin_Skeleton837AF38C42AE9025C0CEF8977A0D057A.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.20-11.51.13:750][264]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Demonstration, Actor: /Game/PolygonHeist/Maps/Demonstration.Demonstration:PersistentLevel.REINST_Demonstration_C_0
+[2019.08.20-11.51.14:747][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/DemonstrationD86C5041473E4EF11E67E2A41495435B.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Maps/Demonstration.umap'
+[2019.08.20-11.51.14:754][264]LogFileHelpers: Saving map 'Demonstration' took 1.050
+[2019.08.20-11.51.14:808][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPerson_AnimBPED83140146D60DEFC2B86BA43AABF59D.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_AnimBP.uasset'
+[2019.08.20-11.51.14:820][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPerson_IdleRun_286C5A05F44F0DF2507A6148E25DAC526.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_IdleRun_2D.uasset'
+[2019.08.20-11.51.14:832][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPerson_Jump877E4B8042410783F85478A8228B9C19.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPerson_Jump.uasset'
+[2019.08.20-11.51.14:845][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonIdle17546A1A4A91AFA69325E99ACAA98C48.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonIdle.uasset'
+[2019.08.20-11.51.14:857][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonJump_Loop340D316647A14C947BE6BC9638A1C80D.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Loop.uasset'
+[2019.08.20-11.51.14:869][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonJump_Start83C0F4F44D71EFBD41F812AADB10D446.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonJump_Start.uasset'
+[2019.08.20-11.51.14:881][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonRunA65CFBE84BBAFE8308CE4792B35F9966.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonRun.uasset'
+[2019.08.20-11.51.14:894][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/polyHeist2_ThirdPersonWalk4696F8B44DD3DFBACEC0C1BC1FB04F5E.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/Animations/polyHeist2_ThirdPersonWalk.uasset'
+[2019.08.20-11.51.14:920][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/SK_Character_Heist_Skeleton9322DBDC4339F915ED4E04912CFC63A6.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Meshes/Characters/SK_Character_Heist_Skeleton.uasset'
+[2019.08.20-11.51.15:145][264]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/ThirdPersonExampleMap513CBF21415BFAC724B41D8ED76DE2ED.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.20-11.51.15:181][264]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.255
+[2019.08.20-11.52.46:601][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-11.53.10:155][239]LogLevelStreaming: Display: Failed to find streaming level package file: /Game/Levels/lvl1/level1. This streaming level may not load or save properly.
+[2019.08.20-11.53.10:325][239]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.20-11.53.23:677][755]LogMetaData: Removing '/Game/Levels/lvl1/level1.SKEL_level1_C' ref from Metadata '/Game/Levels/lvl1/ThirdPersonExampleMap.PackageMetaData'
+[2019.08.20-11.53.23:677][755]LogMetaData: Removing '/Game/Levels/lvl1/level1.level1_C' ref from Metadata '/Game/Levels/lvl1/ThirdPersonExampleMap.PackageMetaData'
+[2019.08.20-11.53.24:104][755]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level1_BuiltData1933DFEF47C634CA5129DE81D4F38AEF.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1_BuiltData.uasset'
+[2019.08.20-11.53.24:354][755]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level15EF849D34F0AAC2F5BAB4D9547679D76.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap'
+[2019.08.20-11.53.24:361][755]LogFileHelpers: Saving map 'level1' took 0.251
+[2019.08.20-11.53.26:819][852]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/lvl1/level1.level1
+[2019.08.20-11.53.26:889][852]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.20-11.53.26:889][852]LightingResults: New page: Lighting Build
+[2019.08.20-11.53.26:890][852]LoadErrors: New page: Loading map: level1.umap
+[2019.08.20-11.53.26:893][852]MapCheck: New page: Map Check
+[2019.08.20-11.53.26:893][852]LightingResults: New page: Lighting Build
+[2019.08.20-11.53.26:995][852]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonHeist/Maps/Demonstration) is flushing async loading
+[2019.08.20-11.53.26:995][852]LogStreaming: Display: Flushing async loaders.
+[2019.08.20-11.53.27:334][852]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-11.53.27:398][852]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-11.53.27:399][852]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.492ms to complete.
+[2019.08.20-11.53.27:401][852]LogFileHelpers: Loading map 'level1' took 0.514
+[2019.08.20-11.53.37:577][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-11.53.53:784][983]LogAssetEditorManager: Opening Asset editor for World /Game/PolygonHeist/Maps/Demonstration.Demonstration
+[2019.08.20-11.53.53:856][983]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/PolygonHeist/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.20-11.53.53:856][983]LightingResults: New page: Lighting Build
+[2019.08.20-11.53.53:857][983]LoadErrors: New page: Loading map: Demonstration.umap
+[2019.08.20-11.53.53:887][983]MapCheck: New page: Map Check
+[2019.08.20-11.53.53:887][983]LightingResults: New page: Lighting Build
+[2019.08.20-11.53.53:950][983]LogAIModule: Creating AISystem for world Demonstration
+[2019.08.20-11.53.54:038][983]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-11.53.54:143][983]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-11.53.54:144][983]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.628ms to complete.
+[2019.08.20-11.53.54:145][983]LogFileHelpers: Loading map 'Demonstration' took 0.290
+[2019.08.20-11.54.13:575][513]LogAIModule: Creating AISystem for world level1
+[2019.08.20-11.54.15:639][513]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-11.54.18:604][565]LogAIModule: Creating AISystem for world Demonstration
+[2019.08.20-11.54.26:842][774]LogMetaData: Removing '/Game/Levels/lvl1/level1.SKEL_level1_C' ref from Metadata '/Game/Levels/lvl1/Demonstration.PackageMetaData'
+[2019.08.20-11.54.26:842][774]LogMetaData: Removing '/Game/Levels/lvl1/level1.level1_C' ref from Metadata '/Game/Levels/lvl1/Demonstration.PackageMetaData'
+[2019.08.20-11.54.26:866][774]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level1_BuiltData12A266CC461E8628C92BF5981C9A8CA2.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1_BuiltData.uasset'
+[2019.08.20-11.54.28:032][774]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level172E5361448951D7E700E15B63664D017.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap'
+[2019.08.20-11.54.28:063][774]LogFileHelpers: Saving map 'level1' took 1.189
+[2019.08.20-11.54.29:990][823]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/lvl1/level1.level1
+[2019.08.20-11.54.30:074][823]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/lvl1/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.20-11.54.30:074][823]LightingResults: New page: Lighting Build
+[2019.08.20-11.54.30:076][823]LoadErrors: New page: Loading map: level1.umap
+[2019.08.20-11.54.30:091][823]MapCheck: New page: Map Check
+[2019.08.20-11.54.30:091][823]LightingResults: New page: Lighting Build
+[2019.08.20-11.54.30:260][823]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.20-11.54.30:357][823]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.20-11.54.30:358][823]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.497ms to complete.
+[2019.08.20-11.54.30:361][823]LogFileHelpers: Loading map 'level1' took 0.289
+[2019.08.20-11.55.27:351][370]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.08.20-11.55.45:286][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_VaultDoor_Lid_01)
+[2019.08.20-11.56.27:317][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Money_Stack_02)
+[2019.08.20-11.56.28:554][ 60]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.20-11.56.48:381][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Money_Note_5)
+[2019.08.20-11.56.49:695][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Money_Note_2)
+[2019.08.20-11.56.50:350][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Table_2)
+[2019.08.20-11.56.52:621][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Item_DuffleBag_Open_Full_01)
+[2019.08.20-11.56.54:029][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Money_Note_3)
+[2019.08.20-11.56.54:928][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Money_Note_2)
+[2019.08.20-11.57.39:836][ 16]LogRenderer: Reallocating scene render targets to support 1860x808 Format 10 NumSamples 1 (Frame:5369).
+[2019.08.20-11.57.53:498][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Rug_01)
+[2019.08.20-11.57.54:165][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Rug_01)
+[2019.08.20-11.57.55:459][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_RopeBarrier_Pole_13)
+[2019.08.20-11.57.58:006][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_RopeBarrier_Pole_10)
+[2019.08.20-11.58.10:155][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-11.58.18:815][959]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-11.58.50:722][ 63]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.20-11.59.00:016][401]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/cup.cup
+[2019.08.20-11.59.38:996][198]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.224 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.20-12.00.01:163][589]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PolygonHeist/Meshes/Characters/SK_Character_Male_FBI.SK_Character_Male_FBI
+[2019.08.20-12.00.01:176][589]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.20-12.00.01:269][589]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.20-12.01.52:117][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.01.59:606][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.02.22:310][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.02.29:932][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.04.00:662][737]LogSlate: Window 'cup*' being destroyed
+[2019.08.20-12.04.00:755][737]LogSlate: Window 'cup*' being destroyed
+[2019.08.20-12.04.09:542][905]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-12.04.16:328][996]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.20-12.04.21:387][189]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/cup.cup
+[2019.08.20-12.04.51:444][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.05.25:504][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.05.29:485][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.06.04:618][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.06.44:635][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.07.01:005][922]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.08.03:326][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.08.24:195][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.08.36:589][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.09.50:344][732]LogHttp: Warning: 000002BF4B44D300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.20-12.09.50:344][732]LogHttp: Warning: 000002BF4B44D300: libcurl info message cache 0 (Connection 70 seems to be dead!)
+[2019.08.20-12.09.50:344][732]LogHttp: Warning: 000002BF4B44D300: libcurl info message cache 1 (Closing connection 70)
+[2019.08.20-12.09.50:344][732]LogHttp: Warning: 000002BF4B44D300: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.20-12.09.50:345][732]LogHttp: Warning: 000002BF4B44D300: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.20-12.09.50:345][732]LogHttp: Warning: 000002BF4B44D300: libcurl info message cache 4 (Closing connection 71)
+[2019.08.20-12.09.50:345][732]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DAAD928-4E67-0135-F1B4-8B90E0F32E13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=b9533c884a5b7d5cbae4239169464a9d%7C2e359d416f14471aab8308ec227836a8%7C66cc1f5f-e859-4834-87ed-da7c5cac8f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.20-12.09.56:537][811]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSCSTreeType [SSCSEditor.cpp(3473)].
+[2019.08.20-12.09.58:243][811]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level1_Auto5639E756F4E381A5FF01A6FA8CCBD9B2B.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Levels/lvl1/level1_Auto5.umap'
+[2019.08.20-12.09.58:248][811]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/lvl1/level1' took 1.617
+[2019.08.20-12.09.58:249][811]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.617
+[2019.08.20-12.09.58:255][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/cup] ([1] browsable assets)...
+[2019.08.20-12.09.58:279][811]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/cup.cup]
+[2019.08.20-12.09.58:279][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/cup]
+[2019.08.20-12.09.58:303][811]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/cup_Auto5B766CC02416CE3DC78263AA8E5F158A0.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Blueprints/cup_Auto5.uasset'
+[2019.08.20-12.09.58:306][811]LogFileHelpers: Auto-saving content packages took 0.053
+[2019.08.20-12.10.18:466][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.10.29:294][270]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.20-12.10.41:118][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.11.08:340][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.11.50:448][467]LogHttp: Warning: 000002BF6C056AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.20-12.11.50:448][467]LogHttp: Warning: 000002BF6C056AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.20-12.11.50:448][467]LogHttp: Warning: 000002BF6C056AC0: libcurl info message cache 1 (Closing connection 72)
+[2019.08.20-12.11.50:506][468]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DAAD928-4E67-0135-F1B4-8B90E0F32E13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=b9533c884a5b7d5cbae4239169464a9d%7C2e359d416f14471aab8308ec227836a8%7C66cc1f5f-e859-4834-87ed-da7c5cac8f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.20-12.11.52:602][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.12.39:668][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.13.03:864][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.13.50:615][408]LogHttp: Warning: 000002BF7831F740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.20-12.13.50:615][408]LogHttp: Warning: 000002BF7831F740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.20-12.13.50:616][408]LogHttp: Warning: 000002BF7831F740: libcurl info message cache 1 (Closing connection 73)
+[2019.08.20-12.13.50:616][408]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DAAD928-4E67-0135-F1B4-8B90E0F32E13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=b9533c884a5b7d5cbae4239169464a9d%7C2e359d416f14471aab8308ec227836a8%7C66cc1f5f-e859-4834-87ed-da7c5cac8f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.20-12.13.53:257][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.14.58:191][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.15.50:737][ 66]LogHttp: Warning: 000002BF8C44CCC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.20-12.15.50:737][ 66]LogHttp: Warning: 000002BF8C44CCC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.20-12.15.50:737][ 66]LogHttp: Warning: 000002BF8C44CCC0: libcurl info message cache 1 (Closing connection 74)
+[2019.08.20-12.15.50:737][ 66]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DAAD928-4E67-0135-F1B4-8B90E0F32E13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=b9533c884a5b7d5cbae4239169464a9d%7C2e359d416f14471aab8308ec227836a8%7C66cc1f5f-e859-4834-87ed-da7c5cac8f38&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.20-12.17.03:034][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.19.58:762][718]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/lvl1/level1' took 0.053
+[2019.08.20-12.19.58:765][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/cup] ([1] browsable assets)...
+[2019.08.20-12.19.58:805][718]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/cup.cup]
+[2019.08.20-12.19.58:805][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/cup]
+[2019.08.20-12.19.58:828][718]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/cup_Auto67CBFDBEB41FE295DF5DC9A953CAE1968.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Blueprints/cup_Auto6.uasset'
+[2019.08.20-12.19.58:856][718]LogFileHelpers: Auto-saving content packages took 0.094
+[2019.08.20-12.21.34:220][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.22.09:475][147]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.20-12.22.18:022][423]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/cup_moving.cup_moving
+[2019.08.20-12.22.39:031][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (29.525 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.20-12.22.43:502][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.23.03:409][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.23.06:263][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.20-12.23.14:842][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.26.49:894][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.27.13:673][693]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.08.20-12.27.21:243][867]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.08.20-12.30.01:047][467]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/level1_Auto7E4D185BD4B46DA6A3D68A293D1218200.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Levels/lvl1/level1_Auto7.umap'
+[2019.08.20-12.30.01:053][467]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/lvl1/level1' took 1.790
+[2019.08.20-12.30.01:053][467]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.790
+[2019.08.20-12.30.01:057][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/cup_moving] ([1] browsable assets)...
+[2019.08.20-12.30.01:101][467]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/cup_moving.cup_moving]
+[2019.08.20-12.30.01:101][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/cup_moving]
+[2019.08.20-12.30.01:126][467]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/cup_moving_Auto7A4D2779942EB4582286048A4A526F0C7.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Autosaves/Game/Blueprints/cup_moving_Auto7.uasset'
+[2019.08.20-12.30.01:128][467]LogFileHelpers: Auto-saving content packages took 0.071
+[2019.08.20-12.30.56:211][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-12.31.06:841][898]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-12.31.06:926][898]LogSlate: Window 'cup_moving*' being destroyed
+[2019.08.20-12.31.06:929][898]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.20-12.31.10:953][931]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.20-12.31.25:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.25:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.26:384][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.26:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.27:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.27:884][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.28:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.28:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.29:384][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.29:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.30:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.30:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.31:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.31:884][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.32:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.32:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.33:384][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.33:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.34:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.34:893][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.35:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.35:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.36:384][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.36:884][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.37:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.37:884][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.38:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.38:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.39:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.39:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.40:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.40:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.41:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.41:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.42:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.42:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.43:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.43:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.44:385][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.44:885][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.45:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.45:886][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.46:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.46:886][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.47:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.47:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.48:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.48:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.49:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.49:886][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.50:393][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.50:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.51:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.51:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.52:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.52:886][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.53:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.53:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.54:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.54:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.55:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.55:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.56:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.56:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.57:386][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.57:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.58:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.58:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.59:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.31.59:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.00:388][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.00:915][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.01:388][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.01:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.02:388][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.02:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.03:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.03:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.04:388][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.04:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.05:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.05:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.06:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.06:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.07:388][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.07:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.08:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.08:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.09:388][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.09:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.10:387][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.10:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.11:388][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.11:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.12:389][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.12:887][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.13:389][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.13:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.14:389][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.14:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.15:389][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.15:888][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.16:389][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.08.20-12.32.16:426][239]LogD3D11RHI: Error: D3DDevice failed CreateBuffer VB with ByteWidth=192, BindFlags=0x1 Usage=2, CPUAccess=0x10000, MiscFlags=0x0
+[2019.08.20-12.32.16:426][239]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11VertexBuffer.cpp:83 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.08.20-12.32.16:426][239]LogD3D11RHI: [Aftermath] GDynamicRHI=000002BEFB09A140, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.08.20-12.32.16:428][239]LogWindows: Windows GetLastError: The operation completed successfully. (0)
