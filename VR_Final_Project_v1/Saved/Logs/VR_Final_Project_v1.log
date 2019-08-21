@@ -2938,3 +2938,814 @@ Scale3D: 1.000000 1.000000 1.000000
 [2019.08.21-17.57.09:405][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.08.21-17.57.09:522][472]LogSlate: Window 'Levels' being destroyed
 [2019.08.21-17.57.09:596][472]LogSlate: Window 'Levels' being destroyed
+[2019.08.21-18.06.27:202][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-18.06.27:409][263]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.21-18.06.27:488][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.06.27:488][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.06.27:488][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.06.27:489][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.06.27:489][263]PIE: New page: PIE session: Base_Map (22 באוג׳ 2019, 00:06:27)
+[2019.08.21-18.06.27:489][263]LogPlayLevel: Creating play world package: /Game/Levels/base/UEDPIE_0_Base_Map
+[2019.08.21-18.06.27:675][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.184999s)
+[2019.08.21-18.06.27:676][263]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.21-18.06.27:677][263]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2019.08.21-18.06.27:677][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/base/Base_Map.Base_Map to /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map (0.187363s)
+[2019.08.21-18.06.27:767][263]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.06.27:806][263]LogInit: FAudioDevice initialized.
+[2019.08.21-18.06.27:842][263]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.21-18.06.27:941][263]LogWorld: Bringing World /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.21-21.06.27
+[2019.08.21-18.06.27:943][263]LogWorld: Bringing up level for play took: 0.053489
+[2019.08.21-18.06.27:961][263]PIE: Play in editor start time for /Game/Levels/base/UEDPIE_0_Base_Map 0.993
+[2019.08.21-18.06.27:962][263]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.06.27:962][263]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.06.27:962][263]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.06.27:989][264]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080137 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.08.21-18.08.06:070][472]LogBlueprintUserMessages: [open_safe_C_37] false
+[2019.08.21-18.08.06:071][472]LogBlueprintUserMessages: [open_safe_C_37] false
+[2019.08.21-18.08.06:071][472]LogBlueprintUserMessages: [open_safe_C_37] false
+[2019.08.21-18.08.06:071][472]LogBlueprintUserMessages: [open_safe_C_37] true
+[2019.08.21-18.08.11:520][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.08.11:521][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.08.11:521][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.08.11:522][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.08.11:643][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.08.11:644][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.08.11:645][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.08.11:645][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.08.11:753][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.08.11:813][603]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.08.21-18.22.30:349][214]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.21-18.22.30:349][214]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.21-18.22.32:112][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-18.23.21:698][158]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  OnActorBeginOverlap (Orange_trigger)  and was replaced as a Custom Event!
+[2019.08.21-18.23.21:703][158]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_1   conflicted with  OnActorEndOverlap (Orange_trigger)  and was replaced as a Custom Event!
+[2019.08.21-18.23.46:223][567]LogEditorTransaction: Undo Delete current selection
+[2019.08.21-18.23.47:155][578]LogEditorTransaction: Undo Move Nodes
+[2019.08.21-18.23.48:089][591]LogEditorTransaction: Undo Paste clipboard contents
+[2019.08.21-18.24.15:437][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_17 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_17
+[2019.08.21-18.24.15:438][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_18 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_18
+[2019.08.21-18.24.15:439][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_19
+[2019.08.21-18.24.15:440][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_20 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_20
+[2019.08.21-18.24.15:441][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_21 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_21
+[2019.08.21-18.24.15:441][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_22 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_22
+[2019.08.21-18.24.15:442][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_9 or K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_9
+[2019.08.21-18.24.15:442][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_10 or K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_10
+[2019.08.21-18.24.15:443][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_23 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_23
+[2019.08.21-18.24.15:443][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_24 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_24
+[2019.08.21-18.24.15:444][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_25 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_25
+[2019.08.21-18.24.15:444][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CommutativeAssociativeBinaryOperator_2 or K2Node_CommutativeAssociativeBinaryOperator /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CommutativeAssociativeBinaryOperator_2
+[2019.08.21-18.24.15:445][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CommutativeAssociativeBinaryOperator_3 or K2Node_CommutativeAssociativeBinaryOperator /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CommutativeAssociativeBinaryOperator_3
+[2019.08.21-18.24.15:445][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_IfThenElse_1
+[2019.08.21-18.24.15:446][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_IfThenElse_2 or K2Node_IfThenElse /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_IfThenElse_2
+[2019.08.21-18.24.15:446][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_3 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_3
+[2019.08.21-18.24.15:446][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_4 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_4
+[2019.08.21-18.24.15:447][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_5 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_5
+[2019.08.21-18.24.15:447][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_6 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_6
+[2019.08.21-18.24.15:448][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_7 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_7
+[2019.08.21-18.24.15:449][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_8 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_8
+[2019.08.21-18.24.15:449][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_5 or K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_5
+[2019.08.21-18.24.15:449][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_6 or K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_6
+[2019.08.21-18.24.15:450][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_9 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_9
+[2019.08.21-18.24.15:450][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_10 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_10
+[2019.08.21-18.24.15:451][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_11 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_11
+[2019.08.21-18.24.15:451][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CommutativeAssociativeBinaryOperator_0 or K2Node_CommutativeAssociativeBinaryOperator /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CommutativeAssociativeBinaryOperator_0
+[2019.08.21-18.24.15:452][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1 or K2Node_CommutativeAssociativeBinaryOperator /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1
+[2019.08.21-18.24.15:452][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_IfThenElse_3 or K2Node_IfThenElse /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_IfThenElse_3
+[2019.08.21-18.24.15:452][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_26 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_26
+[2019.08.21-18.24.15:453][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_IfThenElse_4 or K2Node_IfThenElse /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_IfThenElse_4
+[2019.08.21-18.24.15:453][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_27 or K2Node_CallFunction /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_CallFunction_27
+[2019.08.21-18.24.15:453][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_22 or K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_22
+[2019.08.21-18.24.15:454][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_23 or K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_23
+[2019.08.21-18.24.15:454][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_20 or K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_20
+[2019.08.21-18.24.15:455][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_21 or K2Node_Literal /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_Literal_21
+[2019.08.21-18.24.15:456][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_8 or K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_8
+[2019.08.21-18.24.15:456][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_8 or K2Node_CustomEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_8
+[2019.08.21-18.24.15:462][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_11 or K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_11
+[2019.08.21-18.24.15:463][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_12 or K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_12
+[2019.08.21-18.24.15:463][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_8 or K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_8
+[2019.08.21-18.24.15:463][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_8 or K2Node_CustomEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_8
+[2019.08.21-18.24.15:463][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_11 or K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_11
+[2019.08.21-18.24.15:464][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_12 or K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_12
+[2019.08.21-18.24.15:465][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_9 or K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_9
+[2019.08.21-18.24.15:465][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_9 or K2Node_CustomEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_9
+[2019.08.21-18.24.15:475][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_9 or K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_9
+[2019.08.21-18.24.15:475][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_ActorBoundEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_9 or K2Node_CustomEvent /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_ActorBoundEvent_9
+[2019.08.21-18.24.15:476][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_10 or K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_10
+[2019.08.21-18.24.15:478][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_10 or K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_10
+[2019.08.21-18.24.15:478][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_9 or K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_9
+[2019.08.21-18.24.15:479][ 43]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_9 or K2Node_VariableSet /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe.EventGraph.K2Node_VariableSet_9
+[2019.08.21-18.24.35:918][383]LogSlate: Took 0.044985 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.08.21-18.24.37:918][410]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.21-18.24.37:918][410]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.21-18.24.58:003][689]LogEditorViewport: Clicking on Actor (LMB): Ball_reciever_C (Ball_reciever3)
+[2019.08.21-18.24.59:174][703]LogEditorViewport: Clicking on Actor (LMB): Ball_reciever_C (Ball_reciever3)
+[2019.08.21-18.25.00:746][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-18.30.42:295][798]BlueprintLog: New page: Compile open_safe
+[2019.08.21-18.30.43:813][820]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: open_safe, Actor: /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.REINST_open_safe_C_0
+[2019.08.21-18.30.44:078][820]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/open_safeA47C16644362F99813DC1890FDC721FD.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/Open_safe_stage/open_safe.umap'
+[2019.08.21-18.30.44:083][820]LogFileHelpers: Saving map 'open_safe' took 0.370
+[2019.08.21-18.31.37:174][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.21-18.31.37:212][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.31.37:212][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.31.37:212][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.31.37:212][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.31.37:212][ 40]PIE: New page: PIE session: Base_Map (22 באוג׳ 2019, 00:31:37)
+[2019.08.21-18.31.37:212][ 40]LogPlayLevel: Creating play world package: /Game/Levels/base/UEDPIE_0_Base_Map
+[2019.08.21-18.31.37:304][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091450s)
+[2019.08.21-18.31.37:304][ 40]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.21-18.31.37:305][ 40]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2019.08.21-18.31.37:305][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/base/Base_Map.Base_Map to /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map (0.092398s)
+[2019.08.21-18.31.37:344][ 40]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.31.37:370][ 40]LogInit: FAudioDevice initialized.
+[2019.08.21-18.31.37:408][ 40]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.21-18.31.37:468][ 40]LogWorld: Bringing World /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.21-21.31.37
+[2019.08.21-18.31.37:469][ 40]LogWorld: Bringing up level for play took: 0.025084
+[2019.08.21-18.31.37:485][ 40]PIE: Play in editor start time for /Game/Levels/base/UEDPIE_0_Base_Map 0.517
+[2019.08.21-18.31.37:505][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.31.37:505][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.31.37:505][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.31.39:179][ 73]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.39:179][ 73]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.39:179][ 73]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.39:179][ 73]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.39:179][ 73]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.39:179][ 73]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.42:724][148]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.42:724][148]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.42:724][148]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.42:724][148]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.42:724][148]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.31.42:724][148]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.10:901][613]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.10:901][613]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.32.10:901][613]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.10:902][613]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.10:902][613]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.10:902][613]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.13:785][658]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.13:785][658]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.32.13:785][658]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.13:785][658]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.13:785][658]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.13:786][658]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.18:891][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-18.32.36:241][841]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.36:241][841]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.32.36:241][841]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.36:241][841]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.36:241][841]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.36:241][841]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.40:356][928]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.40:356][928]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.32.40:356][928]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.40:356][928]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.40:357][928]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.32.40:357][928]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.33.50:574][961]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.33.50:575][961]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.33.50:575][961]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.33.50:575][961]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.33.50:575][961]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.33.50:575][961]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.34.29:457][543]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.34.29:457][543]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.34.29:457][543]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.34.29:458][543]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.34.29:458][543]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.34.29:458][543]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.35.10:964][116]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=131.15 Y=-89.98 Z=0.00 Location: X=909.92 Y=-840.30 Z=100.25 Normal: X=-0.97 Y=-0.06 Z=0.25 PenetrationDepth:0.490 Actor:Red2 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.08.21-18.35.24:141][319]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.35.24:141][319]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.35.24:141][319]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.35.24:141][319]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.35.24:141][319]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.35.24:141][319]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.35.26:798][363]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.35.26:799][363]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.35.26:799][363]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.35.26:799][363]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.35.26:799][363]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.35.26:799][363]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.04:564][765]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.04:565][765]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.04:565][765]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.04:565][765]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.04:565][765]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.04:565][765]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.16:868][885]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.16:868][885]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.16:869][885]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.16:869][885]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.16:869][885]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.16:869][885]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.21:448][  1]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.21:449][  1]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.21:449][  1]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.21:449][  1]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.21:449][  1]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.21:449][  1]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.29:035][148]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.29:036][148]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.29:036][148]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.29:036][148]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.29:036][148]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.29:036][148]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.34:412][253]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.34:413][253]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.34:413][253]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.34:413][253]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.34:413][253]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.34:413][253]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.40:133][362]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.40:134][362]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.40:134][362]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.40:135][362]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.40:135][362]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.40:135][362]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.44:141][435]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.44:141][435]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.44:142][435]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.44:142][435]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.37.44:142][435]LogBlueprintUserMessages: [open_safe_C_39] false
+[2019.08.21-18.37.44:142][435]LogBlueprintUserMessages: [open_safe_C_39] true
+[2019.08.21-18.39.05:383][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.39.05:384][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.39.05:384][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.39.05:387][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.39.05:540][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.39.05:541][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.39.05:541][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.39.05:541][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.39.05:655][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.39.05:764][718]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.08.21-18.39.07:589][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Door_9)
+[2019.08.21-18.39.09:219][764]Cmd: DELETE
+[2019.08.21-18.39.09:219][764]Cmd: ACTOR DELETE
+[2019.08.21-18.39.09:314][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-18.39.09:495][764]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.21-18.39.09:601][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.21-18.39.09:673][764]LogEditorActor: Deleted 1 Actors (0.453 secs)
+[2019.08.21-18.39.10:863][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Door_Glass_8)
+[2019.08.21-18.39.12:055][800]Cmd: DELETE
+[2019.08.21-18.39.12:055][800]Cmd: ACTOR DELETE
+[2019.08.21-18.39.12:205][800]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.21-18.39.12:296][800]LogEditorActor: Deleted 1 Actors (0.240 secs)
+[2019.08.21-18.39.14:496][835]Cmd: TRANSACTION UNDO
+[2019.08.21-18.39.14:496][835]LogEditorTransaction: Undo Delete Actors
+[2019.08.21-18.39.19:763][906]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.21-18.39.23:564][960]Cmd: DELETE
+[2019.08.21-18.39.23:564][960]Cmd: ACTOR DELETE
+[2019.08.21-18.39.23:714][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.21-18.39.23:811][960]LogEditorActor: Deleted 1 Actors (0.247 secs)
+[2019.08.21-18.39.25:452][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Door_8)
+[2019.08.21-18.39.26:646][  3]Cmd: DELETE
+[2019.08.21-18.39.26:646][  3]Cmd: ACTOR DELETE
+[2019.08.21-18.39.26:794][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.21-18.39.26:894][  3]LogEditorActor: Deleted 1 Actors (0.247 secs)
+[2019.08.21-18.39.28:120][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Door_Glass_9)
+[2019.08.21-18.39.29:510][ 42]Cmd: DELETE
+[2019.08.21-18.39.29:510][ 42]Cmd: ACTOR DELETE
+[2019.08.21-18.39.29:663][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.21-18.39.29:761][ 42]LogEditorActor: Deleted 1 Actors (0.251 secs)
+[2019.08.21-18.39.31:855][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-18.39.32:429][ 78]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: open_safe, Actor: /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.REINST_open_safe_C_0
+[2019.08.21-18.39.32:873][ 78]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/open_safe13E1549943EBA5BE9EA68E837A12675C.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/Open_safe_stage/open_safe.umap'
+[2019.08.21-18.39.34:082][100]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.21-18.39.34:162][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.39.34:162][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.39.34:162][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.39.34:163][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.39.34:163][100]PIE: New page: PIE session: Base_Map (22 באוג׳ 2019, 00:39:34)
+[2019.08.21-18.39.34:163][100]LogPlayLevel: Creating play world package: /Game/Levels/base/UEDPIE_0_Base_Map
+[2019.08.21-18.39.34:373][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210582s)
+[2019.08.21-18.39.34:375][100]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.21-18.39.34:376][100]LogPlayLevel: PIE: World Init took: (0.002024s)
+[2019.08.21-18.39.34:377][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/base/Base_Map.Base_Map to /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map (0.213926s)
+[2019.08.21-18.39.34:481][100]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.39.34:526][100]LogInit: FAudioDevice initialized.
+[2019.08.21-18.39.34:566][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.21-18.39.34:676][100]LogWorld: Bringing World /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.21-21.39.34
+[2019.08.21-18.39.34:679][100]LogWorld: Bringing up level for play took: 0.058636
+[2019.08.21-18.39.34:693][100]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1098.861 Y=304.083 Z=224.580] for [ThirdPersonCharacter_C]
+[2019.08.21-18.39.34:693][100]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw -80.540421 Roll 0.000000
+Translation: 1098.861206 304.083191 224.579651
+Scale3D: 1.000000 1.000000 1.000000
+
+[2019.08.21-18.39.34:695][100]PIE: Play in editor start time for /Game/Levels/base/UEDPIE_0_Base_Map ‎-0.272
+[2019.08.21-18.39.34:696][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.39.34:696][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.39.34:696][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.39.36:998][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.39.36:998][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.39.36:999][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.39.36:999][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.39.37:093][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.39.37:095][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.39.37:095][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.39.37:095][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.39.37:204][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.39.37:274][147]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.08.21-18.39.40:232][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.21-18.39.41:818][229]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Blue1)
+[2019.08.21-18.39.41:980][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-18.39.45:385][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.39.45:385][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.39.45:385][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.39.45:385][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.39.45:386][329]PIE: New page: PIE session: Base_Map (22 באוג׳ 2019, 00:39:45)
+[2019.08.21-18.39.45:386][329]LogPlayLevel: Creating play world package: /Game/Levels/base/UEDPIE_0_Base_Map
+[2019.08.21-18.39.45:509][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122376s)
+[2019.08.21-18.39.45:509][329]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.21-18.39.45:510][329]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2019.08.21-18.39.45:510][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/base/Base_Map.Base_Map to /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map (0.123905s)
+[2019.08.21-18.39.45:583][329]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.39.45:613][329]LogInit: FAudioDevice initialized.
+[2019.08.21-18.39.45:613][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-18.39.45:646][329]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.21-18.39.45:726][329]LogWorld: Bringing World /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.21-21.39.45
+[2019.08.21-18.39.45:728][329]LogWorld: Bringing up level for play took: 0.037449
+[2019.08.21-18.39.45:745][329]PIE: Play in editor start time for /Game/Levels/base/UEDPIE_0_Base_Map 0.776
+[2019.08.21-18.39.45:774][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.39.45:774][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.39.45:774][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.39.50:630][406]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.39.50:630][406]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.39.50:630][406]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.39.50:630][406]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.39.50:630][406]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.39.50:630][406]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.40.56:252][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.40.56:252][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.40.56:252][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.40.56:255][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.40.56:395][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.40.56:396][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.40.56:396][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.40.56:396][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.40.56:504][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.40.56:589][446]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.08.21-18.40.57:983][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Floor_20)
+[2019.08.21-18.41.01:401][520]Cmd: DELETE
+[2019.08.21-18.41.01:401][520]Cmd: ACTOR DELETE
+[2019.08.21-18.41.01:543][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.21-18.41.01:644][520]LogEditorActor: Deleted 1 Actors (0.242 secs)
+[2019.08.21-18.41.03:498][553]Cmd: TRANSACTION UNDO
+[2019.08.21-18.41.03:498][553]LogEditorTransaction: Undo Delete Actors
+[2019.08.21-18.41.05:530][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Plant_20)
+[2019.08.21-18.41.07:261][603]Cmd: DELETE
+[2019.08.21-18.41.07:261][603]Cmd: ACTOR DELETE
+[2019.08.21-18.41.07:482][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.21-18.41.07:589][603]LogEditorActor: Deleted 1 Actors (0.327 secs)
+[2019.08.21-18.41.10:763][653]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.21-18.41.10:763][653]Can't find target actor or component.
+[2019.08.21-18.41.14:247][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Floor_19)
+[2019.08.21-18.41.16:563][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Wall_Interior_Window_Ground_Glass_16)
+[2019.08.21-18.41.17:603][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-18.41.17:799][751]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.21-18.41.17:882][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.41.17:883][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.41.17:883][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.41.17:884][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.21-18.41.17:885][751]PIE: New page: PIE session: Base_Map (22 באוג׳ 2019, 00:41:17)
+[2019.08.21-18.41.17:885][751]LogPlayLevel: Creating play world package: /Game/Levels/base/UEDPIE_0_Base_Map
+[2019.08.21-18.41.18:093][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.207450s)
+[2019.08.21-18.41.18:094][751]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.21-18.41.18:094][751]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2019.08.21-18.41.18:095][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/base/Base_Map.Base_Map to /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map (0.209860s)
+[2019.08.21-18.41.18:205][751]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.21-18.41.18:257][751]LogInit: FAudioDevice initialized.
+[2019.08.21-18.41.18:295][751]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.21-18.41.18:411][751]LogWorld: Bringing World /Game/Levels/base/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.21-21.41.18
+[2019.08.21-18.41.18:414][751]LogWorld: Bringing up level for play took: 0.061834
+[2019.08.21-18.41.18:431][751]PIE: Play in editor start time for /Game/Levels/base/UEDPIE_0_Base_Map 1.463
+[2019.08.21-18.41.18:432][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.41.18:432][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.41.18:432][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.43.04:082][431]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.04:082][431]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.43.04:083][431]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.04:083][431]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.04:083][431]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.04:083][431]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.43.06:772][476]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.06:773][476]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.43.06:773][476]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.06:773][476]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.06:773][476]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.06:773][476]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.43.10:025][531]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.10:026][531]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.43.10:026][531]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.10:026][531]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.10:026][531]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.10:027][531]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.43.12:153][567]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.12:154][567]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.43.12:154][567]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.12:154][567]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.12:154][567]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.43.12:154][567]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.44.12:325][530]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.44.12:326][530]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.44.12:326][530]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.44.12:326][530]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.44.12:326][530]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.44.12:326][530]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.44.15:439][588]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.44.15:439][588]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.44.15:440][588]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.44.15:440][588]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.44.15:440][588]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.44.15:440][588]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.44.17:927][634]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.44.17:927][634]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.44.17:928][634]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.44.17:928][634]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.44.17:928][634]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.44.17:928][634]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.04:659][381]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.04:659][381]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.04:660][381]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.04:660][381]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.45.04:660][381]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.45.04:660][381]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.08:101][440]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.08:102][440]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.08:102][440]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.08:102][440]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.45.08:102][440]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.45.08:103][440]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.11:678][502]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.11:678][502]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.11:679][502]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.45.11:679][502]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.45.11:679][502]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.45.11:679][502]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.08:319][445]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.08:320][445]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.08:320][445]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.08:320][445]LogBlueprintUserMessages: [open_safe_C_40] false
+[2019.08.21-18.46.08:321][445]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.08:321][445]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.59:948][272]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.59:949][272]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.59:949][272]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.59:949][272]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.59:949][272]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.46.59:950][272]LogBlueprintUserMessages: [open_safe_C_40] true
+[2019.08.21-18.47.18:609][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.47.18:610][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.47.18:610][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.47.18:611][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.47.18:751][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.21-18.47.18:752][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/base/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/base/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.21-18.47.18:753][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.21-18.47.18:753][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.21-18.47.18:861][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.21-18.47.18:975][593]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.08.21-18.47.23:066][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-18.47.23:645][658]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: open_safe, Actor: /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.REINST_open_safe_C_0
+[2019.08.21-18.47.24:092][658]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/open_safeDD58E1D2461DBE4652F7188E3EEC3D08.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/Open_safe_stage/open_safe.umap'
+[2019.08.21-18.47.26:740][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-18.47.29:263][700]LogSlate: Window 'Save Content' being destroyed
+[2019.08.21-18.47.29:285][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.21-18.47.30:363][700]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Base_Map83B55E9C4BFB97D9E651799D46652972.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/base/Base_Map.umap'
+[2019.08.21-18.47.30:393][700]LogFileHelpers: Saving map 'Base_Map' took 1.101
+[2019.08.21-18.47.36:909][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-18.47.37:434][808]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: open_safe, Actor: /Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.REINST_open_safe_C_0
+[2019.08.21-18.47.37:892][808]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/open_safeF10568524F8BA6BF7A91A1B0CF9E1BA1.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/Open_safe_stage/open_safe.umap'
+[2019.08.21-18.47.38:327][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-18.47.42:949][867]LogSlate: Window 'open_safe - Level Blueprint Editor' being destroyed
+[2019.08.21-18.47.43:051][867]LogSlate: Window 'VR_Final_Project_v1 - Unreal Editor' being destroyed
+[2019.08.21-18.47.43:052][867]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.21-18.47.43:423][868]Cmd: QUIT_EDITOR
+[2019.08.21-18.47.43:623][868]LogExit: Preparing to exit.
+[2019.08.21-18.47.44:117][868]LogExit: Editor shut down
+[2019.08.21-18.47.44:119][868]LogExit: Transaction tracking system shut down
+[2019.08.21-18.47.44:640][868]LogExit: Object subsystem successfully closed.
+[2019.08.21-18.47.44:669][868]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.21-18.47.44:677][868]LogD3D11RHI: Shutdown
+[2019.08.21-18.47.44:677][868]LogD3D11RHI: CleanupD3DDevice
+[2019.08.21-18.47.44:728][868]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2019.08.21-18.47.44:729][868]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.21-18.47.44:766][868]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (634)
+[2019.08.21-18.47.44:766][868]LogModuleManager: Shutting down and abandoning module Voice (632)
+[2019.08.21-18.47.44:766][868]LogModuleManager: Shutting down and abandoning module WorldBrowser (630)
+[2019.08.21-18.47.44:766][868]LogModuleManager: Shutting down and abandoning module AddContentDialog (628)
+[2019.08.21-18.47.44:770][868]LogModuleManager: Shutting down and abandoning module WidgetCarousel (627)
+[2019.08.21-18.47.44:770][868]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (624)
+[2019.08.21-18.47.44:770][868]LogModuleManager: Shutting down and abandoning module BlueprintGraph (622)
+[2019.08.21-18.47.44:770][868]LogModuleManager: Shutting down and abandoning module EditorWidgets (620)
+[2019.08.21-18.47.44:770][868]LogModuleManager: Shutting down and abandoning module CollectionManager (618)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (616)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module SceneOutliner (614)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module StatsViewer (612)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module FoliageEdit (610)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module LandscapeEditor (608)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module MeshPaintMode (606)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (604)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module ActorPickerMode (602)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module GeometryMode (600)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module TextureAlignMode (598)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module BspMode (596)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (594)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (592)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module AutomationWorker (590)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (588)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (586)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (584)
+[2019.08.21-18.47.44:771][868]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module MaterialEditor (582)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (578)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (576)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (574)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (572)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module WebMMedia (570)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (568)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (566)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module SequenceRecorder (565)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (562)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (560)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (558)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (556)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (554)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (552)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (550)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2019.08.21-18.47.44:772][868]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2019.08.21-18.47.44:773][868]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2019.08.21-18.47.45:844][868]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2019.08.21-18.47.45:845][868]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2019.08.21-18.47.45:845][868]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2019.08.21-18.47.45:845][868]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2019.08.21-18.47.45:845][868]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2019.08.21-18.47.45:845][868]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2019.08.21-18.47.45:845][868]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2019.08.21-18.47.45:845][868]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2019.08.21-18.47.45:845][868]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2019.08.21-18.47.45:846][868]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2019.08.21-18.47.45:846][868]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2019.08.21-18.47.45:846][868]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2019.08.21-18.47.45:846][868]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2019.08.21-18.47.45:846][868]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2019.08.21-18.47.45:900][868]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2019.08.21-18.47.45:900][868]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2019.08.21-18.47.45:900][868]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2019.08.21-18.47.45:900][868]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2019.08.21-18.47.45:900][868]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2019.08.21-18.47.45:900][868]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2019.08.21-18.47.45:900][868]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2019.08.21-18.47.45:901][868]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2019.08.21-18.47.45:901][868]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2019.08.21-18.47.45:901][868]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2019.08.21-18.47.45:919][868]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module ModuleUI (440)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module MovieSceneTools (438)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module OutputLog (436)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module GammaUI (434)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module Documentation (432)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (430)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module MovieScene (428)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (426)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module LauncherPlatform (424)
+[2019.08.21-18.47.45:920][868]LogModuleManager: Shutting down and abandoning module AnalyticsET (422)
+[2019.08.21-18.47.45:921][868]LogModuleManager: Shutting down and abandoning module PortalServices (420)
+[2019.08.21-18.47.45:921][868]LogModuleManager: Shutting down and abandoning module PortalRpc (418)
+[2019.08.21-18.47.45:921][868]LogModuleManager: Shutting down and abandoning module MessagingRpc (416)
+[2019.08.21-18.47.45:921][868]LogModuleManager: Shutting down and abandoning module AIModule (414)
+[2019.08.21-18.47.45:921][868]LogModuleManager: Shutting down and abandoning module GameplayDebugger (413)
+[2019.08.21-18.47.45:921][868]LogModuleManager: Shutting down and abandoning module AITestSuite (411)
+[2019.08.21-18.47.45:921][868]LogModuleManager: Shutting down and abandoning module NavigationSystem (409)
+[2019.08.21-18.47.45:921][868]LogModuleManager: Shutting down and abandoning module DesktopPlatform (406)
+[2019.08.21-18.47.45:921][868]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2019.08.21-18.47.45:926][868]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.08.21-18.47.46:049][868]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.08.21-18.47.46:049][868]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.08.21-18.47.46:050][868]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.08.21-18.47.46:050][868]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.08.21-18.47.46:050][868]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.08.21-18.47.46:050][868]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.08.21-18.47.46:050][868]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2019.08.21-18.47.46:050][868]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2019.08.21-18.47.46:050][868]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2019.08.21-18.47.46:051][868]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2019.08.21-18.47.46:051][868]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2019.08.21-18.47.46:051][868]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2019.08.21-18.47.46:051][868]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2019.08.21-18.47.46:051][868]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2019.08.21-18.47.46:051][868]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2019.08.21-18.47.46:051][868]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2019.08.21-18.47.46:051][868]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module MixamoAnimationRetargeting (366)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.21-18.47.46:056][868]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.08.21-18.47.46:057][868]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.08.21-18.47.46:058][868]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.08.21-18.47.46:058][868]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.08.21-18.47.46:058][868]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.08.21-18.47.46:058][868]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.08.21-18.47.46:058][868]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.08.21-18.47.46:058][868]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.21-18.47.46:058][868]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.21-18.47.46:058][868]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.21-18.47.46:159][868]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.21-18.47.46:259][868]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.08.21-18.47.46:259][868]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.08.21-18.47.46:259][868]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.08.21-18.47.46:259][868]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.08.21-18.47.46:259][868]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.08.21-18.47.46:259][868]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.08.21-18.47.46:259][868]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.08.21-18.47.46:261][868]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.08.21-18.47.46:261][868]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.08.21-18.47.46:261][868]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.08.21-18.47.46:261][868]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.08.21-18.47.46:262][868]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.08.21-18.47.46:265][868]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.08.21-18.47.46:265][868]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.08.21-18.47.46:265][868]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.08.21-18.47.46:265][868]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.08.21-18.47.46:265][868]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.08.21-18.47.46:265][868]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.08.21-18.47.46:265][868]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.08.21-18.47.46:267][868]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.08.21-18.47.46:274][868]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.08.21-18.47.46:275][868]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.08.21-18.47.46:275][868]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.08.21-18.47.46:278][868]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.08.21-18.47.46:279][868]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.08.21-18.47.46:279][868]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.08.21-18.47.46:279][868]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.08.21-18.47.46:279][868]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.08.21-18.47.46:280][868]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.08.21-18.47.46:350][868]LogDerivedDataCache: Shutdown
+[2019.08.21-18.47.46:350][868]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.08.21-18.47.46:350][868]LogXGEController: Cleaning working directory: C:/Users/Meitar/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.21-18.47.46:351][868]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.08.21-18.47.46:351][868]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.08.21-18.47.46:351][868]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.08.21-18.47.46:351][868]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.08.21-18.47.46:351][868]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.08.21-18.47.46:351][868]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.08.21-18.47.46:352][868]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.08.21-18.47.46:362][868]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.08.21-18.47.46:362][868]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.08.21-18.47.46:362][868]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.08.21-18.47.46:363][868]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.08.21-18.47.46:363][868]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.08.21-18.47.46:367][868]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.08.21-18.47.46:367][868]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.08.21-18.47.46:370][868]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.08.21-18.47.46:370][868]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.08.21-18.47.46:400][868]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.08.21-18.47.46:401][868]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.08.21-18.47.46:401][868]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.08.21-18.47.46:401][868]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.21-18.47.46:401][868]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.08.21-18.47.46:401][868]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.08.21-18.47.46:401][868]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.08.21-18.47.46:401][868]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.08.21-18.47.46:401][868]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.08.21-18.47.46:402][868]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.08.21-18.47.46:402][868]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.08.21-18.47.46:429][868]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.08.21-18.47.46:429][868]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.08.21-18.47.46:430][868]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2A596A9-44B1-292B-B55A-88BA3A1AD4A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=b9533c884a5b7d5cbae4239169464a9d%7C2e359d416f14471aab8308ec227836a8%7C66cc1f5f-e859-4834-87ed-da7c5cac8f38&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.21-18.47.46:430][868]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC2A596A9-44B1-292B-B55A-88BA3A1AD4A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=b9533c884a5b7d5cbae4239169464a9d%7C2e359d416f14471aab8308ec227836a8%7C66cc1f5f-e859-4834-87ed-da7c5cac8f38&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.21-18.47.46:455][868]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.08.21-18.47.46:458][868]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.08.21-18.47.46:458][868]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.08.21-18.47.46:458][868]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.08.21-18.47.46:458][868]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.08.21-18.47.46:458][868]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.08.21-18.47.46:458][868]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.08.21-18.47.46:458][868]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.08.21-18.47.46:458][868]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.21-18.47.46:459][868]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.08.21-18.47.46:459][868]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.08.21-18.47.46:460][868]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.08.21-18.47.46:460][868]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.08.21-18.47.46:460][868]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.08.21-18.47.46:460][868]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.08.21-18.47.46:460][868]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.08.21-18.47.46:460][868]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.08.21-18.47.46:460][868]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.08.21-18.47.46:465][868]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.08.21-18.47.46:466][868]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.08.21-18.47.46:468][868]LogExit: Exiting.
+[2019.08.21-18.47.46:479][868]Log file closed, 08/21/19 21:47:46
