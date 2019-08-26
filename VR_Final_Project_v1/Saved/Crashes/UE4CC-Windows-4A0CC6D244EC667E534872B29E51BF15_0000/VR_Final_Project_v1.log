@@ -1,0 +1,1214 @@
+﻿Log file open, 08/26/19 16:29:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_Final_Project_v1
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172338
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MixamoAnimationRetargeting
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.118s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7560U CPU @ 2.40GHz, GPU: Intel(R) Iris(TM) Plus Graphics 640
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.26-13.29.17:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.26-13.29.17:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.26-13.29.17:947][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.26-13.29.17:952][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.26-13.29.17:952][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.26-13.29.17:953][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.26-13.29.17:953][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.26-13.29.17:954][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.26-13.29.17:967][  0]LogHAL: Display: Platform has ~ 16 GB [16894550016 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.26-13.29.17:967][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.08.26-13.29.17:967][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.26-13.29.17:967][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.26-13.29.17:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Scalability.ini]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.26-13.29.17:969][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.26-13.29.17:970][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.26-13.29.17:970][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Config/Windows/Engine.ini]
+[2019.08.26-13.29.17:970][  0]LogInit: Computer: MEITAR
+[2019.08.26-13.29.17:970][  0]LogInit: User: Meitar
+[2019.08.26-13.29.17:970][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.08.26-13.29.17:970][  0]LogInit: High frequency timer resolution =2.343750 MHz
+[2019.08.26-13.29.17:970][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2019.08.26-13.29.17:970][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.26-13.29.17:970][  0]LogMemory: Process Physical Memory: 102.90 MB used, 102.90 MB peak
+[2019.08.26-13.29.17:970][  0]LogMemory: Process Virtual Memory: 92.57 MB used, 92.57 MB peak
+[2019.08.26-13.29.17:970][  0]LogMemory: Physical Memory: 4968.39 MB used,  11143.50 MB free, 16111.90 MB total
+[2019.08.26-13.29.17:970][  0]LogMemory: Virtual Memory: 4622.72 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.08.26-13.29.17:995][  0]LogInit: Using OS detected language (en-US).
+[2019.08.26-13.29.17:995][  0]LogInit: Using OS detected locale (he-IL).
+[2019.08.26-13.29.17:996][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.26-13.29.18:400][  0]LogStreaming: Display: Took  0.405s to InitEngineTextLocalization.
+[2019.08.26-13.29.18:400][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.26-13.29.18:434][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.26-13.29.18:434][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.26-13.29.18:723][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.26-13.29.18:723][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.26-13.29.18:732][  0]LogD3D11RHI:    0. 'Intel(R) Iris(TM) Plus Graphics 640' (Feature Level 11_0)
+[2019.08.26-13.29.18:732][  0]LogD3D11RHI:       128/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.08.26-13.29.18:735][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.26-13.29.18:735][  0]LogD3D11RHI:       0/0/8055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.26-13.29.18:735][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.26-13.29.18:741][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.26-13.29.18:741][  0]LogD3D11RHI:     GPU DeviceId: 0x5926 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.26-13.29.18:741][  0]LogWindows: EnumDisplayDevices:
+[2019.08.26-13.29.18:742][  0]LogWindows:    0. 'Intel(R) Iris(TM) Plus Graphics 640' (P:1 D:1)
+[2019.08.26-13.29.18:742][  0]LogWindows:    1. 'Intel(R) Iris(TM) Plus Graphics 640' (P:0 D:0)
+[2019.08.26-13.29.18:742][  0]LogWindows:    2. 'Intel(R) Iris(TM) Plus Graphics 640' (P:0 D:0)
+[2019.08.26-13.29.18:743][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.08.26-13.29.18:743][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(TM) Plus Graphics 640
+[2019.08.26-13.29.18:743][  0]LogD3D11RHI:   Driver Version: 21.20.16.4664 (internal:21.20.16.4664, unified:21.20.16.4664)
+[2019.08.26-13.29.18:743][  0]LogD3D11RHI:      Driver Date: 4-21-2017
+[2019.08.26-13.29.18:743][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2019.08.26-13.29.18:781][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.08.26-13.29.18:782][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.26-13.29.18:790][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.08.26-13.29.19:192][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.26-13.29.19:210][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.26-13.29.19:223][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.26-13.29.19:237][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.26-13.29.19:249][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.26-13.29.19:263][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.26-13.29.19:276][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.26-13.29.19:290][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.26-13.29.19:297][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.26-13.29.19:372][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.26-13.29.19:434][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.26-13.29.19:434][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.26-13.29.19:457][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.26-13.29.19:457][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.26-13.29.19:468][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.26-13.29.19:480][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.26-13.29.19:493][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.26-13.29.19:506][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.26-13.29.19:551][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.26-13.29.19:551][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.26-13.29.19:551][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.26-13.29.19:638][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Intermediate/Shaders/WorkingDirectory/16308/).
+[2019.08.26-13.29.19:638][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Meitar/AppData/Local/Temp/UnrealShaderWorkingDir/6750156C42CD4C137519C5AE1B72024B/'.
+[2019.08.26-13.29.19:641][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.26-13.29.19:641][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.26-13.29.19:641][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.26-13.29.20:212][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.26-13.29.20:262][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Meitar/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.26-13.29.20:262][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Meitar/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.08.26-13.29.20:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.26-13.29.20:262][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.26-13.29.20:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.26-13.29.20:262][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.26-13.29.20:276][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.26-13.29.20:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.26-13.29.20:276][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.26-13.29.20:288][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Meitar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.26-13.29.20:288][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.26-13.29.20:288][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.26-13.29.20:310][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.26-13.29.20:311][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.26-13.29.20:312][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.26-13.29.20:412][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.08.26-13.29.20:811][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.26-13.29.20:988][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.26-13.29.20:994][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.26-13.29.20:994][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.26-13.29.20:994][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.26-13.29.20:994][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.26-13.29.21:009][  0]LogNetVersion: VR_Final_Project_v1 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4124830842)
+[2019.08.26-13.29.21:611][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.094833 seconds
+[2019.08.26-13.29.21:617][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.08.26-13.29.21:617][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.08.26-13.29.21:617][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.26-13.29.22:670][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.26-13.29.22:685][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.26-13.29.23:561][  0]SourceControl: Source control is disabled
+[2019.08.26-13.29.23:561][  0]SourceControl: Source control is disabled
+[2019.08.26-13.29.23:563][  0]SourceControl: Source control is disabled
+[2019.08.26-13.29.23:564][  0]SourceControl: Source control is disabled
+[2019.08.26-13.29.24:435][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.26-13.29.24:520][  0]LogOcInput: OculusInput pre-init called
+[2019.08.26-13.29.24:669][  0]LogEngine: Initializing Engine...
+[2019.08.26-13.29.24:670][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.26-13.29.24:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.26-13.29.24:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.26-13.29.24:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.26-13.29.24:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.26-13.29.24:911][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.26-13.29.24:926][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.26-13.29.24:945][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-13.29.26:561][  0]LogInit: FAudioDevice initialized.
+[2019.08.26-13.29.26:562][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.26-13.29.26:644][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Meitar/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.26-13.29.26:652][  0]LogInit: Texture streaming: Enabled
+[2019.08.26-13.29.26:675][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.26-13.29.26:688][  0]LogInit: Transaction tracking system initialized
+[2019.08.26-13.29.26:716][  0]BlueprintLog: New page: Editor Load
+[2019.08.26-13.29.26:802][  0]LocalizationService: Localization service is disabled
+[2019.08.26-13.29.27:304][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.26-13.29.27:304][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.26-13.29.27:304][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.26-13.29.27:304][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.26-13.29.27:304][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.26-13.29.27:305][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.26-13.29.27:305][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.26-13.29.27:477][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/' took 0.05s
+[2019.08.26-13.29.27:477][  0]SourceControl: Source control is disabled
+[2019.08.26-13.29.27:478][  0]LightingResults: New page: Lighting Build
+[2019.08.26-13.29.27:482][  0]MapCheck: New page: Map Check
+[2019.08.26-13.29.27:482][  0]LightingResults: New page: Lighting Build
+[2019.08.26-13.29.27:726][  0]LogLevelStreaming: Display: Failed to find streaming level package file: /Game/Levels/lvl1/level1. This streaming level may not load or save properly.
+[2019.08.26-13.29.27:813][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.26-13.29.27:823][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/PolygonSamurai/Maps/Demonstration) is flushing async loading
+[2019.08.26-13.29.27:823][  0]LogStreaming: Display: Flushing async loaders.
+[2019.08.26-13.29.28:659][  0]LogStreaming: Error: Couldn't find file for package /Game/Levels/lvl1/level1.
+[2019.08.26-13.29.28:659][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.26-13.29.28:686][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.26-13.29.28:687][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.406ms to complete.
+[2019.08.26-13.29.28:687][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.210
+[2019.08.26-13.29.28:788][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-13.29.28:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-13.29.28:802][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-13.29.28:809][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-13.29.28:818][  0]LogCollectionManager: Loaded 0 collections in 0.002945 seconds
+[2019.08.26-13.29.28:858][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Collections/' took 0.01s
+[2019.08.26-13.29.28:858][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Developers/Meitar/Collections/' took 0.01s
+[2019.08.26-13.29.28:858][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Collections/' took 0.01s
+[2019.08.26-13.29.28:858][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.26-13.29.28:865][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2651 classes and 620 folders.
+[2019.08.26-13.29.28:873][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.26-13.29.28:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.26-13.29.28:956][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.26-13.29.28:961][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.26-13.29.28:976][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.26-13.29.28:978][  0]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.26-13.29.28:988][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.26-13.29.29:074][  0]LogRenderer: Reallocating scene render targets to support 656x276 Format 10 NumSamples 1 (Frame:1).
+[2019.08.26-13.29.29:635][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.26-13.29.29:635][  0]LogLoad: (Engine Initialization) Total time: 13.91 seconds
+[2019.08.26-13.29.29:635][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.26-13.29.29:716][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.26-13.29.30:066][  2]LogAssetRegistry: Asset discovery search completed in 9.6758 seconds
+[2019.08.26-13.29.30:067][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.26-13.29.30:067][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2019.08.26-13.29.32:751][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-13.29.38:348][328]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.26-13.29.39:416][328]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-13.29.39:460][328]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Base_Map/Base_Map.Base_Map
+[2019.08.26-13.29.39:494][328]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/Base_Map/Base_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.26-13.29.39:494][328]LightingResults: New page: Lighting Build
+[2019.08.26-13.29.39:495][328]LoadErrors: New page: Loading map: Base_Map.umap
+[2019.08.26-13.29.39:497][328]MapCheck: New page: Map Check
+[2019.08.26-13.29.39:497][328]LightingResults: New page: Lighting Build
+[2019.08.26-13.29.39:572][328]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/landscape/demo_city) is flushing async loading
+[2019.08.26-13.29.39:572][328]LogStreaming: Display: Flushing async loaders.
+[2019.08.26-13.29.41:374][328]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/landscape/landscape) is flushing async loading
+[2019.08.26-13.29.41:484][328]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Open_safe_stage/open_safe) is flushing async loading
+[2019.08.26-13.29.41:636][328]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Sneak_in_stage/sneak_in) is flushing async loading
+[2019.08.26-13.29.41:656][328]LogLevelStreaming: Display: Failed to find streaming level package file: /Game/Levels/base/Base_Map. This streaming level may not load or save properly.
+[2019.08.26-13.29.41:659][328]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Sneak_out_stage/sneak_out) is flushing async loading
+[2019.08.26-13.29.41:685][328]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.08.26-13.29.41:815][328]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.26-13.29.41:815][328]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Levels/base/Base_Map' which isn't loaded.
+[2019.08.26-13.29.41:817][328]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.358ms to complete.
+[2019.08.26-13.29.41:817][328]LogFileHelpers: Loading map 'Base_Map' took 2.323
+[2019.08.26-13.30.00:544][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-13.30.02:023][634]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-13.30.02:068][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-13.30.02:068][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-13.30.02:068][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-13.30.02:068][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-13.30.02:068][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-13.30.02:068][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-13.30.02:069][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-13.30.02:069][634]PIE: New page: PIE session: Base_Map (26 באוג׳ 2019, 19:30:02)
+[2019.08.26-13.30.02:083][634]LogPlayLevel: Creating play world package: /Game/Levels/Base_Map/UEDPIE_0_Base_Map
+[2019.08.26-13.30.02:227][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143187s)
+[2019.08.26-13.30.02:228][634]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-13.30.02:228][634]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.08.26-13.30.02:229][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Base_Map/Base_Map.Base_Map to /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map (0.145280s)
+[2019.08.26-13.30.02:282][634]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-13.30.02:315][634]LogInit: FAudioDevice initialized.
+[2019.08.26-13.30.02:315][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-13.30.02:370][634]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-13.30.02:406][634]LogWorld: Bringing World /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.26-16.30.02
+[2019.08.26-13.30.02:409][634]LogWorld: Bringing up level for play took: 0.036903
+[2019.08.26-13.30.02:431][634]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.08.26-13.30.02:434][634]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 1 1 0
+[2019.08.26-13.30.02:435][634]PIE: Play in editor start time for /Game/Levels/Base_Map/UEDPIE_0_Base_Map 0.005
+[2019.08.26-13.30.02:435][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-13.30.02:435][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-13.30.02:435][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-13.30.02:435][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-13.30.02:435][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-13.30.02:436][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-13.30.02:558][634]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in took (less than) 69.08 ms
+[2019.08.26-13.30.19:456][124]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 1 1 0
+[2019.08.26-13.30.19:616][125]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe took (less than) 24.82 ms
+[2019.08.26-13.30.19:721][128]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 0 0 0
+[2019.08.26-13.30.34:438][504]LogLevel: ActivateLevel /Game/Levels/Sneak_out_stage/UEDPIE_0_sneak_out 1 1 0
+[2019.08.26-13.30.34:612][506]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 0 0 0
+[2019.08.26-13.31.37:635][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-13.31.37:636][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-13.31.37:636][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-13.31.37:636][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-13.31.37:636][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-13.31.37:637][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-13.31.37:637][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-13.31.37:749][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-13.31.37:751][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-13.31.37:751][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-13.31.37:752][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-13.31.37:752][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-13.31.37:752][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-13.31.37:752][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-13.31.37:821][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-13.31.37:932][320]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.08.26-14.31.04:337][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.31.04:816][778]LogRenderer: Reallocating scene render targets to support 688x276 Format 10 NumSamples 1 (Frame:55711).
+[2019.08.26-14.31.05:041][779]LogRenderer: Reallocating scene render targets to support 716x276 Format 10 NumSamples 1 (Frame:55713).
+[2019.08.26-14.31.05:225][780]LogRenderer: Reallocating scene render targets to support 744x276 Format 10 NumSamples 1 (Frame:55715).
+[2019.08.26-14.31.05:438][781]LogRenderer: Reallocating scene render targets to support 756x276 Format 10 NumSamples 1 (Frame:55717).
+[2019.08.26-14.31.05:643][782]LogRenderer: Reallocating scene render targets to support 760x276 Format 10 NumSamples 1 (Frame:55719).
+[2019.08.26-14.31.12:117][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Steps_5)
+[2019.08.26-14.31.12:340][857]LogSlate: Took 0.003022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.08.26-14.31.13:502][870]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.31.21:854][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.31.22:018][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-14.31.22:066][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.31.22:067][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.31.22:068][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.31.22:068][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.31.22:068][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.31.22:068][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.31.22:068][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-14.31.22:069][963]PIE: New page: PIE session: Base_Map (26 באוג׳ 2019, 20:31:22)
+[2019.08.26-14.31.22:069][963]LogPlayLevel: Creating play world package: /Game/Levels/Base_Map/UEDPIE_0_Base_Map
+[2019.08.26-14.31.22:250][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.181958s)
+[2019.08.26-14.31.22:251][963]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-14.31.22:252][963]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2019.08.26-14.31.22:253][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Base_Map/Base_Map.Base_Map to /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map (0.184499s)
+[2019.08.26-14.31.22:324][963]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-14.31.22:368][963]LogInit: FAudioDevice initialized.
+[2019.08.26-14.31.22:406][963]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-14.31.22:445][963]LogWorld: Bringing World /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.26-17.31.22
+[2019.08.26-14.31.22:448][963]LogWorld: Bringing up level for play took: 0.040952
+[2019.08.26-14.31.22:465][963]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 1 1 0
+[2019.08.26-14.31.22:465][963]PIE: Play in editor start time for /Game/Levels/Base_Map/UEDPIE_0_Base_Map 0.036
+[2019.08.26-14.31.22:465][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.31.22:466][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.31.22:466][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.31.22:466][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.31.22:466][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.31.22:466][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.31.22:559][963]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in took (less than) 33.80 ms
+[2019.08.26-14.31.24:443][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.31.24:444][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.31.24:444][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.31.24:444][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.31.24:444][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.31.24:444][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.31.24:445][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.31.24:546][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-14.31.24:548][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.31.24:548][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.31.24:548][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.31.24:548][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.31.24:548][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.31.24:548][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.31.24:610][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.31.24:700][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.08.26-14.31.30:418][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_5)
+[2019.08.26-14.31.30:663][ 94]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.31.36:269][167]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_FX_Rain)
+[2019.08.26-14.31.37:256][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_4)
+[2019.08.26-14.31.39:723][208]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.31.40:788][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.31.40:867][225]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-14.31.40:922][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.31.40:923][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.31.40:923][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.31.40:923][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.31.40:923][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.31.40:923][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.31.40:923][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-14.31.40:923][225]PIE: New page: PIE session: Base_Map (26 באוג׳ 2019, 20:31:40)
+[2019.08.26-14.31.40:924][225]LogPlayLevel: Creating play world package: /Game/Levels/Base_Map/UEDPIE_0_Base_Map
+[2019.08.26-14.31.41:060][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137062s)
+[2019.08.26-14.31.41:061][225]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-14.31.41:061][225]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2019.08.26-14.31.41:061][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Base_Map/Base_Map.Base_Map to /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map (0.138592s)
+[2019.08.26-14.31.41:126][225]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-14.31.41:160][225]LogInit: FAudioDevice initialized.
+[2019.08.26-14.31.41:198][225]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-14.31.41:239][225]LogWorld: Bringing World /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.26-17.31.41
+[2019.08.26-14.31.41:241][225]LogWorld: Bringing up level for play took: 0.042383
+[2019.08.26-14.31.41:257][225]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 1 1 0
+[2019.08.26-14.31.41:257][225]PIE: Play in editor start time for /Game/Levels/Base_Map/UEDPIE_0_Base_Map 0.828
+[2019.08.26-14.31.41:258][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.31.41:258][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.31.41:258][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.31.41:258][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.31.41:258][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.31.41:258][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.31.41:352][225]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in took (less than) 38.16 ms
+[2019.08.26-14.32.12:973][176]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 1 1 0
+[2019.08.26-14.32.13:216][179]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 0 0 0
+[2019.08.26-14.32.45:599][990]LogLevel: ActivateLevel /Game/Levels/Sneak_out_stage/UEDPIE_0_sneak_out 1 1 0
+[2019.08.26-14.32.45:764][992]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 0 0 0
+[2019.08.26-14.33.31:896][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.33.31:898][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.33.31:899][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.33.31:899][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.33.31:899][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.33.31:899][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.33.31:900][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.33.31:992][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-14.33.31:994][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.33.31:994][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.33.31:994][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.33.31:994][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.33.31:995][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.33.31:995][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.33.32:061][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.33.32:210][228]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.08.26-14.33.41:397][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Wall_Exterior_Window_8)
+[2019.08.26-14.33.41:952][335]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.33.46:203][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.33.48:142][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.33.48:186][413]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0009 seconds. Added 2 classes and 3 folders.
+[2019.08.26-14.33.53:640][479]LogSlate: Window 'Levels' being destroyed
+[2019.08.26-14.33.53:719][479]LogSlate: Window 'Levels' being destroyed
+[2019.08.26-14.34.12:240][753]LogRenderer: Reallocating scene render targets to support 1132x440 Format 10 NumSamples 1 (Frame:56726).
+[2019.08.26-14.35.12:359][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.35.14:035][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.35.19:109][682]LogSlate: Window 'Levels' being destroyed
+[2019.08.26-14.35.19:193][682]LogSlate: Window 'Levels' being destroyed
+[2019.08.26-14.35.28:361][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.35.57:584][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Floor_43)
+[2019.08.26-14.35.59:245][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.36.05:906][338]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Base_Map/Base_Map.Base_Map
+[2019.08.26-14.36.11:495][338]LogSlate: Window 'Save Content' being destroyed
+[2019.08.26-14.36.12:657][338]LogSavePackage: Moving '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Saved/Base_Map3FEF6173462E497CFA821BA660EF16D4.tmp' to '../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/Base_Map/Base_Map.umap'
+[2019.08.26-14.36.12:687][338]LogFileHelpers: Saving map 'Base_Map' took 1.183
+[2019.08.26-14.36.12:689][338]Cmd: MAP LOAD FILE="../../../../../../Users/Meitar/Documents/Unreal Projects/VRFinalProject/VR_Final_Project_v1/Content/Levels/Base_Map/Base_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.26-14.36.12:689][338]LightingResults: New page: Lighting Build
+[2019.08.26-14.36.12:690][338]LoadErrors: New page: Loading map: Base_Map.umap
+[2019.08.26-14.36.12:742][338]MapCheck: New page: Map Check
+[2019.08.26-14.36.12:742][338]LightingResults: New page: Lighting Build
+[2019.08.26-14.36.13:178][338]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-14.36.13:217][338]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/landscape/demo_city) is flushing async loading
+[2019.08.26-14.36.13:217][338]LogStreaming: Display: Flushing async loaders.
+[2019.08.26-14.36.13:920][338]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/landscape/landscape) is flushing async loading
+[2019.08.26-14.36.14:020][338]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Open_safe_stage/open_safe) is flushing async loading
+[2019.08.26-14.36.14:110][338]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Sneak_in_stage/sneak_in) is flushing async loading
+[2019.08.26-14.36.14:131][338]LogLevelStreaming: Display: Failed to find streaming level package file: /Game/Levels/base/Base_Map. This streaming level may not load or save properly.
+[2019.08.26-14.36.14:134][338]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Sneak_out_stage/sneak_out) is flushing async loading
+[2019.08.26-14.36.14:159][338]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.08.26-14.36.14:297][338]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.26-14.36.14:297][338]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Levels/base/Base_Map' which isn't loaded.
+[2019.08.26-14.36.14:299][338]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.383ms to complete.
+[2019.08.26-14.36.14:303][338]LogFileHelpers: Loading map 'Base_Map' took 1.616
+[2019.08.26-14.36.23:307][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.36.25:125][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.36.29:163][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Door_16)
+[2019.08.26-14.36.32:226][597]Cmd: EDIT COPY
+[2019.08.26-14.36.34:824][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.36.41:183][708]LogSlate: Window 'Levels' being destroyed
+[2019.08.26-14.36.41:264][708]LogSlate: Window 'Levels' being destroyed
+[2019.08.26-14.36.44:807][760]Cmd: EDIT PASTE
+[2019.08.26-14.36.48:550][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.36.52:979][875]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-14.36.53:032][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.36.53:033][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.36.53:033][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.36.53:033][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.36.53:033][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.36.53:033][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.36.53:033][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-14.36.53:033][875]PIE: New page: PIE session: Base_Map (26 באוג׳ 2019, 20:36:53)
+[2019.08.26-14.36.53:034][875]LogPlayLevel: Creating play world package: /Game/Levels/Base_Map/UEDPIE_0_Base_Map
+[2019.08.26-14.36.53:201][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.167607s)
+[2019.08.26-14.36.53:202][875]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-14.36.53:202][875]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2019.08.26-14.36.53:202][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Base_Map/Base_Map.Base_Map to /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map (0.169260s)
+[2019.08.26-14.36.53:265][875]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-14.36.53:307][875]LogInit: FAudioDevice initialized.
+[2019.08.26-14.36.53:344][875]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-14.36.53:402][875]LogWorld: Bringing World /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.26-17.36.53
+[2019.08.26-14.36.53:404][875]LogWorld: Bringing up level for play took: 0.059266
+[2019.08.26-14.36.53:422][875]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 1 1 0
+[2019.08.26-14.36.53:422][875]PIE: Play in editor start time for /Game/Levels/Base_Map/UEDPIE_0_Base_Map 0.993
+[2019.08.26-14.36.53:423][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.36.53:423][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.36.53:423][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.36.53:423][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.36.53:423][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.36.53:423][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.36.53:551][875]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in took (less than) 59.05 ms
+[2019.08.26-14.36.54:854][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.36.54:855][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.36.54:856][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.36.54:856][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.36.54:856][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.36.54:856][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.36.54:857][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.36.54:955][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-14.36.54:957][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.36.54:957][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.36.54:957][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.36.54:957][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.36.54:958][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.36.54:958][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.36.55:031][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.36.55:092][914]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.26-14.37.12:101][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.37.12:236][237]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-14.37.12:288][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.37.12:289][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.37.12:289][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.37.12:289][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.37.12:289][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.37.12:289][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.37.12:289][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-14.37.12:290][237]PIE: New page: PIE session: Base_Map (26 באוג׳ 2019, 20:37:12)
+[2019.08.26-14.37.12:290][237]LogPlayLevel: Creating play world package: /Game/Levels/Base_Map/UEDPIE_0_Base_Map
+[2019.08.26-14.37.12:426][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135911s)
+[2019.08.26-14.37.12:427][237]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-14.37.12:427][237]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2019.08.26-14.37.12:428][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Base_Map/Base_Map.Base_Map to /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map (0.137583s)
+[2019.08.26-14.37.12:498][237]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-14.37.12:542][237]LogInit: FAudioDevice initialized.
+[2019.08.26-14.37.12:575][237]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-14.37.12:616][237]LogWorld: Bringing World /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.26-17.37.12
+[2019.08.26-14.37.12:619][237]LogWorld: Bringing up level for play took: 0.042775
+[2019.08.26-14.37.12:635][237]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 1 1 0
+[2019.08.26-14.37.12:635][237]PIE: Play in editor start time for /Game/Levels/Base_Map/UEDPIE_0_Base_Map 0.206
+[2019.08.26-14.37.12:636][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.37.12:636][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.37.12:636][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.37.12:636][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.37.12:636][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.37.12:636][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.37.12:738][237]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in took (less than) 36.55 ms
+[2019.08.26-14.37.18:771][417]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 1 1 0
+[2019.08.26-14.37.18:996][420]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 0 0 0
+[2019.08.26-14.37.32:218][742]LogLevel: ActivateLevel /Game/Levels/Sneak_out_stage/UEDPIE_0_sneak_out 1 1 0
+[2019.08.26-14.37.32:384][744]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 0 0 0
+[2019.08.26-14.38.10:488][716]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-74.75 Y=-149.90 Z=0.00 Location: X=-3967.31 Y=3375.61 Z=507.27 Normal: X=0.22 Y=0.97 Z=0.04 PenetrationDepth:0.543 Actor:SM_Env_Stairway_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.08.26-14.38.55:842][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.38.55:842][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.38.55:843][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.38.55:843][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.38.55:843][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.38.55:843][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.38.55:844][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.38.55:948][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-14.38.55:950][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.38.55:951][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.38.55:951][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.38.55:951][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.38.55:951][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.38.55:951][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.38.56:018][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.38.56:375][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.08.26-14.39.08:556][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.39.10:127][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.39.34:947][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.39.53:584][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.40.07:747][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.40.22:614][498]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2019.08.26-14.40.25:293][547]Cmd: DELETE
+[2019.08.26-14.40.25:294][547]Cmd: ACTOR DELETE
+[2019.08.26-14.40.25:438][547]LogEditorActor: Deleted Actor: Actor
+[2019.08.26-14.40.25:507][547]LogEditorActor: Deleted 1 Actors (0.213 secs)
+[2019.08.26-14.40.31:221][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.41.04:869][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.42.47:389][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.42.49:483][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Roof_05)
+[2019.08.26-14.42.50:001][335]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.42.55:259][435]Cmd: TRANSACTION UNDO
+[2019.08.26-14.42.55:259][435]LogEditorTransaction: Undo Scale Actors
+[2019.08.26-14.42.56:879][461]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.43.12:550][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Floor_46)
+[2019.08.26-14.43.13:367][793]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.43.24:264][ 10]LogEditorViewport: Clicking on Actor (LMB): cup_AI_C (cup_AI2)
+[2019.08.26-14.43.48:704][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.43.48:818][464]LogSlate: Window 'Levels' being destroyed
+[2019.08.26-14.43.48:881][464]LogSlate: Window 'Levels' being destroyed
+[2019.08.26-14.43.50:162][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.44.04:399][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.44.32:835][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.44.42:134][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.44.51:773][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.46.26:614][ 28]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.46.45:104][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.46.49:326][553]LogEditorViewport: Clicking on Actor (LMB): cup_AI_C (cup_AI2)
+[2019.08.26-14.46.53:893][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.47.04:908][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Floor_19)
+[2019.08.26-14.47.07:037][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.47.14:803][ 87]LogEditorViewport: Clicking on Actor (LMB): cup_AI_C (cup_AI2)
+[2019.08.26-14.47.16:614][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.47.20:222][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.47.22:514][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.47.26:309][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.47.30:848][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.47.30:961][419]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-14.47.31:022][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.47.31:023][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.47.31:024][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.47.31:024][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.47.31:024][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.47.31:024][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.47.31:024][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-14.47.31:025][419]PIE: New page: PIE session: Base_Map (26 באוג׳ 2019, 20:47:31)
+[2019.08.26-14.47.31:025][419]LogPlayLevel: Creating play world package: /Game/Levels/Base_Map/UEDPIE_0_Base_Map
+[2019.08.26-14.47.31:193][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.168732s)
+[2019.08.26-14.47.31:194][419]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-14.47.31:195][419]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2019.08.26-14.47.31:195][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Base_Map/Base_Map.Base_Map to /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map (0.170750s)
+[2019.08.26-14.47.31:269][419]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-14.47.31:306][419]LogInit: FAudioDevice initialized.
+[2019.08.26-14.47.31:343][419]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-14.47.31:384][419]LogWorld: Bringing World /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.26-17.47.31
+[2019.08.26-14.47.31:386][419]LogWorld: Bringing up level for play took: 0.042307
+[2019.08.26-14.47.31:403][419]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 1 1 0
+[2019.08.26-14.47.31:403][419]PIE: Play in editor start time for /Game/Levels/Base_Map/UEDPIE_0_Base_Map 0.974
+[2019.08.26-14.47.31:404][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.47.31:404][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.47.31:404][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.47.31:404][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.47.31:404][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.47.31:404][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.47.31:538][419]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in took (less than) 68.74 ms
+[2019.08.26-14.47.50:712][901]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 1 1 0
+[2019.08.26-14.47.50:901][904]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 0 0 0
+[2019.08.26-14.48.04:878][253]LogLevel: ActivateLevel /Game/Levels/Sneak_out_stage/UEDPIE_0_sneak_out 1 1 0
+[2019.08.26-14.48.05:047][255]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 0 0 0
+[2019.08.26-14.48.16:610][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.48.16:612][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.48.16:612][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.48.16:613][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.48.16:613][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.48.16:613][517]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.48.16:615][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.48.16:745][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-14.48.16:747][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.48.16:747][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.48.16:747][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.48.16:747][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.48.16:747][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.48.16:748][517]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.48.16:822][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.48.16:891][518]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.08.26-14.48.18:064][543]LogEditorViewport: Clicking on Actor (LMB): cup_AI_C (cup_AI2)
+[2019.08.26-14.48.29:132][763]LogEditorViewport: Clicking on Actor (LMB): cup_AI_C (cup_AI2)
+[2019.08.26-14.48.31:738][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.48.41:548][ 23]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/cup_AI.cup_AI
+[2019.08.26-14.48.42:318][ 23]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.08.26-14.48.43:088][ 23]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.26-14.48.43:207][ 24]LogSlate: Took 0.000471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.26-14.49.34:515][  7]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-14.49.34:582][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.49.34:583][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.49.34:583][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.49.34:583][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.49.34:584][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.49.34:584][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.49.34:584][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-14.49.34:584][  7]PIE: New page: PIE session: Base_Map (26 באוג׳ 2019, 20:49:34)
+[2019.08.26-14.49.34:584][  7]LogPlayLevel: Creating play world package: /Game/Levels/Base_Map/UEDPIE_0_Base_Map
+[2019.08.26-14.49.34:757][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.172831s)
+[2019.08.26-14.49.34:758][  7]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-14.49.34:758][  7]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2019.08.26-14.49.34:759][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Base_Map/Base_Map.Base_Map to /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map (0.174807s)
+[2019.08.26-14.49.34:839][  7]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-14.49.34:876][  7]LogInit: FAudioDevice initialized.
+[2019.08.26-14.49.34:914][  7]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-14.49.34:961][  7]LogWorld: Bringing World /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.26-17.49.34
+[2019.08.26-14.49.34:963][  7]LogWorld: Bringing up level for play took: 0.049626
+[2019.08.26-14.49.34:980][  7]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 1 1 0
+[2019.08.26-14.49.34:980][  7]PIE: Play in editor start time for /Game/Levels/Base_Map/UEDPIE_0_Base_Map 0.551
+[2019.08.26-14.49.34:981][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.49.34:981][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.49.34:981][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.49.34:981][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.49.34:981][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.49.34:981][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.49.35:116][  7]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in took (less than) 75.63 ms
+[2019.08.26-14.49.35:154][  8]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.08.26-14.49.52:763][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.50.06:960][788]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 1 1 0
+[2019.08.26-14.50.07:187][791]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 0 0 0
+[2019.08.26-14.50.18:360][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.50.41:134][552]LogLevel: ActivateLevel /Game/Levels/Sneak_out_stage/UEDPIE_0_sneak_out 1 1 0
+[2019.08.26-14.50.41:324][554]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 0 0 0
+[2019.08.26-14.50.54:145][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.50.54:146][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.50.54:146][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.50.54:146][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.50.54:146][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.50.54:146][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.50.54:148][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.50.54:277][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-14.50.54:279][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.50.54:279][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.50.54:280][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.50.54:280][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.50.54:280][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.50.54:280][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.50.54:366][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.50.54:456][901]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.26-14.51.03:105][104]LogEditorViewport: Clicking on Actor (LMB): cup_AI_C (cup_AI2)
+[2019.08.26-14.51.04:442][127]Cmd: DELETE
+[2019.08.26-14.51.04:442][127]Cmd: ACTOR DELETE
+[2019.08.26-14.51.04:486][127]LogEditorActor: Deleted Actor: cup_AI_C
+[2019.08.26-14.51.04:578][127]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2019.08.26-14.51.14:197][344]LogEditorViewport: Clicking on Actor (LMB): cup_AI_C (cup_AI)
+[2019.08.26-14.51.15:440][368]Cmd: DELETE
+[2019.08.26-14.51.15:440][368]Cmd: ACTOR DELETE
+[2019.08.26-14.51.15:479][368]LogEditorActor: Deleted Actor: cup_AI_C
+[2019.08.26-14.51.15:575][368]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2019.08.26-14.51.17:724][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.51.25:184][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.51.25:353][603]LogSlate: Window 'cup_AI' being destroyed
+[2019.08.26-14.51.25:405][603]LogSlate: Window 'cup_AI' being destroyed
+[2019.08.26-14.51.38:870][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.51.40:757][948]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.cup1_patrol1) from referencer (cup_AI_C /Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.cup_AI_2).  Import failed...
+[2019.08.26-14.51.42:460][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.51.43:833][ 11]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.cup1_patrol1) from referencer (cup_AI_C /Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.cup_AI_2).  Import failed...
+[2019.08.26-14.51.46:929][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.51.49:734][136]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.cup1_patrol1) from referencer (cup_AI_C /Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.cup_AI_2).  Import failed...
+[2019.08.26-14.51.51:530][174]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.51.53:244][211]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.cup1_patrol2) from referencer (cup_AI_C /Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.cup_AI_2).  Import failed...
+[2019.08.26-14.52.05:960][512]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (cup1_patrol4)
+[2019.08.26-14.52.16:073][745]Cmd: EDIT CUT
+[2019.08.26-14.52.16:226][745]LogEditorActor: Deleted Actor: TargetPoint
+[2019.08.26-14.52.16:303][745]LogEditorActor: Deleted 1 Actors (0.208 secs)
+[2019.08.26-14.52.17:334][773]Cmd: EDIT PASTE
+[2019.08.26-14.52.26:087][982]LogEditorViewport: Clicking on Actor (LMB): cup_AI_C (cup_AI)
+[2019.08.26-14.52.37:897][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.52.42:066][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.52.43:540][362]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TargetPoint /Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.cup1_patrol3) from referencer (cup_AI_C /Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.cup_AI_2).  Import failed...
+[2019.08.26-14.52.49:790][508]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (cup1_patrol2)
+[2019.08.26-14.52.53:994][598]Cmd: EDIT CUT
+[2019.08.26-14.52.54:147][598]LogEditorActor: Deleted Actor: TargetPoint
+[2019.08.26-14.52.54:226][598]LogEditorActor: Deleted 1 Actors (0.205 secs)
+[2019.08.26-14.52.55:063][621]Cmd: EDIT PASTE
+[2019.08.26-14.53.01:036][757]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (cup1_patrol3)
+[2019.08.26-14.53.03:792][818]Cmd: EDIT CUT
+[2019.08.26-14.53.03:944][818]LogEditorActor: Deleted Actor: TargetPoint
+[2019.08.26-14.53.04:019][818]LogEditorActor: Deleted 1 Actors (0.207 secs)
+[2019.08.26-14.53.04:558][833]Cmd: EDIT PASTE
+[2019.08.26-14.53.06:514][877]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (cup1_patrol1)
+[2019.08.26-14.53.07:875][906]Cmd: EDIT CUT
+[2019.08.26-14.53.08:016][906]LogEditorActor: Deleted Actor: TargetPoint
+[2019.08.26-14.53.08:089][906]LogEditorActor: Deleted 1 Actors (0.195 secs)
+[2019.08.26-14.53.08:952][929]Cmd: EDIT PASTE
+[2019.08.26-14.53.10:802][971]LogEditorViewport: Clicking on Actor (LMB): cup_AI_C (cup_AI)
+[2019.08.26-14.53.12:553][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.53.16:256][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.53.18:569][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.53.35:078][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.53.52:462][858]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.54.03:046][ 76]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.26-14.54.15:913][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.54.24:495][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.54.27:163][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.54.30:335][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.54.32:587][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.26-14.54.36:573][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.54.36:660][780]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.26-14.54.36:721][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.54.36:721][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.54.36:721][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.54.36:721][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.54.36:722][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.54.36:722][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.54.36:722][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.26-14.54.36:722][780]PIE: New page: PIE session: Base_Map (26 באוג׳ 2019, 20:54:36)
+[2019.08.26-14.54.36:723][780]LogPlayLevel: Creating play world package: /Game/Levels/Base_Map/UEDPIE_0_Base_Map
+[2019.08.26-14.54.36:901][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178590s)
+[2019.08.26-14.54.36:902][780]LogAIModule: Creating AISystem for world Base_Map
+[2019.08.26-14.54.36:902][780]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2019.08.26-14.54.36:903][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Base_Map/Base_Map.Base_Map to /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map (0.180532s)
+[2019.08.26-14.54.36:989][780]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.26-14.54.37:033][780]LogInit: FAudioDevice initialized.
+[2019.08.26-14.54.37:064][780]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.26-14.54.37:107][780]LogWorld: Bringing World /Game/Levels/Base_Map/UEDPIE_0_Base_Map.Base_Map up for play (max tick rate 60) at 2019.08.26-17.54.37
+[2019.08.26-14.54.37:108][780]LogWorld: Bringing up level for play took: 0.043277
+[2019.08.26-14.54.37:125][780]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 1 1 0
+[2019.08.26-14.54.37:125][780]PIE: Play in editor start time for /Game/Levels/Base_Map/UEDPIE_0_Base_Map 0.696
+[2019.08.26-14.54.37:126][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.54.37:126][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.54.37:126][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.54.37:126][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.54.37:126][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.54.37:126][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.54.37:259][780]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in took (less than) 69.64 ms
+[2019.08.26-14.54.47:447][ 30]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 1 1 0
+[2019.08.26-14.54.47:672][ 33]LogLevel: ActivateLevel /Game/Levels/Sneak_in_stage/UEDPIE_0_sneak_in 0 0 0
+[2019.08.26-14.55.01:110][365]LogLevel: ActivateLevel /Game/Levels/Sneak_out_stage/UEDPIE_0_sneak_out 1 1 0
+[2019.08.26-14.55.01:297][367]LogLevel: ActivateLevel /Game/Levels/Open_safe_stage/UEDPIE_0_open_safe 0 0 0
+[2019.08.26-14.55.19:317][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.55.19:319][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.55.19:321][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.55.19:321][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.55.19:321][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.55.19:322][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.55.19:324][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.55.19:431][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.26-14.55.19:433][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map' with GeneratedClass '/Game/Levels/Base_Map/Base_Map.Base_Map_C' with ClassGeneratedBy '/Game/Levels/Base_Map/Base_Map.Base_Map:PersistentLevel.Base_Map'
+[2019.08.26-14.55.19:433][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city' with GeneratedClass '/Game/Levels/landscape/demo_city.demo_city_C' with ClassGeneratedBy '/Game/Levels/landscape/demo_city.demo_city:PersistentLevel.demo_city'
+[2019.08.26-14.55.19:433][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/landscape/landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape' with GeneratedClass '/Game/Levels/landscape/landscape.landscape_C' with ClassGeneratedBy '/Game/Levels/landscape/landscape.Landscape:PersistentLevel.landscape'
+[2019.08.26-14.55.19:433][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe' with GeneratedClass '/Game/Levels/Open_safe_stage/open_safe.open_safe_C' with ClassGeneratedBy '/Game/Levels/Open_safe_stage/open_safe.open_safe:PersistentLevel.open_safe'
+[2019.08.26-14.55.19:433][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in' with GeneratedClass '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in_C' with ClassGeneratedBy '/Game/Levels/Sneak_in_stage/sneak_in.sneak_in:PersistentLevel.sneak_in'
+[2019.08.26-14.55.19:433][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out' with GeneratedClass '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out_C' with ClassGeneratedBy '/Game/Levels/Sneak_out_stage/sneak_out.sneak_out:PersistentLevel.sneak_out'
+[2019.08.26-14.55.19:530][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.26-14.55.19:600][788]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.08.26-14.55.21:231][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.55.38:693][199]Cmd: DELETE
+[2019.08.26-14.55.38:693][199]Cmd: ACTOR DELETE
+[2019.08.26-14.55.38:812][199]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.08.26-14.55.38:887][199]LogEditorActor: Deleted 1 Actors (0.193 secs)
+[2019.08.26-14.55.40:896][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.26-14.55.43:743][315]LogEditorActor: Deleted Actor: RecastNavMesh
+[2019.08.26-14.55.43:816][315]LogEditorActor: Deleted 1 Actors (0.196 secs)
+[2019.08.26-14.55.45:966][370]Cmd: TRANSACTION UNDO
+[2019.08.26-14.55.45:966][370]LogEditorTransaction: Undo Delete selection
+[2019.08.26-14.55.46:024][370]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.26-14.55.47:420][370]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.395 s
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: 
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: Ensure condition failed: NavDataSet.Find(NavData) != INDEX_NONE [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\NavigationSystem\Private\NavigationSystem.cpp] [Line: 1942]
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: 
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: Stack: 
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffee7f56040 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffee7f4ec65 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffee7ee78ef UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffee7ee7b70 UE4Editor-NavigationSystem.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef0f11798 UE4Editor-Core.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef0f11c56 UE4Editor-Core.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef0f25085 UE4Editor-Core.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff27f41c9c UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff27f189e3 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffee3f494ef UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffee3f2ff12 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffee3f599f0 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffee3c947ca UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffefff3289b UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef0987f74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef0a7cc1f UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef0a477b9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffeef6755a8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffeef64b024 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffeef63140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffeef69b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffeef6df72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffeef67726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffeef630b4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffeef62a786 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffeeff30b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffedbb2773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffedbb27b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef099206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef09d4c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffedbb37562 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffedbb275e9 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef09d69f9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ffef09c9a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff0afddaa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff0afd0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff0afe01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff0afcca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff51026d41 USER32.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff51026713 USER32.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff0afe1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ff69bfe5546 UE4Editor.exe!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ff69bff596c UE4Editor.exe!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ff69bff59ea UE4Editor.exe!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ff69c0048da UE4Editor.exe!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007ff69c00659a UE4Editor.exe!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff4f214034 KERNEL32.DLL!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: [Callstack] 0x00007fff51573691 ntdll.dll!UnknownFunction []
+[2019.08.26-14.55.47:420][370]LogOutputDevice: Error: 
+[2019.08.26-14.55.47:424][370]LogStats:                SubmitErrorReport -  0.000 s
